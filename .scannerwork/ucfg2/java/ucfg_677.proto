@@ -1,0 +1,48 @@
+
+`org.apache.log4j.lf5.util.AdapterLogRecord#getLocationInfo(Ljava/lang/String;)Ljava/lang/String;`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaQ Q(""1*â
+1`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaR R(*•’
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaR/ R(8
+%0java.lang.Throwable"java.lang.Throwable§
+¤
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaR+ R(:
+%1"java.lang.Throwable#<init>()V*
+
+%0java.lang.ThrowableÝÚ
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaR R(;
+%2java.lang.String"forg.apache.log4j.lf5.util.AdapterLogRecord#stackTraceToString(Ljava/lang/Throwable;)Ljava/lang/String;*.,
+*org.apache.log4j.lf5.util.AdapterLogRecord*
+
+%0java.lang.Throwable2)stackTraceToString(Ljava/lang/Throwable;)¥
+¢
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaR R(<
+
+stackTracejava.lang.String"__id*
+
+%2java.lang.StringŽ‹
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaS S(1
+%3java.lang.String"lorg.apache.log4j.lf5.util.AdapterLogRecord#parseLine(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*.,
+*org.apache.log4j.lf5.util.AdapterLogRecord* 
+
+
+stackTracejava.lang.String*
+
+categoryjava.lang.String2/parseLine(Ljava/lang/String;Ljava/lang/String;)Ÿ
+œ
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaS S(2
+linejava.lang.String"__id*
+
+%3java.lang.String"~
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\AdapterLogRecord.javaT T(
+
+linejava.lang.String:
+categoryjava.lang.StringB.,
+*org.apache.log4j.lf5.util.AdapterLogRecord

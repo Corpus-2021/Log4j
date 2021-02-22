@@ -1,0 +1,62 @@
+
+Horg.apache.log4j.LogManager#isLikelySafeScenario(Ljava/lang/Exception;)ZS
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.java∫ ∫(-"1*‡
+1S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaª" ª(4äá
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaª& ª(2
+%0java.io.StringWriter"java.io.StringWriterú
+ô
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaª" ª(4
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriter¢
+ü
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaª ª(5$
+stringWriterjava.io.StringWriter"__id*
+
+%0java.io.StringWriteràÖ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaº º((
+%2java.io.PrintWriter"java.io.PrintWriter“
+œ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaº º(6
+%3"-java.io.PrintWriter#<init>(Ljava/io/Writer;)V*
+
+%2java.io.PrintWriter*&
+$
+stringWriterjava.io.StringWriterÉÄ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaº º(7
+
+%4void";java.lang.Throwable#printStackTrace(Ljava/io/PrintWriter;)V*
+
+exjava.lang.Exception*
+
+%2java.io.PrintWriter2&printStackTrace(Ljava/io/PrintWriter;)◊‘
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaΩ Ω(*
+%5java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*&
+$
+stringWriterjava.io.StringWriter2
+toString()ë
+é
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaΩ Ω(+
+msgjava.lang.String"__id*
+
+%5java.lang.StringÅ˛
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaæ æ(M	
+%6int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+msgjava.lang.String*53
+1org.apache.catalina.loader.WebappClassLoader.stop2indexOf(Ljava/lang/String;)"]
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogManager.javaæ æ(T
+"":
+exjava.lang.ExceptionB"
+org.apache.log4j.LogManager

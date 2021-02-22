@@ -1,0 +1,51 @@
+
+@org.apache.log4j.helpers.PatternParser#extractPrecisionOption()I\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javao o("8*à
+4\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javav v(¶
+³
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javaw	 w(#
+%2java.lang.String"__concat*
+Precision option (*
+
+optjava.lang.String¾
+»
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javaw	 w(C
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+) isn't a positive integer.*
+1*»
+6\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javat t(Ï
+Ì
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javat t(	
+%1int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+optjava.lang.String*
+4
+1*‰
+8\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javap p(€ý
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javap p( 
+%0java.lang.String"Horg.apache.log4j.helpers.PatternParser#extractOption()Ljava/lang/String;**(
+&org.apache.log4j.helpers.PatternParser2extractOption()š
+—
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javap p(!
+optjava.lang.String"__id*
+
+%0java.lang.String*
+6
+1*É
+1\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java ("f
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java (
+""B*(
+&org.apache.log4j.helpers.PatternParser

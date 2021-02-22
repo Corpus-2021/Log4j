@@ -1,0 +1,76 @@
+
+borg.apache.log4j.helpers.OptionConverter#convertSpecialChars(Ljava/lang/String;)Ljava/lang/String;^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java@	 @("21*ß
+2^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaS S(
+ðí
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaS S(
+%5java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+""2	append(C)*
+19
+1*¤
+18^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaI I(¸µ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaI I(
+
+%4char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)*
+2*¨
+19^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaG
+ G(¸µ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaG
+ G(
+
+%3char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)*
+2
+18*œ
+21^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaA A(­ª
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaB B(	
+%0int"java.lang.String#length()I*
+
+sjava.lang.String2length()™–
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaC C((
+%1java.lang.StringBuffer"java.lang.StringBuffer´
+±
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaC C(-
+%2"!java.lang.StringBuffer#<init>(I)V*
+
+%1java.lang.StringBuffer*
+""©
+¦
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaC C(.
+sbufjava.lang.StringBuffer"__id*
+
+%1java.lang.StringBuffer*
+19
+1*À
+1^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaU U(ÞÛ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaU U(
+%6java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"z
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaU U(
+
+%6java.lang.String:
+sjava.lang.StringB,"*
+(org.apache.log4j.helpers.OptionConverter

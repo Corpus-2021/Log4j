@@ -1,0 +1,11 @@
+
+norg.apache.log4j.helpers.DateTimeDateFormat#parse(Ljava/lang/String;Ljava/text/ParsePosition;)Ljava/util/Date;a
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\DateTimeDateFormat.javaR R("1*Ó
+1a
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\DateTimeDateFormat.javaS S("k
+a
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\DateTimeDateFormat.javaS S(
+"":
+sjava.lang.String:
+posjava.text.ParsePositionB/-
++org.apache.log4j.helpers.DateTimeDateFormat

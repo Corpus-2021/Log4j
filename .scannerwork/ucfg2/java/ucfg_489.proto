@@ -1,0 +1,17 @@
+
+gorg.apache.log4j.xml.DOMConfigurator$5#parse(Ljavax/xml/parsers/DocumentBuilder;)Lorg/w3c/dom/Document;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¾ ¾("1*’
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¿ ¿(°­
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¿ ¿(.
+%0org.w3c.dom.Document"Xjavax.xml.parsers.DocumentBuilder#parse(Lorg/xml/sax/InputSource;)Lorg/w3c/dom/Document;*-
++
+parser!javax.xml.parsers.DocumentBuilder*
+""2 parse(Lorg/xml/sax/InputSource;)"|
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¿ ¿(/
+
+%0org.w3c.dom.Document:+
+parser!javax.xml.parsers.DocumentBuilderB*(
+&org.apache.log4j.xml.DOMConfigurator$5

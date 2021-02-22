@@ -1,0 +1,103 @@
+
+@org.apache.log4j.net.SMTPAppender#formatBody()Ljava/lang/String;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÒ Ò("14*„
+2Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaì ì(	ž›
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaì ì(
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+tjava.lang.String2append(Ljava/lang/String;)*
+1*ˆ
+13Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÚ Ú(ž›
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÚ Ú(
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+tjava.lang.String2append(Ljava/lang/String;)*
+3
+9*ì
+3Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaê
+ ê(ƒ
+€
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaê ê(
+tjava.lang.String"__id*
+""*
+2
+1*Ø
+14Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java× ×(,”‘
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java× ×(*
+%0java.lang.StringBuffer"java.lang.StringBuffer¦
+£
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java× ×(,
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer¤
+¡
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java× ×(-
+sbufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBufferƒ
+€
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaØ Ø($
+tjava.lang.String"__id*
+""*
+
+13
+3
+9*§
+6Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaä ä(™
+–
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaä ä(
+%3java.lang.String"
+__arrayGet*
+
+s$Array*
+""Ÿœ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaä ä(
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%3java.lang.String2append(Ljava/lang/String;)*	
+3
+6
+9*ã
+9Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaá á(x
+v
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaá á(+
+s$Array"__id*
+""*	
+3
+6
+9*±
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaï ï(ÙÖ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaï ï(
+%6java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaï ï(
+
+%6java.lang.StringB%#
+!org.apache.log4j.net.SMTPAppender

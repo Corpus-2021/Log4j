@@ -1,0 +1,74 @@
+
+8org.apache.log4j.net.JMSAppender#checkEntryConditions()ZX
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¸ ¸(("9*≈
+2X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaà à(π
+∂
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaà à(9
+%0java.lang.String"__concat*
+
+failjava.lang.String*
+ for JMSAppender named [°
+û
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaà à(>
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+""°
+û
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaà à(C
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+]."b
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaâ â(
+""*¸
+4X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÑ Ñ( î
+ë
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÑ Ñ( 
+failjava.lang.String"__id*
+No TopicPublisher*
+2
+1*˙
+6X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÇ Ç(í
+è
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÇ Ç(
+failjava.lang.String"__id*
+No TopicSession*
+2
+1*˝
+8X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÄ Ä(!ï
+í
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÄ Ä(!
+failjava.lang.String"__id*
+No TopicConnection*
+2
+1*ˆ
+9X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java˝ ˝(Ö
+Ç
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java˝ ˝(
+failjava.lang.String"__id*
+""*
+2
+4
+6
+8
+1*¡
+1X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaã ã("b
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaã ã(
+""B$"
+ org.apache.log4j.net.JMSAppender

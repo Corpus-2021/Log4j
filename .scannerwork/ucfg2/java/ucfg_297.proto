@@ -1,0 +1,121 @@
+
+uorg.apache.log4j.xml.Log4jEntityResolver#resolveEntity(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java% %(""6*ë
+2^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java. .(œ™
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java. .(
+%10org.xml.sax.InputSource"org.xml.sax.InputSourceá
+Þ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java.
+ .(
+%11"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V* 
+
+%10org.xml.sax.InputSource*
+
+injava.io.InputStream"‚
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java. .( 
+
+%10org.xml.sax.InputSource*…
+
+3^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java* *(çä
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java*8 *(N
+%5java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+
+clazzjava.lang.Class2getClassLoader()Ì
+É
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java* *(N
+%6java.lang.String"__concat*&$
+"Could not find [log4j.dtd] using [*
+
+%5java.lang.ClassLoaderÈ
+Å
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java* +(.
+%7java.lang.String"__concat*
+
+%6java.lang.String*'%
+#] class loader, parsed without DTD.¥¢
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java, ,(%"
+%8java.io.ByteArrayInputStream"java.io.ByteArrayInputStreamÁ
+¾
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java, ,(2
+%9"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%8java.io.ByteArrayInputStream*
+""ª
+§
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java, ,(2
+injava.io.InputStream"__id*$
+"
+%8java.io.ByteArrayInputStream*
+2*Ì
+4^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java' '(âß
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java' '(
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*,*
+(org.apache.log4j.xml.Log4jEntityResolver2
+getClass()œ
+™
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java' '(
+clazzjava.lang.Class"__id*
+
+%3java.lang.Class¶³
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java( ((S
+%4java.io.InputStream"Ljava.lang.Class#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
+
+clazzjava.lang.Class*#!
+/org/apache/log4j/xml/log4j.dtd2'getResourceAsStream(Ljava/lang/String;)¡
+ž
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java( ((T
+injava.io.InputStream"__id*
+
+%4java.io.InputStream*
+2
+3*ð
+5^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java&+ &(4‰
+†
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java&+ &(4
+%1java.lang.String"__id*
+""öó
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java&+ &(E
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+publicIdjava.lang.String2equals(Ljava/lang/Object;)*
+4
+1*Ý
+6^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java& &(ïì
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java& &(&
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+systemIdjava.lang.String*
+	log4j.dtd2endsWith(Ljava/lang/String;)*
+4
+5*Í
+1^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java0 0("h
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java0 0(
+"":
+publicIdjava.lang.String:
+systemIdjava.lang.StringB,*
+(org.apache.log4j.xml.Log4jEntityResolver

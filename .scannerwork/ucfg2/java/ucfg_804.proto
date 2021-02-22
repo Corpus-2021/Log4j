@@ -1,0 +1,111 @@
+
+@com.klopotek.utils.log.LogType#parseLogType(Ljava/lang/String;)IJ
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÅ Å(!"11*Ž
+2J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaË! Ë(&g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaË! Ë(&	
+%9int"__id*
+"""T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaË Ë('
+""*¨
+3J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaË Ë(ÎË
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaË Ë(
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_ltjava.lang.String*	
+EMPTY2equals(Ljava/lang/Object;)*
+2
+1*Ž
+4J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ% Ê(.g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ% Ê(.	
+%7int"__id*
+"""T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ Ê(/
+""*¬
+5J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ Ê(ÒÏ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ Ê(
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_ltjava.lang.String*
+	TIMESTAMP2equals(Ljava/lang/Object;)*
+3
+4*Ž
+6J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÉ" É((g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÉ" É((	
+%5int"__id*
+"""T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÉ É()
+""*©
+7J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÉ É(ÏÌ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÉ É(
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_ltjava.lang.String*
+
+STATIC2equals(Ljava/lang/Object;)*
+5
+6*Ž
+8J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È( g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È( 	
+%3int"__id*
+"""T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È(!
+""*¥
+9J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È(ËÈ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_ltjava.lang.String*
+ID2equals(Ljava/lang/Object;)*
+7
+8*
+10J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç("g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç("	
+%1int"__id*
+"""T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(#
+""*¨
+11J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(ÌÉ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_ltjava.lang.String*
+MSG2equals(Ljava/lang/Object;)*
+9
+10*¥
+1J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÍ Í("T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÍ Í(
+"":
+_ltjava.lang.StringB"" 
+com.klopotek.utils.log.LogType

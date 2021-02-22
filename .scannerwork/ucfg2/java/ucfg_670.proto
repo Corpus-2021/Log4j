@@ -1,0 +1,58 @@
+
+Forg.apache.log4j.gui.LogTextPanel#setTextFontName(Ljava/lang/String;)VJ
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.java‡ ‡("4*Å
+2J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaŠ Š(ËÈ
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaŠ8 Š(G
+%3java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+ejava.util.Enumeration2nextElement() 
+
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaŠ Š(M
+
+%4void"hjavax.swing.text.StyleConstants#setFontFamily(Ljavax/swing/text/MutableAttributeSet;Ljava/lang/String;)V*#"!
+javax.swing.text.StyleConstants*
+
+%3java.lang.Object*
+
+namejava.lang.String*
+3*“
+3J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.java‰ ‰(¹¶
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.java‰ ‰(
+%2boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+ejava.util.Enumeration2hasMoreElements()*
+2
+1*ä
+4J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaˆ ˆ("«
+¨
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaˆ ˆ("
+%0java.util.Hashtable"__id*9*7#
+!org.apache.log4j.gui.LogTextPanel"
+fontAttributesÌÉ
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaˆ ˆ(-
+%1java.util.Enumeration"5java.util.Hashtable#elements()Ljava/util/Enumeration;*
+
+%0java.util.Hashtable2
+elements()
+
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaˆ ˆ(.
+ejava.util.Enumeration"__id*
+
+%1java.util.Enumeration*
+3*¥
+1J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaŒ Œ("T
+J
+>C:\q\apache-log4j-1.2.16\contribs\JamesHouse\LogTextPanel.javaŒ Œ(
+"":
+namejava.lang.StringB%#
+!org.apache.log4j.gui.LogTextPanel

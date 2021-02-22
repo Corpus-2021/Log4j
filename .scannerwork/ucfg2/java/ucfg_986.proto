@@ -1,0 +1,11 @@
+
+]org.apache.log4j.Priority#toPriority(ILorg/apache/log4j/Priority;)Lorg/apache/log4j/Priority;Q
+EC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Priority.javaµ µ("1*³
+1Q
+EC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Priority.java¶ ¶("[
+Q
+EC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Priority.java¶ ¶(7
+"":
+"":,
+defaultPriorityorg.apache.log4j.PriorityB"
+org.apache.log4j.Priority

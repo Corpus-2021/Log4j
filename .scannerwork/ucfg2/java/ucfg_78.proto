@@ -1,0 +1,40 @@
+
+8MyConnectionHandler#getConnection()Ljava/sql/Connection;K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javac c(""1*ã
+1K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae e(ê
+ç
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae e(
+%0java.lang.String"__id* *
+MyConnectionHandler"
+urlï
+í
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae e(#
+%1java.lang.String"__id*%*#
+MyConnectionHandler"
+
+usernameï
+í
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae% e(-
+%2java.lang.String"__id*%*#
+MyConnectionHandler"
+
+passwordâÜ
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae e(.
+%3java.sql.Connection"nMyConnectionHandler#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;*
+MyConnectionHandler*
+
+%0java.lang.String*
+
+%1java.lang.String*
+
+%2java.lang.String2EgetConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)"j
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javae e(/
+
+%3java.sql.ConnectionB
+MyConnectionHandler

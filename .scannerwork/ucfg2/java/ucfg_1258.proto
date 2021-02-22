@@ -1,0 +1,387 @@
+
+3org.apache.log4j.net.JMSAppender#activateOptions()VX
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¨ ¨("38*Ì
+24X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java… …(ûõ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java… …("
+%24javax.naming.InitialContext"javax.naming.InitialContextÂ
+‚
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java… …(
+%25":javax.naming.InitialContext#<init>(Ljava/util/Hashtable;)V*$
+"
+%24javax.naming.InitialContext*
+
+envjava.util.Properties*
+23*ﬂ
+25X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java≈ ≈(¯
+ı
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java≈ ∆(<
+%23java.lang.String"__concat*:8
+6You have set SecurityPrincipalName option but not the *:8
+6SecurityCredentials. This is likely to cause problems.*
+24*Û
+26X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java√ √(Ñ
+Å
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java√ √()
+%20java.lang.String"__id*
+""ª
+∏
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java√+ √(>
+%21java.lang.String"__id*=*;"
+ org.apache.log4j.net.JMSAppender"
+securityCredentials«ƒ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java√ √(?
+%22java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+envjava.util.Properties*
+
+%20java.lang.String*
+
+%21java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+24*¶
+27X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¬ ¬(ª
+∏
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¬ ¬(
+%19java.lang.String"__id*=*;"
+ org.apache.log4j.net.JMSAppender"
+securityCredentials*
+25
+26*ı
+28X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¡ ¡(Ñ
+Å
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¡ ¡(%
+%16java.lang.String"__id*
+""Ω
+∫
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¡' ¡(<
+%17java.lang.String"__id*?*="
+ org.apache.log4j.net.JMSAppender"
+securityPrincipalName«ƒ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¡ ¡(=
+%18java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+envjava.util.Properties*
+
+%16java.lang.String*
+
+%17java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+27*®
+29X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¿ ¿(Ω
+∫
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¿ ¿(
+%15java.lang.String"__id*?*="
+ org.apache.log4j.net.JMSAppender"
+securityPrincipalName*
+24
+28*Ó
+30X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaΩ Ω(Ñ
+Å
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaΩ Ω(#
+%12java.lang.String"__id*
+""∂
+≥
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaΩ% Ω(3
+%13java.lang.String"__id*8*6"
+ org.apache.log4j.net.JMSAppender"
+urlPkgPrefixes«ƒ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaΩ Ω(4
+%14java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+envjava.util.Properties*
+
+%12java.lang.String*
+
+%13java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+29*°
+31X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaº º(∂
+≥
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaº º(
+%11java.lang.String"__id*8*6"
+ org.apache.log4j.net.JMSAppender"
+urlPkgPrefixes*
+29
+30*€
+32X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaπ π(	Ù
+Ò
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaπ ∫(8
+%10java.lang.String"__concat*><
+:You have set InitialContextFactoryName option but not the *20
+.ProviderURL. This is likely to cause problems.*
+31*ˇ
+10X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java⁄ €( ∏
+µ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java›- ›(=
+%37java.lang.String"__id*:*8"
+ org.apache.log4j.net.JMSAppender"
+topicBindingName∏
+µ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java› ›(=
+%38java.lang.String"__concat*
+Looking up topic name [*
+
+%37java.lang.String£
+†
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java› ›(B
+%39java.lang.String"__concat*
+
+%38java.lang.String*
+].*
+9*Ê
+33X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∑ ∑(É
+Ä
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∑ ∑(
+%7java.lang.String"__id*
+""≤
+Ø
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∑! ∑(,
+%8java.lang.String"__id*5*3"
+ org.apache.log4j.net.JMSAppender"
+providerURLƒ¡
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∑ ∑(-
+%9java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+envjava.util.Properties*
+
+%7java.lang.String*
+
+%8java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+31*ù
+34X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∂ ∂(≤
+Ø
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∂ ∂(
+%6java.lang.String"__id*5*3"
+ org.apache.log4j.net.JMSAppender"
+providerURL*
+32
+33*∂
+12X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÿ ÿ(œ
+Ã
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÿ Ÿ(!
+%36java.lang.String"__concat*.,
+*Creating TopicSession, non-transactional, *
+in AUTO_ACKNOWLEDGE mode.*
+10*ï
+35X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¥ ¥($û
+õ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¥ ¥($
+envjava.util.Properties"__id*
+
+%1java.util.PropertiesÉ
+Ä
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaµ	 µ((
+%3java.lang.String"__id*
+""¿
+Ω
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaµ* µ(C
+%4java.lang.String"__id*C*A"
+ org.apache.log4j.net.JMSAppender"
+initialContextFactoryNameƒ¡
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaµ µ(D
+%5java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+envjava.util.Properties*
+
+%3java.lang.String*
+
+%4java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+34*ö
+36X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¥ ¥(#èå
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¥ ¥( 
+%1java.util.Properties"java.util.Properties°
+û
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java¥ ¥(#
+%2"java.util.Properties#<init>()V*
+
+%1java.util.Properties*
+35*´
+37X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java≥	 ≥("¿
+Ω
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java≥	 ≥("
+%0java.lang.String"__id*C*A"
+ org.apache.log4j.net.JMSAppender"
+initialContextFactoryName*
+36
+22*
+38X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∞ ∞(â
+Ü
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java∞ ∞(
+jndijavax.naming.Context"__id*
+""*
+37* 
+16X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java“ “()∞
+≠
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java“@ “(H
+%34java.lang.String"__id*2*0"
+ org.apache.log4j.net.JMSAppender"
+
+userName∞
+≠
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java” ”(
+%35java.lang.String"__id*2*0"
+ org.apache.log4j.net.JMSAppender"
+
+password*
+12*õ
+17X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java—	 —(∞
+≠
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java—	 —(
+%33java.lang.String"__id*2*0"
+ org.apache.log4j.net.JMSAppender"
+
+userName*
+16
+12*é
+19X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaœ8 œ(>∂
+≥
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaœE œ(S
+%31java.lang.String"__id*8*6"
+ org.apache.log4j.net.JMSAppender"
+tcfBindingNameÓÎ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaœ8 œ(T
+%32java.lang.Object"corg.apache.log4j.net.JMSAppender#lookup(Ljavax/naming/Context;Ljava/lang/String;)Ljava/lang/Object;*$"
+ org.apache.log4j.net.JMSAppender*
+
+jndijavax.naming.Context*
+
+%31java.lang.String20lookup(Ljavax/naming/Context;Ljava/lang/String;)*
+17*v
+0 "o
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÒ Ò(
+implicit return*ó
+4X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÊ Ê(
+≤Ø
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÊ Ê(
+%42void"javax.naming.Context#close()V*
+
+jndijavax.naming.Context2close()*
+0*é
+9X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaﬁ ﬁ("∏
+µ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaﬁ) ﬁ(9
+%40java.lang.String"__id*:*8"
+ org.apache.log4j.net.JMSAppender"
+topicBindingNameÓÎ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaﬁ ﬁ(:
+%41java.lang.Object"corg.apache.log4j.net.JMSAppender#lookup(Ljavax/naming/Context;Ljava/lang/String;)Ljava/lang/Object;*$"
+ org.apache.log4j.net.JMSAppender*
+
+jndijavax.naming.Context*
+
+%40java.lang.String20lookup(Ljavax/naming/Context;Ljava/lang/String;)*
+4*Ú
+20X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaŒ Œ(∂
+≥
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaŒ" Œ(0
+%28java.lang.String"__id*8*6"
+ org.apache.log4j.net.JMSAppender"
+tcfBindingName≠
+™
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaŒ Œ(0
+%29java.lang.String"__concat*
+Looking up [*
+
+%28java.lang.String¢
+ü
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaŒ Œ(4
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+]*
+19*é
+21X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÀ À(ß
+§
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÀ À(
+jndijavax.naming.Context"__id*$
+"
+%26javax.naming.InitialContext*
+20*π
+22X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÀ À(ûõ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÀ À("
+%26javax.naming.InitialContext"javax.naming.InitialContext±
+Æ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÀ À(
+%27"%javax.naming.InitialContext#<init>()V*$
+"
+%26javax.naming.InitialContext*
+21*é
+23X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java… …(ß
+§
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.java… …(
+jndijavax.naming.Context"__id*$
+"
+%24javax.naming.InitialContext*
+20B$"
+ org.apache.log4j.net.JMSAppender

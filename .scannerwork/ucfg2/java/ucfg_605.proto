@@ -1,0 +1,28 @@
+
+Korg.apache.log4j.lf5.LogLevel#encompasses(Lorg/apache/log4j/lf5/LogLevel;)ZS
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javay y("3*·
+2S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java{ {("]
+S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java{ {(
+""*û
+3S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaz z(ÎË
+S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaz z(	
+%0int".org.apache.log4j.lf5.LogLevel#getPrecedence()I*(
+&
+levelorg.apache.log4j.lf5.LogLevel2getPrecedence()ÇÄ
+S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaz! z(0	
+%1int".org.apache.log4j.lf5.LogLevel#getPrecedence()I*!
+org.apache.log4j.lf5.LogLevel2getPrecedence()*
+2
+1*·
+1S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java~ ~("]
+S
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java~ ~(
+"":&
+levelorg.apache.log4j.lf5.LogLevelB!
+org.apache.log4j.lf5.LogLevel

@@ -1,0 +1,16 @@
+
+IJMSQueueAppender#getQueueConnectionFactoryBindingName()Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javac c(6"1*ê
+1L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javad d()¬
+©
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javad d()
+%0java.lang.String"__id*;*9
+JMSQueueAppender"#
+!queueConnectionFactoryBindingName"h
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javad d(*
+
+%0java.lang.StringB
+JMSQueueAppender

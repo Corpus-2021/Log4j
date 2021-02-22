@@ -1,0 +1,179 @@
+
+Worg.apache.log4j.gui.TextPanelAppender#setOption(Ljava/lang/String;Ljava/lang/String;)VM
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.java~ ~("19*°
+2O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaê ê(≈
+¬
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaê& ê(=
+
+%19int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+1*è
+13O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÖ Ö(µ
+≤
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÖ  Ö(1
+%6java.lang.String"__id*A*?(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_INFO˘ˆ
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÖ Ö(2
+%7boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%6java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+11*ö
+3O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaè è(Ω
+∫
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaè  è(8
+%17java.lang.String"__id*H*F(
+&org.apache.log4j.gui.TextPanelAppender"
+EVENT_BUFFER_SIZE_OPTION˚¯
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaè è(9
+%18boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%17java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*è
+15O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÉ É(µ
+≤
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÉ  É(1
+%4java.lang.String"__id*A*?(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_WARN˘ˆ
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÉ É(2
+%5boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%4java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+13*è
+5O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaç ç(µ
+≤
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaç  ç(0
+%15java.lang.String"__id*@*>(
+&org.apache.log4j.gui.TextPanelAppender"
+FONT_NAME_OPTION˚¯
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaç ç(1
+%16boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%15java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+3*°
+6O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaå å(≈
+¬
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaå# å(:
+
+%14int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+5*ê
+17O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÅ Å(∂
+≥
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÅ  Å(2
+%2java.lang.String"__id*B*@(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_ERROR˘ˆ
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaÅ Å(3
+%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%2java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+15*í
+7O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaã ã(µ
+≤
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaã  ã(0
+%12java.lang.String"__id*@*>(
+&org.apache.log4j.gui.TextPanelAppender"
+FONT_SIZE_OPTION˚¯
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaã ã(1
+%13boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%12java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+5
+6*ä
+19M
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.java (¥
+±
+M
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.java  (2
+%0java.lang.String"__id*B*@(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_FATAL˜Ù
+M
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.java (3
+%1boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%0java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+17*ñ
+9O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaâ â(º
+π
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaâ  â(7
+%10java.lang.String"__id*G*E(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_BACKGROUND˚¯
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaâ â(8
+%11boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%10java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+7*è
+11O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaá á(∂
+≥
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaá  á(2
+%8java.lang.String"__id*B*@(
+&org.apache.log4j.gui.TextPanelAppender"
+COLOR_OPTION_DEBUG˘ˆ
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaá á(3
+%9boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+optionjava.lang.String*
+
+%8java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+9*Ø
+1O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaë ë("Y
+O
+CC:\q\apache-log4j-1.2.16\contribs\JamesHouse\TextPanelAppender.javaë ë(
+"":
+optionjava.lang.String:
+valuejava.lang.StringB*(
+&org.apache.log4j.gui.TextPanelAppender

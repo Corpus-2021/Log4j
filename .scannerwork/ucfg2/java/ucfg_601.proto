@@ -1,0 +1,64 @@
+
+9org.apache.log4j.HTMLLayout#getFooter()Ljava/lang/String;S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaü	 ü("1*ä
+1S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı(*‹
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı((
+%0java.lang.StringBuffer"java.lang.StringBuffer 
+
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı(*
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer
+›
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı(+
+sbufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer
+
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaş ş(,
+%2java.lang.String"__concat*
+
+</table>*
+""™–
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaş ş(-
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%2java.lang.String2append(Ljava/lang/String;)Œ
+‰
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÿ ÿ((
+%4java.lang.String"__concat*
+<br>*
+""™–
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÿ ÿ()
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%4java.lang.String2append(Ljava/lang/String;)“
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java€ €(!
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+</body></html>2append(Ljava/lang/String;)ÓĞ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java (
+%7java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"o
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java (
+
+%7java.lang.StringB
+org.apache.log4j.HTMLLayout

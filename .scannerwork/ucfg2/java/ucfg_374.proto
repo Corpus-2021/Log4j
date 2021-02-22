@@ -1,0 +1,21 @@
+
+Sorg.apache.log4j.net.SocketHubAppender#createServerSocket(I)Ljava/net/ServerSocket;^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketHubAppender.javaì ì(+"1*³
+1^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketHubAppender.javaí í((—”
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketHubAppender.javaí í(
+%0java.net.ServerSocket"java.net.ServerSocket²
+¯
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketHubAppender.javaí í()
+%1" java.net.ServerSocket#<init>(I)V*
+
+%0java.net.ServerSocket*
+"""
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketHubAppender.javaí í(*
+
+%0java.net.ServerSocket:
+""B*(
+&org.apache.log4j.net.SocketHubAppender

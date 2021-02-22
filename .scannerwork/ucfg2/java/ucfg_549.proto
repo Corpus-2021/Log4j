@@ -1,0 +1,14 @@
+
+Horg.apache.log4j.Hierarchy#getCurrentCategories()Ljava/util/Enumeration;R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaÅ Å(""1*¿
+1R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaÆ Æ(ðí
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaÆ Æ(
+%0java.util.Enumeration"Eorg.apache.log4j.Hierarchy#getCurrentLoggers()Ljava/util/Enumeration;*
+org.apache.log4j.Hierarchy2getCurrentLoggers()"s
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaÆ Æ(
+
+%0java.util.EnumerationB
+org.apache.log4j.Hierarchy

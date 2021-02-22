@@ -1,0 +1,46 @@
+
+qorg.apache.log4j.helpers.OptionConverter#findAndSubst(Ljava/lang/String;Ljava/util/Properties;)Ljava/lang/String;`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java©	 ©("7*„
+3`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaØ Ø(%"|
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaØ Ø(%
+
+%1java.lang.String*∆
+4`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaØ Ø(Ÿ
+÷
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaØ Ø($
+%1java.lang.String"norg.apache.log4j.helpers.OptionConverter#substVars(Ljava/lang/String;Ljava/util/Properties;)Ljava/lang/String;*,"*
+(org.apache.log4j.helpers.OptionConverter*
+
+valuejava.lang.String*
+
+propsjava.util.Properties*
+3*—
+6`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java¨ ¨("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java¨ ¨(
+""*µ
+7`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java™ ™(¢ü
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java™ ™()
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)†
+ù
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java™ ™(*
+valuejava.lang.String"__id*
+
+%0java.lang.String*
+4
+6:
+keyjava.lang.String:
+propsjava.util.PropertiesB,"*
+(org.apache.log4j.helpers.OptionConverter

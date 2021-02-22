@@ -1,0 +1,40 @@
+
+horg.apache.log4j.lf5.viewer.configure.MRUFileManager#getInputStream(Ljava/io/File;)Ljava/io/InputStream;l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÌ Ì(&"1*‘
+
+1l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÏ4 Ï(8©¦
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÏ$ Ï(3
+%0java.io.FileInputStream"java.io.FileInputStreamá
+Þ
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÏ  Ï(9
+%1"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%0java.io.FileInputStream*
+
+filejava.io.File±®
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÏ Ï(!
+%2java.io.BufferedInputStream"java.io.BufferedInputStreamù
+ö
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÏ Ï(:
+%3":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%2java.io.BufferedInputStream*
+
+%0java.io.FileInputStreamÃ
+À
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÎ Ï(;%
+readerjava.io.BufferedInputStream"__id*#
+!
+%2java.io.BufferedInputStream"—
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÑ Ñ('
+%
+readerjava.io.BufferedInputStream:
+filejava.io.FileB86
+4org.apache.log4j.lf5.viewer.configure.MRUFileManager

@@ -1,0 +1,42 @@
+
+Norg.apache.log4j.helpers.Loader#loadClass(Ljava/lang/String;)Ljava/lang/Class;W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java² ²("13"11*·
+13W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¶ ¶(ã
+à
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¶ ¶(!
+%0java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+
+clazzjava.lang.String"r
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¶ ¶("
+
+%0java.lang.Class*Ð
+9W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹(&"r
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹(&
+
+%2java.lang.Class*ù
+10W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹($”‘
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹(%
+%2java.lang.Class"Djava.lang.ClassLoader#loadClass(Ljava/lang/String;)Ljava/lang/Class;*
+
+%1java.lang.ClassLoader*
+
+clazzjava.lang.String2loadClass(Ljava/lang/String;)*
+9*Å
+11W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹(ß
+Ü
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java¹ ¹(
+%1java.lang.ClassLoader"?org.apache.log4j.helpers.Loader#getTCL()Ljava/lang/ClassLoader;*#"!
+org.apache.log4j.helpers.Loader*
+10:
+clazzjava.lang.StringB#"!
+org.apache.log4j.helpers.Loader

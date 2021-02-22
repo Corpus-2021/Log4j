@@ -1,0 +1,16 @@
+
+Morg.apache.log4j.spi.ThrowableInformation#getThrowable()Ljava/lang/Throwable;_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaI I("1*ª
+1_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaJ J(Ã
+À
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaJ J(
+%0java.lang.Throwable"__id*<*:+
+)org.apache.log4j.spi.ThrowableInformation"
+	throwable"~
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaJ J(
+
+%0java.lang.ThrowableB-+
+)org.apache.log4j.spi.ThrowableInformation

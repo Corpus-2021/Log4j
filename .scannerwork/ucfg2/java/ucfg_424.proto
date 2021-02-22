@@ -1,0 +1,21 @@
+
+Sorg.apache.log4j.pattern.CachedDateFormat#getNumberFormat()Ljava/text/NumberFormat;a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaÛ Û(%"1*­
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaÜ Ü(Æ
+Ã
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaÜ Ü(
+%0java.text.DateFormat"__id*<*:+
+)org.apache.log4j.pattern.CachedDateFormat"
+	formatterõò
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaÜ Ü(&
+%1java.text.NumberFormat">java.text.DateFormat#getNumberFormat()Ljava/text/NumberFormat;*
+
+%0java.text.DateFormat2getNumberFormat()"ƒ
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaÜ Ü('
+
+%1java.text.NumberFormatB-+
+)org.apache.log4j.pattern.CachedDateFormat

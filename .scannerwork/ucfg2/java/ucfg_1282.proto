@@ -1,0 +1,98 @@
+
+Rorg.apache.log4j.jmx.LoggerDynamicMBean#getMBeanInfo()Ljavax/management/MBeanInfo;]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.javaz z("1*ä
+1]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java}: }(E¾
+»
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java}: }(E
+%0java.util.Vector"__id*<*:)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+dAttributes©¦
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java}: }(L	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()wu
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java}# }(M
+%2$Array"$Array‹
+ˆ
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java} }(N
+attribs$Array"__id*
+
+%2$Array¾
+»
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java~ ~(
+%3java.util.Vector"__id*<*:)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+dAttributesÿü
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java~ ~( 
+%4$Array"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+attribs$Array2toArray([Ljava/lang/Object;)¿
+¼
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java€! €(+
+%5java.lang.String"__id*;*9)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+
+dClassNameÁ
+¾
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java (
+%6java.lang.String"__id*=*;)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+dDescription¸
+µ
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.javaƒ ƒ(
+%7$Array"__id*>*<)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+dConstructors¶
+³
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java„ „(
+%8$Array"__id*<*:)
+'org.apache.log4j.jmx.LoggerDynamicMBean"
+dOperationsyw
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java… …( 
+%9$Array"$Array£ 
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java€ €( !
+%10javax.management.MBeanInfo"javax.management.MBeanInfoñ
+î
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java€ …(!
+%11"åjavax.management.MBeanInfo#<init>(Ljava/lang/String;Ljava/lang/String;[Ljavax/management/MBeanAttributeInfo;[Ljavax/management/MBeanConstructorInfo;[Ljavax/management/MBeanOperationInfo;[Ljavax/management/MBeanNotificationInfo;)V*#
+!
+%10javax.management.MBeanInfo*
+
+%5java.lang.String*
+
+%6java.lang.String*
+
+attribs$Array*
+
+%7$Array*
+
+%8$Array*
+
+%9$Array±
+®
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java€ …(" 
+mbjavax.management.MBeanInfo"__id*#
+!
+%10javax.management.MBeanInfo"…
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java‡ ‡("
+ 
+mbjavax.management.MBeanInfoB+)
+'org.apache.log4j.jmx.LoggerDynamicMBean

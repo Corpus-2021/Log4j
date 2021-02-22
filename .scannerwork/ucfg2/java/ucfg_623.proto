@@ -1,0 +1,83 @@
+
+6org.apache.log4j.performance.ListVsVector#loopChain()Df
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.java?	 ?("7*Õ
+3f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaE E(È
+Å
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaE E(
+
+%2java.lang.String"__id*=*;
+4
+c/org.apache.log4j.performance.ListVsVector$Chain"
+sÁ
+¾
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaE E(
+4+
+)org.apache.log4j.performance.ListVsVector"
+tmp"__id*
+
+%2java.lang.Stringê
+ç
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaF F(5
+%3/org.apache.log4j.performance.ListVsVector$Chain"__id*@*>
+4
+c/org.apache.log4j.performance.ListVsVector$Chain"
+nextà
+Ý
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaF F(4
+c/org.apache.log4j.performance.ListVsVector$Chain"__id*7
+5
+%3/org.apache.log4j.performance.ListVsVector$Chain*	
+3
+5
+1*½
+5f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaC
+ C(á
+Þ
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaC
+ C(5
+%1/org.apache.log4j.performance.ListVsVector$Chain"__id*7*5+
+)org.apache.log4j.performance.ListVsVector"
+headà
+Ý
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaC C(4
+c/org.apache.log4j.performance.ListVsVector$Chain"__id*7
+5
+%1/org.apache.log4j.performance.ListVsVector$Chain*	
+3
+5
+1*Ü
+7f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.java@ @(´
+±
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.java@ @(,
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System¯
+¬
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaA A(4
+c/org.apache.log4j.performance.ListVsVector$Chain"__id*
+""*
+5
+1*”
+1f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaI I(´
+±
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaI I(&
+
+%4long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System"p
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaI I(C
+""B-"+
+)org.apache.log4j.performance.ListVsVector

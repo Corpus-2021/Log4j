@@ -1,0 +1,25 @@
+
+Jorg.apache.log4j.Level#toLevel(Ljava/lang/String;)Lorg/apache/log4j/Level;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javar r("1*í
+1L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javas s(|
+z
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javas! s(,
+%0org.apache.log4j.Level"__id*
+""«
+¨
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javas s(-
+%1org.apache.log4j.Level"borg.apache.log4j.Level#toLevel(Ljava/lang/String;Lorg/apache/log4j/Level;)Lorg/apache/log4j/Level;*"
+org.apache.log4j.Level*
+
+sArgjava.lang.String*
+
+%0org.apache.log4j.Level"n
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javas s(.
+
+%1org.apache.log4j.Level:
+sArgjava.lang.StringB"
+org.apache.log4j.Level

@@ -1,0 +1,16 @@
+
+8JMSQueueAppender#getQueueBindingName()Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javas s(%"1*Ù
+1L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javat t(›
+˜
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javat t(
+%0java.lang.String"__id***(
+JMSQueueAppender"
+queueBindingName"h
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javat t(
+
+%0java.lang.StringB
+JMSQueueAppender

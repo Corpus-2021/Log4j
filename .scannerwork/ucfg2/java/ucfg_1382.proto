@@ -1,0 +1,64 @@
+
+Yorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createLogLevelColorMenu()Ljavax/swing/JMenu;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java ()"4*Ç
+2d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java† †(ÖÓ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java†1 †(>
+%5java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*
+
+levelsjava.util.Iterator2next()*
+3*¶
+3d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java… …(Â¿
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java… …(
+%4boolean"java.util.Iterator#hasNext()Z*
+
+levelsjava.util.Iterator2	hasNext()*
+2
+1*±
+
+4d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‚  ‚(;•’
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‚ ‚(
+%0javax.swing.JMenu"javax.swing.JMenuØ
+Õ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‚ ‚(<
+%1"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenu*
+Configure LogLevel Colorsª
+§
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‚ ‚(=
+	colorMenujavax.swing.JMenu"__id*
+
+%0javax.swing.JMenuÛØ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaƒ ƒ(
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V* 
+
+	colorMenujavax.swing.JMenu*
+""2setMnemonic(C)–“
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java„ „($
+%3java.util.Iterator"Oorg.apache.log4j.lf5.viewer.LogBrokerMonitor#getLogLevels()Ljava/util/Iterator;*0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor2getLogLevels()©
+¦
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java„ „(%
+levelsjava.util.Iterator"__id*
+
+%3java.util.Iterator*
+3*ô
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‰ ‰("ˆ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java‰ ‰( 
+
+	colorMenujavax.swing.JMenuB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

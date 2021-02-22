@@ -1,0 +1,20 @@
+
+Rorg.apache.log4j.or.DefaultRenderer#doRender(Ljava/lang/Object;)Ljava/lang/String;Y
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\DefaultRenderer.java#	 #("4*Õ
+3Y
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\DefaultRenderer.java% %( "u
+Y
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\DefaultRenderer.java% %( 
+
+%0java.lang.String*°
+4Y
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\DefaultRenderer.java% %(ÊÇ
+Y
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\DefaultRenderer.java% %(
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+ojava.lang.Object2
+toString()*
+3:
+ojava.lang.ObjectB'%
+#org.apache.log4j.or.DefaultRenderer

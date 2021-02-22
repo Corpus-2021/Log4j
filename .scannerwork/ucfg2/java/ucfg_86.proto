@@ -1,0 +1,37 @@
+
+Korg.apache.log4j.jmx.LayoutDynamicMBean#isSupportedType(Ljava/lang/Class;)Z]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javay
+ y("7*Ï
+2_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‚ ‚("i
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‚ ‚(
+""*Ë
+4]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java ("g
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java (
+""*Ë
+6]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java{ {("g
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java{ {(
+""*¯
+7]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaz z(¼¹
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaz z(
+%0boolean"java.lang.Class#isPrimitive()Z*
+
+clazzjava.lang.Class2isPrimitive()*
+2
+4
+6
+1*Ï
+1_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java… …("i
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java… …(
+"":
+clazzjava.lang.ClassB+)
+'org.apache.log4j.jmx.LayoutDynamicMBean

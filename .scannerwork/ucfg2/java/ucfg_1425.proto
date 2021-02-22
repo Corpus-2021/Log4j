@@ -1,0 +1,69 @@
+
+Vorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createEditFindMI()Ljavax/swing/JMenuItem;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÖ	 Ö	(&"1*†
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÜ	) Ü	(/ùö
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÜ	 Ü	((
+%0javax.swing.JMenuItem"javax.swing.JMenuItemÀ
+»
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÜ	 Ü	(0
+%1"1javax.swing.JMenuItem#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenuItem*
+Find≥
+∞
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÜ	 Ü	(1#
+
+editFindMIjavax.swing.JMenuItem"__id*
+
+%0javax.swing.JMenuItem‡›
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaá	 á	(
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V*%
+#
+
+editFindMIjavax.swing.JMenuItem*
+""2setMnemonic(C)ˇ
+¸
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaà	 à	(A
+%3javax.swing.KeyStroke"Mjavax.swing.KeyStroke#getKeyStroke(Ljava/lang/String;)Ljavax/swing/KeyStroke;*"
+javax.swing.KeyStroke*
+	control F§°
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaà	 à	(B
+
+%4void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*%
+#
+
+editFindMIjavax.swing.JMenuItem*
+
+%3javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)—Œ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaã	 ã	(5
+%5/org.apache.log4j.lf5.viewer.LogBrokerMonitor$26"/org.apache.log4j.lf5.viewer.LogBrokerMonitor$26ƒ
+¡
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaã	 ó	(	
+%6"java.lang.Object#<init>()V*7
+5
+%5/org.apache.log4j.lf5.viewer.LogBrokerMonitor$26Ÿ÷
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaä	 ô	(
+
+%7void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*%
+#
+
+editFindMIjavax.swing.JMenuItem*7
+5
+%5/org.apache.log4j.lf5.viewer.LogBrokerMonitor$2622addActionListener(Ljava/awt/event/ActionListener;)"ç
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaö	 ö	(%
+#
+
+editFindMIjavax.swing.JMenuItemB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

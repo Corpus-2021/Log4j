@@ -1,0 +1,43 @@
+
+aorg.apache.log4j.lf5.viewer.LogFactor5Dialog#getDefaultConstraints()Ljava/awt/GridBagConstraints;b
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.java{ {(4"1*æ
+
+1b
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.java|% |(=ß§
+b
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.java|) |(;!
+%0java.awt.GridBagConstraints"java.awt.GridBagConstraintsπ
+∂
+b
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.java|% |(=
+%1"%java.awt.GridBagConstraints#<init>()V*#
+!
+%0java.awt.GridBagConstraintsæ
+ª
+b
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.java| |(>*
+constraintsjava.awt.GridBagConstraints"__id*#
+!
+%0java.awt.GridBagConstraintsëé
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.javaÅ Å(#
+%2java.awt.Insets"java.awt.Insetsø
+º
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.javaÅ Å(/
+%3"java.awt.Insets#<init>(IIII)V*
+
+%2java.awt.Insets*2*2*2*2¿
+Ω
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.javaÅ Å(/6
+*
+constraintsjava.awt.GridBagConstraints"
+insets"__id*
+
+%2java.awt.Insets"î
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5Dialog.javaá á(,
+*
+constraintsjava.awt.GridBagConstraintsB0.
+,org.apache.log4j.lf5.viewer.LogFactor5Dialog

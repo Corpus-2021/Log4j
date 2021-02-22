@@ -1,0 +1,191 @@
+
+Sorg.apache.log4j.helpers.Transform#escapeTags(Ljava/lang/String;)Ljava/lang/String;X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java+ +(!"16"21*≠
+13X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java@ @(∂≥
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java@ @(
+
+%9char"java.lang.String#charAt(I)C*
+
+inputjava.lang.String*
+""2	charAt(I)*
+3
+4
+6
+8
+10
+12*Ø
+15X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java;( ;(-´®
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java;( ;(6	
+%5int"java.lang.String#length()I*
+
+inputjava.lang.String2length()ìê
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java; ;('
+%6java.lang.StringBuffer"java.lang.StringBufferÆ
+´
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java; ;(;
+%7"!java.lang.StringBuffer#<init>(I)V*
+
+%6java.lang.StringBuffer*
+""¢
+ü
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java; ;(<
+bufjava.lang.StringBuffer"__id*
+
+%6java.lang.StringBuffer´®
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java> >(	
+%8int"java.lang.String#length()I*
+
+inputjava.lang.String2length()*
+13
+1*◊
+16X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java5 5("w
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java5 5(
+
+inputjava.lang.String*¢
+17X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java4 4(∑¥
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java4 4(	
+%4int"java.lang.String#indexOf(I)I*
+
+inputjava.lang.String*
+""2
+indexOf(I)*
+15
+16*¢
+18X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java3 3(∑¥
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java3 3(	
+%3int"java.lang.String#indexOf(I)I*
+
+inputjava.lang.String*
+""2
+indexOf(I)*
+15
+17*¢
+19X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java2 2(∑¥
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java2 2(	
+%2int"java.lang.String#indexOf(I)I*
+
+inputjava.lang.String*
+""2
+indexOf(I)*
+15
+18*Ø
+1X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaO O(ÿ’
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaO O(
+%16java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"u
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaO O(
+
+%16java.lang.String*”
+3X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaL L(
+ÍÁ
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaL L(
+%15java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""2	append(C)*
+13
+1*˘
+4X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaJ J(
+êç
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaJ J(
+%14java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+
+&quot;2append(Ljava/lang/String;)*
+13
+1*¯
+6X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaH H(
+èå
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaH H(
+%13java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*	
+&amp;2append(Ljava/lang/String;)*
+13
+1*˜
+8X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaF F(
+éã
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaF F(
+%12java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+&gt;2append(Ljava/lang/String;)*
+13
+1*¢
+20X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java1 1(∑¥
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java1 1(	
+%1int"java.lang.String#indexOf(I)I*
+
+inputjava.lang.String*
+""2
+indexOf(I)*
+15
+19*ñ
+21X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java0
+ 0(´®
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.java0
+ 0(	
+%0int"java.lang.String#length()I*
+
+inputjava.lang.String2length()*
+16
+20*¯
+10X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaD D(
+éã
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaD D(
+%11java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+&lt;2append(Ljava/lang/String;)*
+13
+1*‘
+12X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaB
+ B(ÍÁ
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Transform.javaB
+ B(
+%10java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""2	append(C)*
+13
+1:
+inputjava.lang.StringB&"$
+"org.apache.log4j.helpers.Transform

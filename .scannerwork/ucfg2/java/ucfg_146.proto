@@ -1,0 +1,194 @@
+
+àorg.apache.log4j.helpers.OptionConverter#instantiateByClassName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java¬	 ¬("19"1*›
+13`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÀ À(	ÓÎ
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÀ À(/
+%9java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+
+
+superClassjava.lang.Class2getClassLoader()*
+12*›
+14`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java   (4≥
+∞
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java   (4
+%7java.lang.String"__concat*
+The class \"*
+
+%6java.lang.String∏
+µ
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java   (H
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+\" was loaded by *
+13*≈
+15`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java   (	÷”
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java    (4
+%6java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+
+superClassjava.lang.Class2	getName()*
+14*‡
+16`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» …(ª
+∏
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» …(
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String≥
+∞
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» …(.
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+\" variable.*
+15*«
+17`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» »(	≤
+Ø
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» »( 
+%1java.lang.String"__concat*
+A \"*
+
+	classNamejava.lang.String 
+«
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java» »(F
+%2java.lang.String"__concat*
+
+%1java.lang.String*'%
+#\" object is not assignable to a \"÷”
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java…	 …(
+%3java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+
+superClassjava.lang.Class2	getName()*
+16*î
+19`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java∆ ∆(.ê
+ç
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java∆ ∆(.
+classObjjava.lang.Class"__id*
+""èå
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java« «(*
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+
+superClassjava.lang.Class*
+
+classObjjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+17
+7*Ó
+1`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java€ €("Ü
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java€ €("
+ 
+defaultValuejava.lang.Object*‰
+6`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java– –("}
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java– –(
+
+%18java.lang.Object* 
+7`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java– –(›⁄
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java– –(
+%18java.lang.Object"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+classObjjava.lang.Class2newInstance()*
+6*Ó
+8`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaŒ
+ Œ("Ü
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaŒ Œ("
+ 
+defaultValuejava.lang.Object*ﬁ
+9`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Õ(#√
+¿
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Õ(#
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.ClassLoader´
+®
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Õ((
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+].*
+8*«
+10`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Ã((´
+®
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Ã((
+%13java.lang.String"__concat*
+\"*
+
+%12java.lang.Stringª
+∏
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Ã(=
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+\" was loaded by [ÌÍ
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÕ
+ Õ(#
+%15java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+
+classObjjava.lang.Class2getClassLoader()*
+9*ƒ
+11`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Ã(	’“
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÃ Ã((
+%12java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+classObjjava.lang.Class2	getName()*
+10*‚
+12`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÀ À(/Æ
+´
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÀ À(/
+%10java.lang.String"__concat*
+[*
+
+%9java.lang.ClassLoader¬
+ø
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaÀ À(K
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+] whereas object of type *
+11:
+	classNamejava.lang.String:
+
+superClassjava.lang.Class: 
+defaultValuejava.lang.ObjectB,"*
+(org.apache.log4j.helpers.OptionConverter

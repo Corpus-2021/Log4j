@@ -1,0 +1,28 @@
+
+Jorg.apache.log4j.gui.JTableAppender#getPreferredSize()Ljava/awt/Dimension;O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaK K("1*ç
+1O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaL L(
+|
+z
+O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaL L(
+%0java.io.PrintStream"__id*
+""ëè
+O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaL L(3
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+getPreferredSize() called2println(Ljava/lang/String;)µ
+²
+O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaM M(#
+%2java.awt.Dimension"=javax.swing.JComponent#getPreferredSize()Ljava/awt/Dimension;*
+"""m
+O
+EC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\JTableAppender.javaM M($
+
+%2java.awt.DimensionB'%
+#org.apache.log4j.gui.JTableAppender

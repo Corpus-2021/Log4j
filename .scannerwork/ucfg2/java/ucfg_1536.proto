@@ -1,0 +1,57 @@
+
++org.apache.log4j.lf5.LogRecord#hasThrown()ZT
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javan n("5*Ð
+2T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javat# t(/ÈÅ
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javat# t(6
+%2java.lang.String")java.lang.String#trim()Ljava/lang/String;*"
+ 
+thrownStringjava.lang.String2trim()¤¡
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javat# t(?	
+%3int"java.lang.String#length()I*
+
+%2java.lang.String2length()*
+1*Ò
+3T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javas s( ÐÍ
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javas s(+
+%1java.lang.String"0java.lang.Throwable#toString()Ljava/lang/String;*
+
+thrownjava.lang.Throwable2
+toString()›
+˜
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javas s(, 
+thrownStringjava.lang.String"__id*
+
+%1java.lang.String*
+2
+1*¹
+4T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaq q("^
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaq q(
+""*è
+5T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javao o( æã
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javao o("
+%0java.lang.Throwable"?org.apache.log4j.lf5.LogRecord#getThrown()Ljava/lang/Throwable;*" 
+org.apache.log4j.lf5.LogRecord2getThrown()›
+˜
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javao o(#
+thrownjava.lang.Throwable"__id*
+
+%0java.lang.Throwable*
+3
+4*¹
+1T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javat t(E"^
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javat t(E
+""B" 
+org.apache.log4j.lf5.LogRecord

@@ -1,0 +1,22 @@
+
+corg.apache.log4j.net.JMSAppender#lookup(Ljavax/naming/Context;Ljava/lang/String;)Ljava/lang/Object;X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÛ Û("4*”
+3X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaı ı("t
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaı ı(
+
+%0java.lang.Object*Ù
+4X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaı ı(èå
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaı ı(
+%0java.lang.Object"Ajavax.naming.Context#lookup(Ljava/lang/String;)Ljava/lang/Object;*
+
+ctxjavax.naming.Context*
+
+namejava.lang.String2lookup(Ljava/lang/String;)*
+3:
+ctxjavax.naming.Context:
+namejava.lang.StringB$"
+ org.apache.log4j.net.JMSAppender

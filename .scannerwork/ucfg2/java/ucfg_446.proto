@@ -1,0 +1,60 @@
+
+Horg.apache.log4j.net.SyslogAppender#getLocalHostname()Ljava/lang/String;[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaä ä(!"7*¢
+2[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaè è(.º
+·
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaè è(.8%
+#org.apache.log4j.net.SyslogAppender"
+localHostname"__id*
+
+%2java.lang.String*
+1*ê
+4[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaç ç(:¢
+Ÿ
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaç ç(:
+addrjava.net.InetAddress"__id*
+
+%1java.net.InetAddressÝÚ
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaè è(.
+%2java.lang.String"4java.net.InetAddress#getHostName()Ljava/lang/String;*
+
+addrjava.net.InetAddress2getHostName()*
+2*¹
+5[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaç ç(*Ñ
+Î
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaç ç(9
+%1java.net.InetAddress"9java.net.InetAddress#getLocalHost()Ljava/net/InetAddress;*"
+java.net.InetAddress*
+4*¥
+7[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaå
+ å(º
+·
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaå
+ å(
+%0java.lang.String"__id*:*8%
+#org.apache.log4j.net.SyslogAppender"
+localHostname*
+5
+1*–
+1[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaí í(º
+·
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaí í(
+%3java.lang.String"__id*:*8%
+#org.apache.log4j.net.SyslogAppender"
+localHostname"w
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.javaí í(
+
+%3java.lang.StringB'%
+#org.apache.log4j.net.SyslogAppender

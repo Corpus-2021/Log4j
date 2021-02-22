@@ -1,0 +1,27 @@
+
+zorg.apache.log4j.jmx.LayoutDynamicMBean#invoke(Ljava/lang/String;[Ljava/lang/Object;[Ljava/lang/String;)Ljava/lang/Object;_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaš	 š("4*ß
+2_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java )  (/"y
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java¢ ¢("
+Options activated.*æ
+4_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaž ž(÷ô
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaž ž(.
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*#
+!
+operationNamejava.lang.String*
+activateOptions2equals(Ljava/lang/Object;)*
+2
+1*Ï
+1_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java¤ ¤("i
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java¤ ¤(
+"":!
+operationNamejava.lang.String:
+params$Array:
+	signature$ArrayB+)
+'org.apache.log4j.jmx.LayoutDynamicMBean

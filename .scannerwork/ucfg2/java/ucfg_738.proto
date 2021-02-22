@@ -1,0 +1,35 @@
+
+2org.apache.log4j.NDC#cloneStack()Ljava/util/Stack;L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java¯ ¯("3*©
+2L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java² ²("V
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java² ²(
+""*¤
+3L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java° °(!»
+¸
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java° °(#
+%0java.util.Stack"7org.apache.log4j.NDC#getCurrentStack()Ljava/util/Stack;*"
+org.apache.log4j.NDCŠ
+‡
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java° °($
+stackjava.util.Stack"__id*
+
+%0java.util.Stack*
+2
+1*ø
+1L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java´ ´(º·
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java´ ´("
+%1java.lang.Object"*java.util.Vector#clone()Ljava/lang/Object;*
+
+stackjava.util.Stack2clone()"h
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java´ ´(#
+
+%1java.lang.ObjectB"
+org.apache.log4j.NDC

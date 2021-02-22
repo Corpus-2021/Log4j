@@ -1,0 +1,36 @@
+
+Vorg.apache.log4j.pattern.CachedDateFormat#getMaximumCacheValidity(Ljava/lang/String;)Ia
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaæ æ(+"4*Ó
+2a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaï ï("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaï ï(
+""*Þ
+3a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaî î( íê
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaî$ î(>	
+%1int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+patternjava.lang.String*
+SSS2lastIndexOf(Ljava/lang/String;)*
+2
+1*³
+4a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaì ì(Â¿
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaì ì(%	
+%0int"java.lang.String#indexOf(I)I*
+
+patternjava.lang.String*
+""2
+indexOf(I)*
+3
+1*Ó
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaò ò("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\CachedDateFormat.javaò ò(
+"":
+patternjava.lang.StringB-"+
+)org.apache.log4j.pattern.CachedDateFormat

@@ -1,0 +1,92 @@
+
+Uorg.apache.log4j.jmx.HierarchyDynamicMBean#getMBeanInfo()Ljavax/management/MBeanInfo;b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.javaž ž("1*þ
+1b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¡: ¡(EÆ
+Ã
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¡: ¡(E
+%0java.util.Vector"__id*?*=,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+vAttributes®«
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¡: ¡(L	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()|z
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¡# ¡(M
+%2$Array"$Array
+
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¡ ¡(N
+attribs$Array"__id*
+
+%2$ArrayÆ
+Ã
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¢ ¢(
+%3java.util.Vector"__id*?*=,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+vAttributes„
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¢ ¢( 
+%4$Array"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+attribs$Array2toArray([Ljava/lang/Object;)Å
+Â
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¤ ¤(#
+%5java.lang.String"__id*>*<,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+
+dClassNameÇ
+Ä
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¥ ¥(
+%6java.lang.String"__id*@*>,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+dDescription¾
+»
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java§ §(
+%7$Array"__id*A*?,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+dConstructors¼
+¹
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¨ ¨(
+%8$Array"__id*?*=,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+dOperations|z
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java© ©( 
+%9$Array"$Array¦£
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¤ ¤(!
+%10javax.management.MBeanInfo"javax.management.MBeanInfoô
+ñ
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¤ ©(!
+%11"åjavax.management.MBeanInfo#<init>(Ljava/lang/String;Ljava/lang/String;[Ljavax/management/MBeanAttributeInfo;[Ljavax/management/MBeanConstructorInfo;[Ljavax/management/MBeanOperationInfo;[Ljavax/management/MBeanNotificationInfo;)V*#
+!
+%10javax.management.MBeanInfo*
+
+%5java.lang.String*
+
+%6java.lang.String*
+
+attribs$Array*
+
+%7$Array*
+
+%8$Array*
+
+%9$Array"‰
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java¤ ©("#
+!
+%10javax.management.MBeanInfoB.,
+*org.apache.log4j.jmx.HierarchyDynamicMBean

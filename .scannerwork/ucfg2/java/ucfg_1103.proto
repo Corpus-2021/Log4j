@@ -1,0 +1,47 @@
+
+Gorg.apache.log4j.lf5.util.StreamUtils#getBytes(Ljava/io/InputStream;)[B[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javah h("1*Ì
+1[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javaj# j(>¤¡
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javaj' j(<#
+%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream¶
+³
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javaj# j(>
+%1"'java.io.ByteArrayOutputStream#<init>()V*%
+#
+%0java.io.ByteArrayOutputStream¶
+³
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javaj j(?'
+resultjava.io.ByteArrayOutputStream"__id*%
+#
+%0java.io.ByteArrayOutputStream¼
+¹
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javak k(
+
+%2void"Xorg.apache.log4j.lf5.util.StreamUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;)V*)"'
+%org.apache.log4j.lf5.util.StreamUtils*
+
+inputjava.io.InputStream*)
+'
+resultjava.io.ByteArrayOutputStreamÈÅ
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javal l(
+
+%3void"&java.io.ByteArrayOutputStream#close()V*)
+'
+resultjava.io.ByteArrayOutputStream2close()×Ô
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javam m(
+%4$Array"-java.io.ByteArrayOutputStream#toByteArray()[B*)
+'
+resultjava.io.ByteArrayOutputStream2toByteArray()"m
+[
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\StreamUtils.javam m( 
+
+%4$Array:
+inputjava.io.InputStreamB)"'
+%org.apache.log4j.lf5.util.StreamUtils

@@ -1,0 +1,35 @@
+
+6org.apache.log4j.MDC#getContext()Ljava/util/Hashtable;J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javan n($"3*ø
+2J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javap p(x
+v
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javap p(
+%1org.apache.log4j.MDC"__id*
+""Á
+¾
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javap p( 
+%2java.util.Hashtable"7org.apache.log4j.MDC#getContext0()Ljava/util/Hashtable;*
+
+%1org.apache.log4j.MDC"i
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javap p(!
+
+%2java.util.Hashtable*Ñ
+3J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javao o(x
+v
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javao o(
+%0org.apache.log4j.MDC"__id*
+""*
+2
+1*¥
+1J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javar r("T
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javar r(
+""B"
+org.apache.log4j.MDC

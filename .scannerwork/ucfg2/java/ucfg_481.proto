@@ -1,0 +1,28 @@
+
+gorg.apache.log4j.xml.DOMConfigurator$1#parse(Ljavax/xml/parsers/DocumentBuilder;)Lorg/w3c/dom/Document;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaì ì("1*Â
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaí í(ƒ€
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaí& í(*
+%0java.io.File"java.io.File¯
+¬
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaí" í(4
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+""¨¥
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaí í(5
+%2org.w3c.dom.Document"Mjavax.xml.parsers.DocumentBuilder#parse(Ljava/io/File;)Lorg/w3c/dom/Document;*-
++
+parser!javax.xml.parsers.DocumentBuilder*
+
+%0java.io.File2parse(Ljava/io/File;)"|
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaí í(6
+
+%2org.w3c.dom.Document:+
+parser!javax.xml.parsers.DocumentBuilderB*(
+&org.apache.log4j.xml.DOMConfigurator$1

@@ -1,0 +1,39 @@
+
+@org.apache.log4j.performance.SystemTime#currentThreadNameloop()Dd
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java8	 8("5*–
+3d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java; ;(Ë
+È
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java; ;(
+%1java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.ThreadÔÑ
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java; ;(&
+%2java.lang.String",java.lang.Thread#getName()Ljava/lang/String;*
+
+%1java.lang.Thread2	getName()*
+3
+1*¦
+5d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java9 9(²
+¯
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java9 9(,
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+3
+1*Ž
+1d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java= =(²
+¯
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java= =(&
+
+%3long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System"n
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java= =(C
+""B+")
+'org.apache.log4j.performance.SystemTime

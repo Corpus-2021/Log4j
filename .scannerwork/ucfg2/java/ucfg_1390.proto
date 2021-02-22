@@ -1,0 +1,75 @@
+
+Iorg.apache.log4j.lf5.viewer.LogBrokerMonitor#updateView()Ljava/util/List;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaü ü("5*Ğ
+3d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java€/ €(=ŞÛ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java€/ €(D
+%5java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*&
+$
+columnIteratorjava.util.Iterator2next() 
+
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java (C'
+resultjavax.swing.JCheckBoxMenuItem"__id*
+""ÛØ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaƒ
+ ƒ(
+%6boolean"(javax.swing.AbstractButton#isSelected()Z*)
+'
+resultjavax.swing.JCheckBoxMenuItem2isSelected()*
+4*¾
+4d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÿ ÿ(ÊÇ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÿ ÿ(#
+%4boolean"java.util.Iterator#hasNext()Z*&
+$
+columnIteratorjava.util.Iterator2	hasNext()*
+3
+1*À	
+5d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaı ı(+™–
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaı  ı()
+%0java.util.ArrayList"java.util.ArrayList«
+¨
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaı ı(+
+%1"java.util.ArrayList#<init>()V*
+
+%0java.util.ArrayList°
+­
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaı ı(,"
+updatedListjava.util.ArrayList"__id*
+
+%0java.util.ArrayListÅ
+Â
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaş ş(&
+%2java.util.List"__id*>*<.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor"
+
+_columnsÖÓ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaş ş(1
+%3java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%2java.util.List2
+iterator()±
+®
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaş ş(2$
+columnIteratorjava.util.Iterator"__id*
+
+%3java.util.Iterator*
+4*ø
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaˆ ˆ("Œ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaˆ ˆ($
+"
+updatedListjava.util.ArrayListB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

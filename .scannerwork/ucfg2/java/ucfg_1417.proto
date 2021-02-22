@@ -1,0 +1,44 @@
+
+Porg.apache.log4j.lf5.viewer.LogBrokerMonitor#createHelpMenu()Ljavax/swing/JMenu;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÒ Ò( "1*·
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÓ Ó(%•’
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÓ Ó(
+%0javax.swing.JMenu"javax.swing.JMenuÃ
+À
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÓ Ó(&
+%1"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenu*
+Help©
+¦
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÓ Ó('
+helpMenujavax.swing.JMenu"__id*
+
+%0javax.swing.JMenuÚ×
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÔ Ô(
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V*
+
+helpMenujavax.swing.JMenu*
+""2setMnemonic(C)¬©
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÕ Õ('
+%3javax.swing.JMenuItem"Zorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createHelpProperties()Ljavax/swing/JMenuItem;*0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor2createHelpProperties()«¨
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÕ Õ((
+%4javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+helpMenujavax.swing.JMenu*
+
+%3javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)"‡
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÖ Ö(
+
+helpMenujavax.swing.JMenuB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

@@ -1,0 +1,73 @@
+
+;org.apache.log4j.lf5.LogRecord#toString()Ljava/lang/String;V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÆ Æ("1*á
+1V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÇ Ç()‘Ž
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÇ Ç('
+%0java.lang.StringBuffer"java.lang.StringBuffer£
+ 
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÇ Ç()
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer 
+
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÇ Ç(*
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer—
+”
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ È(&
+%2java.lang.String"__concat*
+LogRecord: [*
+""Ÿ
+œ
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ È(-
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+, «
+¨
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ0 È(8
+%4java.lang.String"__id*0*. 
+org.apache.log4j.lf5.LogRecord"
+
+_message±
+®
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ È(8
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.Stringž
+›
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ È(>
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+]›˜
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÈ È(?
+%7java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+
+%6java.lang.String2append(Ljava/lang/String;)ÕÒ
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÉ É(
+%8java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"r
+V
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaÉ É(
+
+%8java.lang.StringB" 
+org.apache.log4j.lf5.LogRecord

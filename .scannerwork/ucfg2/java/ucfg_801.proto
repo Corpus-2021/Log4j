@@ -1,0 +1,34 @@
+
+0com.klopotek.utils.log.JDBCLogger#isConnected()ZJ
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java ("5*¥
+2J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …(-"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …(-
+""*¢
+4J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …(  
+
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …( 
+%1java.sql.Connection"__id*.*,#
+!com.klopotek.utils.log.JDBCLogger"
+con¨¥
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …(+
+%2boolean"java.sql.Connection#isClosed()Z*
+
+%1java.sql.Connection2
+isClosed()*
+2*ú
+5J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …( 
+
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java… …(
+%0java.sql.Connection"__id*.*,#
+!com.klopotek.utils.log.JDBCLogger"
+con*
+2
+4B%#
+!com.klopotek.utils.log.JDBCLogger

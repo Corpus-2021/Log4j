@@ -1,0 +1,81 @@
+
+Horg.apache.log4j.net.ZeroConfSupport#initializeJMDNS()Ljava/lang/Object;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java² ²()"11*Ï
+2\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÅ Å(&ñ
+î
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÅ Å((
+%4java.lang.Object"Lorg.apache.log4j.net.ZeroConfSupport#createJmDNSVersion3()Ljava/lang/Object;*("&
+$org.apache.log4j.net.ZeroConfSupport"x
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÅ Å()
+
+%4java.lang.Object*á
+6\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java¾ ¾(¸
+µ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java¾ ¾(
+%2java.lang.Class"__id*8*6&
+$org.apache.log4j.net.ZeroConfSupport"
+
+jmDNSClassº·
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java¾ ¾(0
+%3java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+%2java.lang.Class*
+
+create*
+""2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+2
+1*§
+8\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaµ µ(G¾
+»
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaµ µ(G<&
+$org.apache.log4j.net.ZeroConfSupport"
+serviceInfoClass"__id*
+
+%1java.lang.Class*
+6*
+10\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java´ ´(;¸
+µ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java´ ´(;6&
+$org.apache.log4j.net.ZeroConfSupport"
+
+jmDNSClass"__id*
+
+%0java.lang.Classè
+å
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaµ µ(G
+%1java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+javax.jmdns.ServiceInfo*
+8*Í
+11\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java´ ´(â
+ß
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.java´ ´(;
+%0java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+javax.jmdns.JmDNS*
+10*Ï
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÇ Ç(&ñ
+î
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÇ Ç((
+%5java.lang.Object"Lorg.apache.log4j.net.ZeroConfSupport#createJmDNSVersion1()Ljava/lang/Object;*("&
+$org.apache.log4j.net.ZeroConfSupport"x
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaÇ Ç()
+
+%5java.lang.ObjectB("&
+$org.apache.log4j.net.ZeroConfSupport

@@ -1,0 +1,66 @@
+
+Uorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#equals(Ljava/lang/Object;)Zo
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javak k("3"1*ï
+2o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javar r("y
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javar r(
+""*ÿ
+3o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javam) m(,Ø
+Õ
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javam m(-A
+node9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode"__id*
+
+objjava.lang.Object¯¬
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javan n(
+%0java.lang.String"Vorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#getTitle()Ljava/lang/String;*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode2
+getTitle()çä
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javan n(,
+%1java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%0java.lang.String2toLowerCase()®
+«
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javan n(-
+tit1java.lang.String"__id*
+
+%1java.lang.Stringµ²
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javao o(#
+%2java.lang.String"Vorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#getTitle()Ljava/lang/String;*C
+A
+node9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode2
+getTitle()çä
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javao o(1
+%3java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%2java.lang.String2toLowerCase()®
+«
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javao o(2
+tit2java.lang.String"__id*
+
+%3java.lang.String…‚
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javaq
+ q(
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+tit1java.lang.String*
+
+tit2java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*ï
+1o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javau u("y
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.javau u(
+"":
+objjava.lang.ObjectB=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode

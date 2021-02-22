@@ -1,0 +1,16 @@
+
+Morg.apache.log4j.net.JMSAppender#getSecurityPrincipalName()Ljava/lang/String;X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaò ò(("1*’
+1X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaó ó( ¼
+¹
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaó ó( 
+%0java.lang.String"__id*?*="
+ org.apache.log4j.net.JMSAppender"
+securityPrincipalName"t
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaó ó(!
+
+%0java.lang.StringB$"
+ org.apache.log4j.net.JMSAppender

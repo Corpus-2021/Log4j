@@ -1,0 +1,16 @@
+
+=JMSQueueAppender#getInitialContextFactory()Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaC C(*"1*ﬁ
+1L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaD D(†
+ù
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaD D(
+%0java.lang.String"__id*/*-
+JMSQueueAppender"
+initialContextFactory"h
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaD D(
+
+%0java.lang.StringB
+JMSQueueAppender

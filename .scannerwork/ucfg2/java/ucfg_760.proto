@@ -1,0 +1,27 @@
+
+4org.apache.log4j.LogXF#valueOf(Z)Ljava/lang/Boolean;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java1 1($"2"1*µ
+2L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java3 3(w
+u
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java3 3(
+%0java.lang.Boolean"__id*
+"""i
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java3 3( 
+
+%0java.lang.Boolean*µ
+1L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java5 5(w
+u
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java5 5(
+%1java.lang.Boolean"__id*
+"""i
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.java5 5(
+
+%1java.lang.Boolean:
+""B"
+org.apache.log4j.LogXF

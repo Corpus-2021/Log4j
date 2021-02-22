@@ -1,0 +1,16 @@
+
+=org.apache.log4j.jdbc.JDBCAppender#getURL()Ljava/lang/String;Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÚ Ú("1*ê
+1Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÛ Û(∂
+≥
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÛ Û(
+%0java.lang.String"__id*7*5$
+"org.apache.log4j.jdbc.JDBCAppender"
+databaseURL"v
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÛ Û(
+
+%0java.lang.StringB&$
+"org.apache.log4j.jdbc.JDBCAppender

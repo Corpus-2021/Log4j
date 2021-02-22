@@ -1,0 +1,25 @@
+
+9org.apache.log4j.lf5.LogLevel#equals(Ljava/lang/Object;)ZU
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÁ Á("3"1*í
+3U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÅ
+ Å(ÉÆ
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÅ
+ Å(	
+%0int".org.apache.log4j.lf5.LogLevel#getPrecedence()I*!
+org.apache.log4j.lf5.LogLevel2getPrecedence()¿¼
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÆ
+ Æ((	
+%1int".org.apache.log4j.lf5.LogLevel#getPrecedence()I*
+
+ojava.lang.Object2getPrecedence()*
+1*»
+1U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÌ Ì("_
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaÌ Ì(
+"":
+ojava.lang.ObjectB!
+org.apache.log4j.lf5.LogLevel

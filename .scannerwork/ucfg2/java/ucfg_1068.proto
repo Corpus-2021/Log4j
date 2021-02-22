@@ -1,0 +1,60 @@
+
+Dorg.apache.log4j.spi.VectorWriter#toStringArray()[Ljava/lang/String;W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaT T("5*ä
+3W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaX X(®
+•
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaX X(
+%3java.util.Vector"__id*,**#
+!org.apache.log4j.spi.VectorWriter"
+v’“
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaX X(%
+%4java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%3java.util.Vector*
+""2elementAt(I)†
+ù
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaX X(%
+%5"
+__arraySet*
+
+sa$Array*
+""*
+
+%4java.lang.Object*
+3
+1*©
+5W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaU U(®
+•
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaU U(
+%0java.util.Vector"__id*,**#
+!org.apache.log4j.spi.VectorWriter"
+v£†
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaU U(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()qo
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaV V(!
+%2$Array"$Array
+}
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaV V("
+sa$Array"__id*
+
+%2$Array*
+3
+1*«
+1W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaZ Z("i
+W
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\VectorWriter.javaZ Z(
+
+sa$ArrayB%#
+!org.apache.log4j.spi.VectorWriter

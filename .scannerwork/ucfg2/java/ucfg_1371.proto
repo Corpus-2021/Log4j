@@ -1,0 +1,63 @@
+
+Porg.apache.log4j.lf5.viewer.LogBrokerMonitor#getStatusText(II)Ljava/lang/String;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaž ž( "1*×
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaŸ Ÿ(,Ÿœ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaŸ Ÿ(*
+%0java.lang.StringBuffer"java.lang.StringBuffer±
+®
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaŸ Ÿ(,
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer±
+®
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaŸ Ÿ(- 
+resultjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer¤¡
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java   (!
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*"
+ 
+resultjava.lang.StringBuffer*
+Displaying: 2append(Ljava/lang/String;)øõ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¡ ¡( 
+%3java.lang.StringBuffer"8java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;*"
+ 
+resultjava.lang.StringBuffer*
+""2	append(I)´±
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¢ ¢(1
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*"
+ 
+resultjava.lang.StringBuffer* 
+ records out of a total of: 2append(Ljava/lang/String;)øõ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java£ £(
+%5java.lang.StringBuffer"8java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;*"
+ 
+resultjava.lang.StringBuffer*
+""2	append(I)¡ž
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¤ ¤(
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*"
+ 
+resultjava.lang.StringBuffer*
+	 records.2append(Ljava/lang/String;)æã
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¥ ¥(
+%7java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*"
+ 
+resultjava.lang.StringBuffer2
+toString()"€
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¥ ¥(
+
+%7java.lang.String:
+"":
+""B0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

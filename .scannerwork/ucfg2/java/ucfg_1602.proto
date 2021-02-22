@@ -1,0 +1,53 @@
+
+jorg.apache.log4j.pattern.NameAbbreviator$PatternAbbreviatorFragment#abbreviate(Ljava/lang/StringBuffer;I)I`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaî î("6*Ë
+3`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaù ù(˚¯
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaù ù()
+%3java.lang.StringBuffer"9java.lang.StringBuffer#insert(IC)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""*
+""2
+insert(IC)*
+1*Î
+4`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaô
+ ô(˚¯
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaô
+ ô(3
+%2java.lang.StringBuffer"9java.lang.StringBuffer#delete(II)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""*
+""2
+delete(II)*
+3
+1*π
+6`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaï ï(ﬂ‹
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaï ï("
+%0java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()Á‰
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.javaï ï(9	
+%1int".java.lang.String#indexOf(Ljava/lang/String;I)I*
+
+%0java.lang.String*
+.*
+""2indexOf(Ljava/lang/String;I)*
+4
+1*—
+1`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.java• •("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\NameAbbreviator.java• •(
+"":
+bufjava.lang.StringBuffer:
+""BGE
+Corg.apache.log4j.pattern.NameAbbreviator$PatternAbbreviatorFragment

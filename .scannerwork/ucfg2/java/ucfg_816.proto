@@ -1,0 +1,97 @@
+
+Šcom.klopotek.utils.log.DefaultConnectionHandler#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÇ Ç(""8*ú
+3L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÌ Ì(@°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÌ Ì(@:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+con"__id*
+
+%5java.sql.Connection°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÍ Í(
+%6java.sql.Connection"__id*<*:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+con»¸
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÍ Í(
+
+%7void"%java.sql.Connection#setAutoCommit(Z)V*
+
+%6java.sql.Connection*
+""2setAutoCommit(Z)*
+1*²
+4L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÌ	 Ì(Ù
+Ö
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÌ	 Ì(@
+%5java.sql.Connection"qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;*"
+java.sql.DriverManager*
+
+_urljava.lang.String*
+
+	_usernamejava.lang.String*
+
+	_passwordjava.lang.String*
+3*­
+5L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË( Ë(+°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË( Ë(+
+%3java.sql.Connection"__id*<*:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+con¡ž
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË( Ë(3
+
+%4void"java.sql.Connection#close()V*
+
+%3java.sql.Connection2close()*
+4*¹
+7L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(
+%1java.sql.Connection"__id*<*:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+conª§
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(&
+%2boolean"java.sql.Connection#isClosed()Z*
+
+%1java.sql.Connection2
+isClosed()*
+4
+5*Œ
+8L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(
+%0java.sql.Connection"__id*<*:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+con*
+4
+7*ñ
+1L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÑ Ñ(°
+­
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÑ Ñ(
+%8java.sql.Connection"__id*<*:1
+/com.klopotek.utils.log.DefaultConnectionHandler"
+con"k
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÑ Ñ(
+
+%8java.sql.Connection:
+_urljava.lang.String:
+	_usernamejava.lang.String:
+	_passwordjava.lang.StringB31
+/com.klopotek.utils.log.DefaultConnectionHandler

@@ -1,0 +1,37 @@
+
+Iorg.apache.log4j.lf5.util.DateFormatManager#getLocale()Ljava/util/Locale;c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‡ ‡(&"3*³
+2c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‰ ‰(Ç
+Ä
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‰ ‰( 
+%1java.util.Locale"/java.util.Locale#getDefault()Ljava/util/Locale;*"
+java.util.Locale"
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‰ ‰(!
+
+%1java.util.Locale*·
+3c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaˆ ˆ(Ä
+Á
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaˆ ˆ(
+%0java.util.Locale"__id*<*:-
++org.apache.log4j.lf5.util.DateFormatManager"	
+_locale*
+2
+1*°
+1c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‹ ‹(Ä
+Á
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‹ ‹(
+%2java.util.Locale"__id*<*:-
++org.apache.log4j.lf5.util.DateFormatManager"	
+_locale"
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java‹ ‹(
+
+%2java.util.LocaleB/-
++org.apache.log4j.lf5.util.DateFormatManager

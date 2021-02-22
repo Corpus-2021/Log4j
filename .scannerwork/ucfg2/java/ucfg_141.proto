@@ -1,0 +1,64 @@
+
+òorg.apache.log4j.helpers.OptionConverter#instantiateByKey(Ljava/util/Properties;Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaq	 q("3*∞
+2^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaw w(√
+¿
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaw w(8
+%1java.lang.String"__concat*!
+Could not find value for key *
+
+keyjava.lang.String"Ñ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javax x("
+ 
+defaultValuejava.lang.Object*Î
+3^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javau u(#ÿ
+’
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javau u(/
+%0java.lang.String"qorg.apache.log4j.helpers.OptionConverter#findAndSubst(Ljava/lang/String;Ljava/util/Properties;)Ljava/lang/String;*,"*
+(org.apache.log4j.helpers.OptionConverter*
+
+keyjava.lang.String*
+
+propsjava.util.Properties¢
+ü
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javau u(0
+	classNamejava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*«
+1^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java{ {(œÃ
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java{2 {(B
+%2java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+	classNamejava.lang.String2trim()ì
+ê
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java{ |(
+%3java.lang.Object"àorg.apache.log4j.helpers.OptionConverter#instantiateByClassName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*,"*
+(org.apache.log4j.helpers.OptionConverter*
+
+%2java.lang.String*
+
+
+superClassjava.lang.Class*"
+ 
+defaultValuejava.lang.Object"z
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.java{ |(
+
+%3java.lang.Object:
+propsjava.util.Properties:
+keyjava.lang.String:
+
+superClassjava.lang.Class: 
+defaultValuejava.lang.ObjectB,"*
+(org.apache.log4j.helpers.OptionConverter

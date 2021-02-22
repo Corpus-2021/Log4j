@@ -1,0 +1,58 @@
+
+5org.apache.log4j.gui.TextPaneAppender#setFontSize(I)VS
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java¿ ¿("4*¹
+2S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÂ Â(ÔÑ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÂ6 Â(E
+%3java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+ejava.util.Enumeration2nextElement()‚
+ÿ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÂ Â(K
+
+%4void"Ujavax.swing.text.StyleConstants#setFontSize(Ljavax/swing/text/MutableAttributeSet;I)V*#"!
+javax.swing.text.StyleConstants*
+
+%3java.lang.Object*
+""*
+3*¥
+3S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÁ Á(Â¿
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÁ Á(
+%2boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+ejava.util.Enumeration2hasMoreElements()*
+2
+1*ˆ
+4S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÀ À(´
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÀ À(
+%0java.util.Hashtable"__id*9*7'
+%org.apache.log4j.gui.TextPaneAppender"
+
+attributesÕÒ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÀ À()
+%1java.util.Enumeration"5java.util.Hashtable#elements()Ljava/util/Enumeration;*
+
+%0java.util.Hashtable2
+elements()™
+–
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÀ À(*
+ejava.util.Enumeration"__id*
+
+%1java.util.Enumeration*
+3*·
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÄ Ä("]
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÄ Ä(
+"":
+""B)'
+%org.apache.log4j.gui.TextPaneAppender

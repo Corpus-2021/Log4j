@@ -1,0 +1,25 @@
+
+‘org.apache.log4j.helpers.RelativeTimeDateFormat#format(Ljava/util/Date;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java4 4("1*§
+1e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java7 7(¶³
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java7 7(&
+
+%0long"java.util.Date#getTime()J*
+
+datejava.util.Date2	getTime()÷ô
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java7 7(4
+%1java.lang.StringBuffer"8java.lang.StringBuffer#append(J)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+""2	append(J)"‡
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java7 7(5
+
+%1java.lang.StringBuffer:
+datejava.util.Date:
+sbufjava.lang.StringBuffer:(
+fieldPositionjava.text.FieldPositionB31
+/org.apache.log4j.helpers.RelativeTimeDateFormat

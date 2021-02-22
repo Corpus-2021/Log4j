@@ -1,0 +1,25 @@
+
+3org.apache.log4j.lf5.LF5Appender#getScreenHeight()IX
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaò ò(&"4*Á
+2X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô(?"b
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô(@
+""*½
+3X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô(8ØÕ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô(8
+%1java.awt.Dimension"4java.awt.Toolkit#getScreenSize()Ljava/awt/Dimension;*
+
+%0java.awt.Toolkit2getScreenSize()*
+2*¨
+4X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô(Ã
+À
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaô ô((
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkit*
+3B$""
+ org.apache.log4j.lf5.LF5Appender

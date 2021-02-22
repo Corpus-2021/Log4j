@@ -1,0 +1,85 @@
+
+Horg.apache.log4j.config.PropertyGetter#isHandledType(Ljava/lang/Class;)Z\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javae
+ e("9*×
+2\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaj j(îë
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaj j(+
+%7boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""*
+
+typejava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+1*ô
+4\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javai i(†
+ƒ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javai i(
+%5java.lang.Class"__id*
+""ÿü
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javai i()
+%6boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+%5java.lang.Class*
+
+typejava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+1*÷
+6\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javah h(
+†
+ƒ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javah h(
+%3java.lang.Class"__id*
+""ÿü
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javah h(&
+%4boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+%3java.lang.Class*
+
+typejava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*	
+2
+4
+1*ú
+8\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javag g(†
+ƒ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javag g(
+%1java.lang.Class"__id*
+""ÿü
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javag g()
+%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+%1java.lang.Class*
+
+typejava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+4
+6
+1*ã
+9\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaf f(îë
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaf f(.
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""*
+
+typejava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+4
+6
+8
+1*É
+1\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaf j(,"f
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\config\PropertyGetter.javaf j(,
+"":
+typejava.lang.ClassB*(
+&org.apache.log4j.config.PropertyGetter

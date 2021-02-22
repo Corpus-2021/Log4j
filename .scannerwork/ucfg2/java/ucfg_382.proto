@@ -1,0 +1,25 @@
+
+Sorg.apache.log4j.spi.NOPLoggerRepository#getCurrentLoggers()Ljava/util/Enumeration;^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javal l(("1*Û
+1^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javam m(çä
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javam m(
+%0java.util.Vector"java.util.Vectorü
+ú
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javam m(
+%1"java.util.Vector#<init>()V*
+
+%0java.util.Vector⁄◊
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javam m(&
+%2java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%0java.util.Vector2
+elements()"
+^
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.javam m('
+
+%2java.util.EnumerationB,*
+(org.apache.log4j.spi.NOPLoggerRepository

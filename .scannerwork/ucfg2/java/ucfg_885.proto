@@ -1,0 +1,31 @@
+
+Xorg.apache.log4j.helpers.ThreadLocalMap#childValue(Ljava/lang/Object;)Ljava/lang/Object;]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java"	 "("3*¯
+2]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java% %(ÏÌ
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java% %(
+%0java.lang.Object"-java.util.Hashtable#clone()Ljava/lang/Object;*
+
+htjava.util.Hashtable2clone()"y
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java% %(
+
+%0java.lang.Object*“
+3]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java# #(*¦
+£
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java# #(+
+htjava.util.Hashtable"__id*!
+
+parentValuejava.lang.Object*
+2
+1*Ë
+1]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java' '("g
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\ThreadLocalMap.java' '(
+"":
+parentValuejava.lang.ObjectB+)
+'org.apache.log4j.helpers.ThreadLocalMap

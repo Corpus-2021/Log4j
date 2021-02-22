@@ -1,0 +1,17 @@
+
+Jorg.apache.log4j.gui.TextPaneAppender#getTextPane()Ljavax/swing/JTextPane;S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaº º("1*…
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java» »(´
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java» »(
+%0javax.swing.JTextPane"__id*7*5'
+%org.apache.log4j.gui.TextPaneAppender"
+
+textpane"t
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java» »(
+
+%0javax.swing.JTextPaneB)'
+%org.apache.log4j.gui.TextPaneAppender

@@ -1,0 +1,92 @@
+
+Torg.apache.log4j.jmx.AppenderDynamicMBean#getMBeanInfo()Ljavax/management/MBeanInfo;a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java ("1*é
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaž ž(Ä
+Á
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java :  (E
+%0java.util.Vector"__id*>*<+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+dAttributes­ª
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java :  (L	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size(){y
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java #  (M
+%2$Array"$Array
+Œ
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java   (N
+attribs$Array"__id*
+
+%2$ArrayÄ
+Á
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java¡ ¡(
+%3java.util.Vector"__id*>*<+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+dAttributesƒ€
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java¡ ¡( 
+%4$Array"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+attribs$Array2toArray([Ljava/lang/Object;)Ã
+À
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java£ £(#
+%5java.lang.String"__id*=*;+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+
+dClassNameÅ
+Â
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java¤ ¤(
+%6java.lang.String"__id*?*=+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+dDescription¼
+¹
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java¦ ¦(
+%7$Array"__id*@*>+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+dConstructorsº
+·
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java§ §(
+%8$Array"__id*>*<+
+)org.apache.log4j.jmx.AppenderDynamicMBean"
+dOperations{y
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java¨ ¨( 
+%9$Array"$Array¥¢
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java£ £(!
+%10javax.management.MBeanInfo"javax.management.MBeanInfoó
+ð
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java£ ¨(!
+%11"åjavax.management.MBeanInfo#<init>(Ljava/lang/String;Ljava/lang/String;[Ljavax/management/MBeanAttributeInfo;[Ljavax/management/MBeanConstructorInfo;[Ljavax/management/MBeanOperationInfo;[Ljavax/management/MBeanNotificationInfo;)V*#
+!
+%10javax.management.MBeanInfo*
+
+%5java.lang.String*
+
+%6java.lang.String*
+
+attribs$Array*
+
+%7$Array*
+
+%8$Array*
+
+%9$Array"ˆ
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java£ ¨("#
+!
+%10javax.management.MBeanInfoB-+
+)org.apache.log4j.jmx.AppenderDynamicMBean

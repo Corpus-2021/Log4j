@@ -1,0 +1,88 @@
+
+AJMSQueueAppender#getInitialContext()Ljavax/naming/InitialContext;N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javañ ñ(."7* 
+3N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaû û(%"u
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaû û(%#
+!
+%8javax.naming.InitialContext*»
+4N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaû  û("ìê
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaû û(!
+%8javax.naming.InitialContext"javax.naming.InitialContext◊
+‘
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaû û(#
+%9":javax.naming.InitialContext#<init>(Ljava/util/Hashtable;)V*#
+!
+%8javax.naming.InitialContext*
+
+htjava.util.Hashtable*
+3*®
+5N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaú ú(x
+v
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaú ú( 
+%5java.lang.String"__id*
+""ò
+ï
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaú" ú(-
+%6java.lang.String"__id*%*#
+JMSQueueAppender"
+providerUrl∏µ
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaú ú(.
+%7java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+htjava.util.Hashtable*
+
+%5java.lang.String*
+
+%6java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+4*∆
+6N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaò ò($ë
+é
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaò ò($
+htjava.util.Hashtable"__id*
+
+%0java.util.Hashtablex
+v
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaõ õ(+
+%2java.lang.String"__id*
+""¢
+ü
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaõ- õ(B
+%3java.lang.String"__id*/*-
+JMSQueueAppender"
+initialContextFactory∏µ
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaõ õ(C
+%4java.lang.Object"Ojava.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+htjava.util.Hashtable*
+
+%2java.lang.String*
+
+%3java.lang.String2)put(Ljava/lang/Object;Ljava/lang/Object;)*
+5*ˆ
+7N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaò ò(#ÉÄ
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaò ò(!
+%0java.util.Hashtable"java.util.Hashtableï
+í
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaò ò(#
+%1"java.util.Hashtable#<init>()V*
+
+%0java.util.Hashtable*
+6B
+JMSQueueAppender

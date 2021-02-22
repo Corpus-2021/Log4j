@@ -1,0 +1,16 @@
+
+=org.apache.log4j.jdbc.JDBCAppender#getSql()Ljava/lang/String;Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÒ Ò("1*‘
+1Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÓ Ó(·
+´
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÓ Ó(
+%0java.lang.String"__id*8*6$
+"org.apache.log4j.jdbc.JDBCAppender"
+sqlStatement"v
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaÓ Ó(
+
+%0java.lang.StringB&$
+"org.apache.log4j.jdbc.JDBCAppender

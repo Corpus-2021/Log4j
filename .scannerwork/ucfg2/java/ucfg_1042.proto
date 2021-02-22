@@ -1,0 +1,51 @@
+
+8org.apache.log4j.CategoryKey#equals(Ljava/lang/Object;)ZR
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java+
+ +("3"5"1*Þ
+2R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java0 0(¡
+ž
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java0 0(
+%1java.lang.String"__id***(
+org.apache.log4j.CategoryKey"
+name›
+˜
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java0 0(3
+%2java.lang.String"__id*$*"
+
+rArgjava.lang.Object"
+nameäá
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java0 0(4
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)"\
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java0 0(5
+""*¦
+3R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java/ /((ÄÁ
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java/, /(;
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+rArgjava.lang.Object2
+getClass()*
+2
+1*µ
+5R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java- -("\
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java- -(
+""*µ
+1R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java2 2("\
+R
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\CategoryKey.java2 2(
+"":
+rArgjava.lang.ObjectB 
+org.apache.log4j.CategoryKey

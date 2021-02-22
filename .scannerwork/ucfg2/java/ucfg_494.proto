@@ -1,0 +1,26 @@
+
+Porg.apache.log4j.xml.DOMConfigurator#subst(Ljava/lang/String;)Ljava/lang/String;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaþ	 þ("1*ß
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ(¸
+µ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ(
+%0java.util.Properties"__id*3*1&
+$org.apache.log4j.xml.DOMConfigurator"
+propsÆ
+Ã
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ( 
+%1java.lang.String"forg.apache.log4j.xml.DOMConfigurator#subst(Ljava/lang/String;Ljava/util/Properties;)Ljava/lang/String;*("&
+$org.apache.log4j.xml.DOMConfigurator*
+
+valuejava.lang.String*
+
+%0java.util.Properties"x
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ(!
+
+%1java.lang.String:
+valuejava.lang.StringB(&
+$org.apache.log4j.xml.DOMConfigurator

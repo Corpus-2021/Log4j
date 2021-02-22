@@ -1,0 +1,110 @@
+
+Yorg.apache.log4j.or.sax.AttributesRenderer#doRender(Ljava/lang/Object;)Ljava/lang/String;`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java(
+ (("13"4*’
+13`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java* *(,õò
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java* *(*
+%0java.lang.StringBuffer"java.lang.StringBuffer≠
+™
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java* *(,
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer´
+®
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java* *(-
+sbufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer°
+û
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java+ +($
+aorg.xml.sax.Attributes"__id*
+
+ojava.lang.Object¡æ
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java, ,(	
+%2int"#org.xml.sax.Attributes#getLength()I*
+
+aorg.xml.sax.Attributes2getLength()*	
+6
+8
+9*‰
+3`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java; ;("}
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java; ;(
+
+%10java.lang.String*ø
+4`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java; ;(“œ
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java; ;(
+%10java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+ojava.lang.Object2
+toString()*
+3*∆
+6`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java8 8(‡›
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java8 8(
+%9java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"|
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java8 8(
+
+%9java.lang.String*ã
+8`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java4 4(Á‰
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java4 4(
+%4java.lang.String"4org.xml.sax.Attributes#getQName(I)Ljava/lang/String;*
+
+aorg.xml.sax.Attributes*
+""2getQName(I)¶£
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java4 4(
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%4java.lang.String2append(Ljava/lang/String;)ÚÔ
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java5 5(
+%6java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+""2	append(C)Á‰
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java6 6(
+%7java.lang.String"4org.xml.sax.Attributes#getValue(I)Ljava/lang/String;*
+
+aorg.xml.sax.Attributes*
+""2getValue(I)¶£
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java6 6(
+%8java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%7java.lang.String2append(Ljava/lang/String;)*	
+6
+8
+9*Å
+9`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java2 2(îë
+`
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\sax\AttributesRenderer.java2 2(
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, 2append(Ljava/lang/String;)*
+8:
+ojava.lang.ObjectB.,
+*org.apache.log4j.or.sax.AttributesRenderer

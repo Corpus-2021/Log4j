@@ -1,0 +1,24 @@
+
+)org.apache.log4j.lf5.LogRecord#isFatal()ZT
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.javaz z("3*§
+2T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {('ÆÃ
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {()
+%1boolean"+org.apache.log4j.lf5.LogRecord#hasThrown()Z*" 
+org.apache.log4j.lf5.LogRecord2hasThrown()*
+1*²
+3T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {(ÎË
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {(
+%0boolean"/org.apache.log4j.lf5.LogRecord#isSevereLevel()Z*" 
+org.apache.log4j.lf5.LogRecord2isSevereLevel()*
+2
+1*¹
+1T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {(*"^
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogRecord.java{ {(*
+""B" 
+org.apache.log4j.lf5.LogRecord

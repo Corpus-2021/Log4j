@@ -1,0 +1,16 @@
+
+3JMSQueueAppender#getProviderUrl()Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaS S( "1*Ô
+1L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaT T(–
+“
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaT T(
+%0java.lang.String"__id*%*#
+JMSQueueAppender"
+providerUrl"h
+L
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaT T(
+
+%0java.lang.StringB
+JMSQueueAppender

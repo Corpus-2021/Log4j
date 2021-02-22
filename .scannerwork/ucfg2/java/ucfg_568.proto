@@ -1,0 +1,37 @@
+
+Morg.apache.log4j.jmx.AppenderDynamicMBean#isSupportedType(Ljava/lang/Class;)Za
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaá
+ á("7*”
+2a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaí í("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaí í(
+""*”
+4a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaç ç("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaç ç(
+""*”
+6a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaâ â("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaâ â(
+""*∑
+7a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaà à(¿Ω
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaà à(
+%0boolean"java.lang.Class#isPrimitive()Z*
+
+clazzjava.lang.Class2isPrimitive()*
+2
+4
+6
+1*”
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaï ï("k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.javaï ï(
+"":
+clazzjava.lang.ClassB-+
+)org.apache.log4j.jmx.AppenderDynamicMBean

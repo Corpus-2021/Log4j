@@ -1,0 +1,16 @@
+
+Aorg.apache.log4j.chainsaw.EventDetails#getNDC()Ljava/lang/String;\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\EventDetails.javap p("1*“
+1\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\EventDetails.javaq q(µ
+²
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\EventDetails.javaq q(
+%0java.lang.String"__id*4*2(
+&org.apache.log4j.chainsaw.EventDetails"
+mNDC"x
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\EventDetails.javaq q(
+
+%0java.lang.StringB*(
+&org.apache.log4j.chainsaw.EventDetails

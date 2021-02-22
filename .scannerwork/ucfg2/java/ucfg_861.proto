@@ -1,0 +1,114 @@
+
+\org.apache.log4j.lf5.util.LogFileParser#loadLogFile(Ljava/io/InputStream;)Ljava/lang/String;_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≤ ≤("6*€
+2_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java¿ ¿(ÔÏ
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java¿ ¿(
+%8java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+""2	append(C)*
+3*∞
+3_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaø ø(¡æ
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaø ø(	
+%7int"#java.io.BufferedInputStream#read()I*#
+!
+brjava.io.BufferedInputStream2read()*
+2
+1*Ë
+4_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaº º( öó
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaº º(
+%5java.lang.StringBuffer"java.lang.StringBuffer¥
+±
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaº º(!
+%6"!java.lang.StringBuffer#<init>(I)V*
+
+%5java.lang.StringBuffer*2Ä®
+•
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaº º(!
+sbjava.lang.StringBuffer"__id*
+
+%5java.lang.StringBuffer*
+3*È
+5_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∫ ∫( öó
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∫ ∫(
+%3java.lang.StringBuffer"java.lang.StringBufferµ
+≤
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∫ ∫(!
+%4"!java.lang.StringBuffer#<init>(I)V*
+
+%3java.lang.StringBuffer*
+""®
+•
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∫ ∫(!
+sbjava.lang.StringBuffer"__id*
+
+%3java.lang.StringBuffer*
+3*ò
+6_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≥5 ≥(;§°
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≥! ≥(4!
+%0java.io.BufferedInputStream"java.io.BufferedInputStreamÏ
+È
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≥ ≥(<
+%1":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%0java.io.BufferedInputStream*
+
+streamjava.io.InputStream≤
+Ø
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≥ ≥(=!
+brjava.io.BufferedInputStream"__id*#
+!
+%0java.io.BufferedInputStreamÀ»
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∂ ∂(	
+%2int"(java.io.BufferedInputStream#available()I*#
+!
+brjava.io.BufferedInputStream2available()ê
+ç
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java∏ ∏(
+sbjava.lang.StringBuffer"__id*
+""*
+4
+5*¢
+1_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java√ √(ƒ¡
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java√ √(
+
+%9void"$java.io.BufferedInputStream#close()V*#
+!
+brjava.io.BufferedInputStream2close()ï
+í
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaƒ ƒ(!
+brjava.io.BufferedInputStream"__id*
+""ﬁ€
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≈ ≈(
+%10java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"|
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java≈ ≈(
+
+%10java.lang.String:
+streamjava.io.InputStreamB+)
+'org.apache.log4j.lf5.util.LogFileParser

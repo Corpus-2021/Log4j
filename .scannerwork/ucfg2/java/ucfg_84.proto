@@ -1,0 +1,75 @@
+
+horg.apache.log4j.LogSF#format(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javap p( "8*Ë
+2L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.java~ ~(è
+å
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.java~ ~(
+patternjava.lang.String"__id*
+
+keyjava.lang.String*
+1*Á
+3L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javay y(/é
+ã
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javay y(/
+patternjava.lang.String"__id*
+
+%1java.lang.String*
+1*å
+5L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javaw x(Eù
+ö
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javaw x(E"
+bundlejava.util.ResourceBundle"__id* 
+
+%0java.util.ResourceBundleìê
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javay y(/
+%1java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*$
+"
+bundlejava.util.ResourceBundle*
+
+keyjava.lang.String2getString(Ljava/lang/String;)*
+3*‰
+6L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javax x(&ã
+à
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javax x(D
+%0java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*(
+&
+resourceBundleNamejava.lang.String*
+5*÷
+8L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javat t({
+y
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javat t(
+patternjava.lang.String"__id*
+""*
+2
+6*◊
+1N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javaÄ Ä(ï
+í
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javaÄ Ä()
+%2java.lang.String"Vorg.apache.log4j.LogSF#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+org.apache.log4j.LogSF*
+
+patternjava.lang.String*
+
+	arguments$Array"j
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogSF.javaÄ Ä(*
+
+%2java.lang.String:&
+resourceBundleNamejava.lang.String:
+keyjava.lang.String:
+	arguments$ArrayB"
+org.apache.log4j.LogSF

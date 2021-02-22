@@ -1,0 +1,35 @@
+
+@org.apache.log4j.performance.SystemTime#systemCurrentTimeLoop()Dd
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java/	 /("5*¦
+3d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java2 2(²
+¯
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java2 2( 
+
+%1long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+3
+1*¦
+5d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java0 0(²
+¯
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java0 0(,
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+3
+1*Ž
+1d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java4 4(²
+¯
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java4 4(&
+
+%2long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System"n
+d
+ZC:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\SystemTime.java4 4(C
+""B+")
+'org.apache.log4j.performance.SystemTime

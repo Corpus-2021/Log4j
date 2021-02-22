@@ -1,0 +1,75 @@
+
+@org.apache.log4j.spi.LoggingEvent#getProperties()Ljava/util/Map;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaØ Ø("4*º
+2Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÞ Þ(³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÞ Þ(
+%4java.util.Hashtable"__id*2*0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopyž
+›
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÞ	 Þ(
+
+propertiesjava.util.Map"__id*
+
+%4java.util.Hashtable*
+1*®
+3Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÜ Ü(#Š‡
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÜ Ü(!
+%2java.util.HashMap"java.util.HashMapœ
+™
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÜ Ü(#
+%3"java.util.HashMap#<init>()V*
+
+%2java.util.HashMapœ
+™
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÜ	 Ü(#
+
+propertiesjava.util.Map"__id*
+
+%2java.util.HashMap*
+1*û
+4Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÙ Ù(ÐÍ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÙ Ù(
+
+%0void"/org.apache.log4j.spi.LoggingEvent#getMDCCopy()V*%#
+!org.apache.log4j.spi.LoggingEvent2getMDCCopy()‰
+†
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÚ Ú(
+
+propertiesjava.util.Map"__id*
+""³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaÛ
+ Û(
+%1java.util.Hashtable"__id*2*0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopy*
+2
+3*É
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaà à(ô
+ñ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaà à(4
+%5java.util.Map"Ejava.util.Collections#unmodifiableMap(Ljava/util/Map;)Ljava/util/Map;*"
+java.util.Collections*
+
+
+propertiesjava.util.Map"r
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaà à(5
+
+%5java.util.MapB%#
+!org.apache.log4j.spi.LoggingEvent

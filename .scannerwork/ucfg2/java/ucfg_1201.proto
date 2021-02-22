@@ -1,0 +1,16 @@
+
+Iorg.apache.log4j.pattern.LogEvent#getFQNOfLoggerClass()Ljava/lang/String;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÒ Ò(%"1*“
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÓ Ó(»
+¸
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÓ Ó(
+%0java.lang.String"__id*=*;#
+!org.apache.log4j.pattern.LogEvent"
+fqnOfCategoryClass"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÓ Ó( 
+
+%0java.lang.StringB%#
+!org.apache.log4j.pattern.LogEvent

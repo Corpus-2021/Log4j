@@ -1,0 +1,29 @@
+
+Eorg.apache.log4j.gui.TextPaneAppender#getFontName()Ljava/lang/String;S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java◊	 ◊("1*π
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÿ* ÿ(4¥
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÿ* ÿ(4
+%0java.util.Hashtable"__id*9*7'
+%org.apache.log4j.gui.TextPaneAppender"
+
+attributesê
+ç
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÿ ÿ(H(
+attrSetjavax.swing.text.AttributeSet"__id*
+""£
+†
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaŸ Ÿ(0
+%1java.lang.String"`javax.swing.text.StyleConstants#getFontFamily(Ljavax/swing/text/AttributeSet;)Ljava/lang/String;*#"!
+javax.swing.text.StyleConstants**
+(
+attrSetjavax.swing.text.AttributeSet"o
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaŸ Ÿ(1
+
+%1java.lang.StringB)'
+%org.apache.log4j.gui.TextPaneAppender

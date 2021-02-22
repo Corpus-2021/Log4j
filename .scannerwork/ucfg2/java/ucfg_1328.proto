@@ -1,0 +1,28 @@
+
+Oorg.apache.log4j.lf5.viewer.LogTable#getColumnNameAndNumber()Ljava/util/Vector;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.java« «()"5*¡
+5\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.java»! »(-ãà
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.java»% »(+
+%0java.util.Vector"java.util.Vectorù
+ö
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.java»! »(-
+%1"java.util.Vector#<init>()V*
+
+%0java.util.Vector™
+ß
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.java» »(.'
+columnNameAndNumberjava.util.Vector"__id*
+
+%0java.util.Vector*
+1*Ì
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.javaÃ Ã("â
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogTable.javaÃ Ã()
+'
+columnNameAndNumberjava.util.VectorB(&
+$org.apache.log4j.lf5.viewer.LogTable

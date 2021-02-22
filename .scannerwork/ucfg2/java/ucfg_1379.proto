@@ -1,0 +1,50 @@
+
+`org.apache.log4j.lf5.viewer.LogBrokerMonitor#createAllLogLevelsMenuItem()Ljavax/swing/JMenuItem;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÁ Á(0"1*Ò
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaË% Ë(9ùö
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaË Ë($
+%0javax.swing.JMenuItem"javax.swing.JMenuItemŸ
+÷
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaË Ë(:
+%1"1javax.swing.JMenuItem#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenuItem*
+Show all LogLevelsØ
+¨
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaË Ë(;
+resultjavax.swing.JMenuItem"__id*
+
+%0javax.swing.JMenuItem‹Ÿ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÈ È(
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V*!
+
+resultjavax.swing.JMenuItem*
+""2setMnemonic(C)œÃ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÍ! Í(/4
+%3.org.apache.log4j.lf5.viewer.LogBrokerMonitor$8".org.apache.log4j.lf5.viewer.LogBrokerMonitor$8√
+¿
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÍ (
+%4"java.lang.Object#<init>()V*6
+4
+%3.org.apache.log4j.lf5.viewer.LogBrokerMonitor$8‘—
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÍ (
+
+%5void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*!
+
+resultjavax.swing.JMenuItem*6
+4
+%3.org.apache.log4j.lf5.viewer.LogBrokerMonitor$822addActionListener(Ljava/awt/event/ActionListener;)"â
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaÒ Ò(!
+
+resultjavax.swing.JMenuItemB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

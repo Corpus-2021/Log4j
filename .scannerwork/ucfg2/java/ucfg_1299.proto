@@ -1,0 +1,37 @@
+
+Xorg.apache.log4j.helpers.AppenderAttachableImpl#getAllAppenders()Ljava/util/Enumeration;e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaP P("3*Û
+2e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaR R("o
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaR R(
+""*Ä
+3e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaQ Q(Ï
+Ì
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaQ Q(
+%0java.util.Vector"__id*E*C1
+/org.apache.log4j.helpers.AppenderAttachableImpl"
+appenderList*
+2
+1*©
+1e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaT T(Ï
+Ì
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaT T(
+%1java.util.Vector"__id*E*C1
+/org.apache.log4j.helpers.AppenderAttachableImpl"
+appenderListáÞ
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaT T($
+%2java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%1java.util.Vector2
+elements()"†
+e
+[C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.javaT T(%
+
+%2java.util.EnumerationB31
+/org.apache.log4j.helpers.AppenderAttachableImpl

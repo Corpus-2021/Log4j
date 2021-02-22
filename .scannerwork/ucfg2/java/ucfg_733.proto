@@ -1,0 +1,43 @@
+
+morg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor#createRemoveMenuItem()Ljavax/swing/JMenuItem;w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaà à(*"1*ÿ
+1w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaá% á(B°­
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaá á($
+%0javax.swing.JMenuItem"javax.swing.JMenuItemõ
+ò
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaá á(C
+%1"1javax.swing.JMenuItem#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenuItem*
+Remove All Empty CategoriesÂ
+¿
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaá á(D
+resultjavax.swing.JMenuItem"__id*
+
+%0javax.swing.JMenuItemˆ…
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaâ! â(/G
+%2Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor$8"Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor$8é
+æ
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaâ æ(
+%3"java.lang.Object#<init>()V*I
+G
+%2Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor$8ú÷
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaâ æ(
+
+%4void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*!
+
+resultjavax.swing.JMenuItem*I
+G
+%2Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor$822addActionListener(Ljava/awt/event/ActionListener;)"œ
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaç ç(!
+
+resultjavax.swing.JMenuItemBCA
+?org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor

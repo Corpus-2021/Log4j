@@ -1,0 +1,21 @@
+
+iorg.apache.log4j.jmx.HierarchyDynamicMBean#getNotificationInfo()[Ljavax/management/MBeanNotificationInfo;b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java­ ­(-"1*õ
+1b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java® ®(Ý
+Ú
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java® ®(5
+%0/javax.management.NotificationBroadcasterSupport"__id*7*5,
+*org.apache.log4j.jmx.HierarchyDynamicMBean"
+nbsµ²
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java® ®($
+%1$Array"njavax.management.NotificationBroadcasterSupport#getNotificationInfo()[Ljavax/management/MBeanNotificationInfo;*7
+5
+%0/javax.management.NotificationBroadcasterSupport2getNotificationInfo()"t
+b
+VC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java® ®(%
+
+%1$ArrayB.,
+*org.apache.log4j.jmx.HierarchyDynamicMBean

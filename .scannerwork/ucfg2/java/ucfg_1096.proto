@@ -1,0 +1,28 @@
+
+4org.apache.log4j.gui.TextPaneAppender#getFontSize()IS
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java» »("1*á
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java…* …(4¥
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java…* …(4
+%0java.util.Hashtable"__id*9*7'
+%org.apache.log4j.gui.TextPaneAppender"
+
+attributesê
+ç
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java… …(H(
+attrSetjavax.swing.text.AttributeSet"__id*
+""É
+Ä
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java   (.	
+%1int"Mjavax.swing.text.StyleConstants#getFontSize(Ljavax/swing/text/AttributeSet;)I*#"!
+javax.swing.text.StyleConstants**
+(
+attrSetjavax.swing.text.AttributeSet"]
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java   (/
+""B)'
+%org.apache.log4j.gui.TextPaneAppender

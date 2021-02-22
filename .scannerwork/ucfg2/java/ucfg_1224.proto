@@ -1,0 +1,21 @@
+
+Jorg.apache.log4j.pattern.PatternParser$ReadOnlyMap#keySet()Ljava/util/Set;^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\PatternParser.java„ „("1*á
+1^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\PatternParser.java… …(¿
+¼
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\PatternParser.java… …(
+%0java.util.Map"__id*?*=4
+2org.apache.log4j.pattern.PatternParser$ReadOnlyMap"
+mapÀ½
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\PatternParser.java… …(
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()"w
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\PatternParser.java… …(
+
+%1java.util.SetB64
+2org.apache.log4j.pattern.PatternParser$ReadOnlyMap

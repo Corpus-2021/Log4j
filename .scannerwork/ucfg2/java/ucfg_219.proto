@@ -1,0 +1,16 @@
+
+Borg.apache.log4j.jdbc.JDBCAppender#getPassword()Ljava/lang/String;Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.java÷ ÷("1*•
+1Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaø ø(»
+¸
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaø ø(
+%0java.lang.String"__id*<*:$
+"org.apache.log4j.jdbc.JDBCAppender"
+databasePassword"v
+Z
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jdbc\JDBCAppender.javaø ø(
+
+%0java.lang.StringB&$
+"org.apache.log4j.jdbc.JDBCAppender

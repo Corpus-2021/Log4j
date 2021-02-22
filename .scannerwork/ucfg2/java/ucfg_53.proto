@@ -1,0 +1,16 @@
+
+Lorg.apache.log4j.CompositeRollingAppender#getDatePattern()Ljava/lang/String;W
+KC:\q\apache-log4j-1.2.16\contribs\KevinSteppe\CompositeRollingAppender.javaÖ Ö("1*Ž
+1W
+KC:\q\apache-log4j-1.2.16\contribs\KevinSteppe\CompositeRollingAppender.java× ×(º
+·
+W
+KC:\q\apache-log4j-1.2.16\contribs\KevinSteppe\CompositeRollingAppender.java× ×(
+%0java.lang.String"__id*>*<+
+)org.apache.log4j.CompositeRollingAppender"
+datePattern"s
+W
+KC:\q\apache-log4j-1.2.16\contribs\KevinSteppe\CompositeRollingAppender.java× ×(
+
+%0java.lang.StringB-+
+)org.apache.log4j.CompositeRollingAppender

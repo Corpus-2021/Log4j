@@ -1,0 +1,136 @@
+
+0com.klopotek.utils.log.JDBCAppender#configure()ZL
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˝ ˝("25"14"23*Ñ
+13L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(£
+†
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(
+%7java.lang.String"__id*2*0%
+#com.klopotek.utils.log.JDBCAppender"
+table*
+
+9
+12
+1*™
+25L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˇ ˇ("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˇ ˇ(
+""*Ç
+14L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(°
+û
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(
+%6java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*
+
+13
+9
+1*ú
+17L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaã ã(¡æ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaã ã(
+
+%4void".com.klopotek.utils.log.JDBCAppender#connect()V*'%
+#com.klopotek.utils.log.JDBCAppender2	connect()*
+14*™
+19L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÖ Ö("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÜ Ü(
+""*©
+1L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaµ µ("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java∑ ∑(
+""*˚
+6L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¶ ¶(¢
+ü
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¶& ¶()
+%11java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*
+1*˝
+7L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java§ §(§
+°
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java§" §('
+%10java.lang.String"__id*2*0%
+#com.klopotek.utils.log.JDBCAppender"
+table*
+1*˝
+8L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¢ ¢(°
+û
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¢ ¢(
+%9java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*
+6
+7*˝
+9L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java†
+ †(§
+°
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java†  †(#
+%8java.sql.Connection"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+con*
+8*Ö
+20L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉL É(T¶
+£
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉL É(T
+%3java.lang.String"__id*5*3%
+#com.klopotek.utils.log.JDBCAppender"
+
+password*
+17
+19*Ö
+21L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ8 É(@¶
+£
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ8 É(@
+%2java.lang.String"__id*5*3%
+#com.klopotek.utils.log.JDBCAppender"
+
+username*
+19
+20*Ä
+22L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ) É(,°
+û
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ) É(,
+%1java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+url*
+19
+21*ç
+23L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ É(Æ
+´
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ É(
+%0java.lang.String"__id*=*;%
+#com.klopotek.utils.log.JDBCAppender"
+connection_class*
+17
+22*™
+12L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaò ò("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaô ô(
+""B'%
+#com.klopotek.utils.log.JDBCAppender

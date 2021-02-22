@@ -1,0 +1,71 @@
+
+Zorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createDetailTextArea()Ljavax/swing/JTextArea;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¿ ¿(*"1*É
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¡ ¡((ùö
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¡ ¡(&
+%0javax.swing.JTextArea"javax.swing.JTextAreaØ
+¨
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¡ ¡((
+%1"javax.swing.JTextArea#<init>()V*
+
+%0javax.swing.JTextArea±
+Æ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¡ ¡()!
+detailTAjavax.swing.JTextArea"__id*
+
+%0javax.swing.JTextAreaÅ
+
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¬, ¬(6	
+%2int"__id*
+""çä
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¬ ¬(
+%3java.awt.Font"java.awt.Font÷
+”
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¬ ¬(;
+%4"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%3java.awt.Font*
+
+Monospaced*
+	
+%2int*2¸˘
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¬ ¬(<
+
+%5void"/javax.swing.JTextArea#setFont(Ljava/awt/Font;)V*#
+!
+detailTAjavax.swing.JTextArea*
+
+%3java.awt.Font2setFont(Ljava/awt/Font;)’“
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java√ √(
+
+%6void"$javax.swing.JTextArea#setTabSize(I)V*#
+!
+detailTAjavax.swing.JTextArea*22setTabSize(I)Ÿ÷
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaƒ ƒ(
+
+%7void"%javax.swing.JTextArea#setLineWrap(Z)V*#
+!
+detailTAjavax.swing.JTextArea*
+""2setLineWrap(Z)„‡
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java≈ ≈($
+
+%8void"*javax.swing.JTextArea#setWrapStyleWord(Z)V*#
+!
+detailTAjavax.swing.JTextArea*
+""2setWrapStyleWord(Z)"ã
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java∆ ∆(#
+!
+detailTAjavax.swing.JTextAreaB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

@@ -1,0 +1,63 @@
+
+]org.apache.log4j.lf5.viewer.FilteredLogTableModel#createFilteredRecordsList()Ljava/util/List;i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java£ £(*"5*Ò
+3i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¨ ¨(#ÜÙ
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¨ ¨(*
+%5java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*
+
+recordsjava.util.Iterator2next()*
+4*Á
+4i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java§ §(ÈÅ
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java§ §(
+%4boolean"java.util.Iterator#hasNext()Z*
+
+recordsjava.util.Iterator2	hasNext()*
+3
+1*Ú	
+5i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¤ ¤(!ž›
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¤ ¤(
+%0java.util.ArrayList"java.util.ArrayList°
+­
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¤ ¤(!
+%1"java.util.ArrayList#<init>()V*
+
+%0java.util.ArrayList«
+¨
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¤ ¤("
+resultjava.util.List"__id*
+
+%0java.util.ArrayListÒ
+Ï
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¥ ¥("
+%2java.util.List"__id*F*D3
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel"
+_allRecordsÛØ
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¥ ¥(-
+%3java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%2java.util.List2
+iterator()¯
+¬
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java¥ ¥(.
+recordsjava.util.Iterator"__id*
+
+%3java.util.Iterator*
+4*ø
+1i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java­ ­("‡
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java­ ­(
+
+resultjava.util.ListB53
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel

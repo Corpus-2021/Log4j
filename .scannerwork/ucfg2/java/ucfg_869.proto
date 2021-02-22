@@ -1,0 +1,25 @@
+
+\org.apache.log4j.lf5.util.LogFileParser#parseThrowable(Ljava/lang/String;)Ljava/lang/String;_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.java‡ ‡("1*Ë
+1_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaˆ ˆ(³°
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaˆ ˆ('	
+%0int"java.lang.String#length()I*
+
+recordjava.lang.String2length()±
+®
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaˆ ˆ(0
+%1java.lang.String"[org.apache.log4j.lf5.util.LogFileParser#getAttribute(ILjava/lang/String;)Ljava/lang/String;*+)
+'org.apache.log4j.lf5.util.LogFileParser*
+	
+%0int*
+
+recordjava.lang.String"{
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogFileParser.javaˆ ˆ(1
+
+%1java.lang.String:
+recordjava.lang.StringB+)
+'org.apache.log4j.lf5.util.LogFileParser

@@ -1,0 +1,65 @@
+
+forg.apache.log4j.lf5.LogLevel#register(Lorg/apache/log4j/lf5/LogLevel;)Lorg/apache/log4j/lf5/LogLevel;U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java¥ ¥(!"3"4*·
+2U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaª ª(.´
+±
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaª ª(.
+%3java.util.Map"__id*=*;
+org.apache.log4j.lf5.LogLevel"
+_registeredLogLevelMapçä
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaª3 ª(F
+%4java.lang.String":org.apache.log4j.lf5.LogLevel#getLabel()Ljava/lang/String;*+
+)
+logLevelorg.apache.log4j.lf5.LogLevel2
+getLabel()ÆÃ
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaª ª(Q
+%5java.lang.Object"Ijava.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+%3java.util.Map*
+
+%4java.lang.String*+
+)
+logLevelorg.apache.log4j.lf5.LogLevel2)put(Ljava/lang/Object;Ljava/lang/Object;)"q
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.javaª ª(R
+
+%5java.lang.Object*ñ
+3U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java© ©(ª
+§
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java© ©(
+%0java.util.Map"__id*3*1
+org.apache.log4j.lf5.LogLevel"
+_logLevelMapçä
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java© ©(,
+%1java.lang.String":org.apache.log4j.lf5.LogLevel#getLabel()Ljava/lang/String;*+
+)
+logLevelorg.apache.log4j.lf5.LogLevel2
+getLabel()õò
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java© ©(-
+%2java.lang.Object"7java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%0java.util.Map*
+
+%1java.lang.String2get(Ljava/lang/Object;)*
+2
+1*»
+4U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java¦! ¦(%"_
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java¦ ¦(&
+""*»
+1U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java­ ­("_
+U
+IC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LogLevel.java­ ­(
+"":)
+logLevelorg.apache.log4j.lf5.LogLevelB!"
+org.apache.log4j.lf5.LogLevel

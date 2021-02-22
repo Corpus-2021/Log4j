@@ -1,0 +1,22 @@
+
+_org.apache.log4j.net.JMSSink#lookup(Ljavax/naming/Context;Ljava/lang/String;)Ljava/lang/Object;T
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSSink.javaŠ Š( "4*Ë
+3T
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSSink.javaŒ Œ("p
+T
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSSink.javaŒ Œ(
+
+%0java.lang.Object*ì
+4T
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSSink.javaŒ Œ(‹ˆ
+T
+HC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSSink.javaŒ Œ(
+%0java.lang.Object"Ajavax.naming.Context#lookup(Ljava/lang/String;)Ljava/lang/Object;*
+
+ctxjavax.naming.Context*
+
+namejava.lang.String2lookup(Ljava/lang/String;)*
+3:
+ctxjavax.naming.Context:
+namejava.lang.StringB "
+org.apache.log4j.net.JMSSink

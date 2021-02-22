@@ -1,0 +1,139 @@
+
+Åorg.apache.log4j.xml.DOMConfigurator#parseElement(Lorg/w3c/dom/Element;Ljava/util/Properties;Ljava/lang/Class;)Ljava/lang/Object;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaµ µ(%"10*·
+2\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÕ Õ("~
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÕ Õ(
+
+instancejava.lang.Object*Ï
+4\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java… …(1Ä
+˝
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java… …(R
+
+%9void"}org.apache.log4j.xml.DOMConfigurator#parseUnrecognizedElement(Ljava/lang/Object;Lorg/w3c/dom/Element;Ljava/util/Properties;)V*("&
+$org.apache.log4j.xml.DOMConfigurator*
+
+instancejava.lang.Object*'
+%
+currentElementorg.w3c.dom.Element*
+
+propsjava.util.Properties*
+2
+7*è
+6\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaƒ7 ƒ(B±
+Æ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaƒ ƒ(C%
+currentElementorg.w3c.dom.Element"__id*!
+
+currentNodeorg.w3c.dom.Node‰·
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java≈% ≈(@
+%7java.lang.String"2org.w3c.dom.Element#getTagName()Ljava/lang/String;*'
+%
+currentElementorg.w3c.dom.Element2getTagName()û
+õ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java≈ ≈(A
+tagNamejava.lang.String"__id*
+
+%7java.lang.String‰·
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java∆ ∆(/
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+tagNamejava.lang.String*	
+param2equals(Ljava/lang/Object;)*	
+2
+4
+7*≥
+7\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¬# ¬(+ﬁ€
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¬# ¬(6
+%4org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*"
+ 
+childrenorg.w3c.dom.NodeList*
+""2item(I)¢
+ü
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¬ ¬(7
+currentNodeorg.w3c.dom.Node"__id*
+
+%4org.w3c.dom.Node¡æ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java√ √(-
+%5short"org.w3c.dom.Node#getNodeType()S*!
+
+currentNodeorg.w3c.dom.Node2getNodeType(){
+y
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java√1 √(B
+%6short"__id*
+""*	
+2
+6
+7*¡
+9\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaΩ; Ω(CËÂ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaæ  æ(7
+%2org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;* 
+
+elementorg.w3c.dom.Element2getChildNodes()ß
+§
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaæ æ(8 
+childrenorg.w3c.dom.NodeList"__id*
+
+%2org.w3c.dom.NodeList¿Ω
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaø ø(3	
+%3int"!org.w3c.dom.NodeList#getLength()I*"
+ 
+childrenorg.w3c.dom.NodeList2getLength()*
+2
+7*ı
+10\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java∏ ∏(êç
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java∏ ∏(:
+%0java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*	
+class2 getAttribute(Ljava/lang/String;)∆
+√
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java∏ ∏(B
+%1java.lang.String"forg.apache.log4j.xml.DOMConfigurator#subst(Ljava/lang/String;Ljava/util/Properties;)Ljava/lang/String;*("&
+$org.apache.log4j.xml.DOMConfigurator*
+
+%0java.lang.String*
+
+propsjava.util.Propertiesú
+ô
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java∏ ∏(C
+clazzjava.lang.String"__id*
+
+%1java.lang.Stringç
+ä
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaπ ∫(%
+instancejava.lang.Object"__id*
+""*
+9
+1*…
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaœ œ("f
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaœ œ(
+"":
+elementorg.w3c.dom.Element:
+propsjava.util.Properties: 
+expectedClassjava.lang.ClassB("&
+$org.apache.log4j.xml.DOMConfigurator

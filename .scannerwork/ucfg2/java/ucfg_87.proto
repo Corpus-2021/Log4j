@@ -1,0 +1,92 @@
+
+Rorg.apache.log4j.jmx.LayoutDynamicMBean#getMBeanInfo()Ljavax/management/MBeanInfo;_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‹ ‹("1*¿
+1_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaŒ Œ(À
+½
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaŽ: Ž(E
+%0java.util.Vector"__id*<*:)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+dAttributes«¨
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaŽ: Ž(L	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()yw
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaŽ# Ž(M
+%2$Array"$Array
+Š
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.javaŽ Ž(N
+attribs$Array"__id*
+
+%2$ArrayÀ
+½
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java (
+%3java.util.Vector"__id*<*:)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+dAttributesþ
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java ( 
+%4$Array"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+attribs$Array2toArray([Ljava/lang/Object;)¿
+¼
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‘ ‘(#
+%5java.lang.String"__id*;*9)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+
+dClassNameÁ
+¾
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java’ ’(
+%6java.lang.String"__id*=*;)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+dDescription¸
+µ
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java” ”(
+%7$Array"__id*>*<)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+dConstructors¶
+³
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java• •(
+%8$Array"__id*<*:)
+'org.apache.log4j.jmx.LayoutDynamicMBean"
+dOperationsyw
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java– –( 
+%9$Array"$Array£ 
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‘ ‘(!
+%10javax.management.MBeanInfo"javax.management.MBeanInfoñ
+î
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‘ –(!
+%11"åjavax.management.MBeanInfo#<init>(Ljava/lang/String;Ljava/lang/String;[Ljavax/management/MBeanAttributeInfo;[Ljavax/management/MBeanConstructorInfo;[Ljavax/management/MBeanOperationInfo;[Ljavax/management/MBeanNotificationInfo;)V*#
+!
+%10javax.management.MBeanInfo*
+
+%5java.lang.String*
+
+%6java.lang.String*
+
+attribs$Array*
+
+%7$Array*
+
+%8$Array*
+
+%9$Array"†
+_
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java‘ –("#
+!
+%10javax.management.MBeanInfoB+)
+'org.apache.log4j.jmx.LayoutDynamicMBean

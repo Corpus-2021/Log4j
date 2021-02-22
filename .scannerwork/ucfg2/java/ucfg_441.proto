@@ -1,0 +1,16 @@
+
+Corg.apache.log4j.net.SyslogAppender#getFacility()Ljava/lang/String;[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java¶	 ¶("1*Ñ
+1[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java· ·(õ
+ò
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java· ·(,
+%0java.lang.String"Jorg.apache.log4j.net.SyslogAppender#getFacilityString(I)Ljava/lang/String;*'"%
+#org.apache.log4j.net.SyslogAppender*
+"""w
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java· ·(-
+
+%0java.lang.StringB'%
+#org.apache.log4j.net.SyslogAppender

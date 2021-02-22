@@ -1,0 +1,21 @@
+
+^org.apache.log4j.net.SocketAppender#getAddressByName(Ljava/lang/String;)Ljava/net/InetAddress;[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketAppender.java¹ ¹("8*Ý
+7[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketAppender.java» »()"{
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketAppender.java» »()
+
+%0java.net.InetAddress*ä
+8[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketAppender.java» »(ü
+ù
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SocketAppender.java» »((
+%0java.net.InetAddress"Hjava.net.InetAddress#getByName(Ljava/lang/String;)Ljava/net/InetAddress;*"
+java.net.InetAddress*
+
+hostjava.lang.String*
+7:
+hostjava.lang.StringB'"%
+#org.apache.log4j.net.SocketAppender

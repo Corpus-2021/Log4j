@@ -1,0 +1,25 @@
+
+=org.apache.log4j.lf5.util.LogMonitorAdapter#getScreenWidth()Ic
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaý ý(%"4*×
+2c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ(>"m
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ(?
+""*Ó
+3c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ(8ãà
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ(8
+%1java.awt.Dimension"4java.awt.Toolkit#getScreenSize()Ljava/awt/Dimension;*
+
+%0java.awt.Toolkit2getScreenSize()*
+2*¾
+4c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ(Î
+Ë
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\LogMonitorAdapter.javaÿ ÿ((
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkit*
+3B/"-
++org.apache.log4j.lf5.util.LogMonitorAdapter

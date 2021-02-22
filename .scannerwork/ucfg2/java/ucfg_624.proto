@@ -1,0 +1,59 @@
+
+7org.apache.log4j.performance.ListVsVector#loopVector()Df
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaM	 M("8*à
+4f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaR R(¿
+¼
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaR R(
+%3java.util.Vector"__id*4*2+
+)org.apache.log4j.performance.ListVsVector"
+väá
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaR R(
+%4java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%3java.util.Vector*
+""2elementAt(I)Á
+¾
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaR R(4+
+)org.apache.log4j.performance.ListVsVector"
+tmp"__id*
+
+%4java.lang.Object*
+4
+1*¡
+8f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaN N(´
+±
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaN N(,
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System¿
+¼
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaO O(
+%1java.util.Vector"__id*4*2+
+)org.apache.log4j.performance.ListVsVector"
+v²¯
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaO O(	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()*
+4
+1*”
+1f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaT T(´
+±
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaT T(&
+
+%5long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System"p
+f
+\C:\q\apache-log4j-1.2.16\src\performance\java\org\apache\log4j\performance\ListVsVector.javaT T(C
+""B-"+
+)org.apache.log4j.performance.ListVsVector

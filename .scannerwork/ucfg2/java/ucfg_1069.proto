@@ -1,0 +1,62 @@
+
+Rorg.apache.log4j.gui.TextPaneAppender#loadIcon(Ljava/lang/String;)Ljava/awt/Image;Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaU U("8*é
+2Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaY Y(?‹
+ˆ
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaY Y(?
+imgjava.awt.Image"__id*
+
+%2java.awt.Image*
+1*Ð
+5Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaY; Y(>òï
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaY Y(?
+%2java.awt.Image"9java.awt.Toolkit#getImage(Ljava/net/URL;)Ljava/awt/Image;*
+
+%1java.awt.Toolkit*
+
+urljava.net.URL2getImage(Ljava/net/URL;)*
+2*¤
+6Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaX X(4‡
+„
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaX X(4
+urljava.net.URL"__id*
+
+%0java.net.URL¼
+¹
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaY Y(0
+%1java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkit*
+5*Ê
+7Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaX X(ì
+é
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaX X(3
+%0java.net.URL"Ijava.lang.ClassLoader#getSystemResource(Ljava/lang/String;)Ljava/net/URL;*"
+java.lang.ClassLoader*
+
+pathjava.lang.String*
+6*×
+8Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaV V(z
+x
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaV V(
+imgjava.awt.Image"__id*
+""*
+7*Ä
+1Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java^ ^("l
+Q
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java^ ^(
+
+imgjava.awt.Image:
+pathjava.lang.StringB)"'
+%org.apache.log4j.gui.TextPaneAppender

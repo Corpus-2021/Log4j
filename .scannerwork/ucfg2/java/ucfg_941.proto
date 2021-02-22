@@ -1,0 +1,16 @@
+
+=org.apache.log4j.net.SMTPAppender#getFrom()Ljava/lang/String;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java¶	 ¶("1*…
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java· ·(­
+ª
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java· ·(
+%0java.lang.String"__id*/*-#
+!org.apache.log4j.net.SMTPAppender"
+from"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.java· ·(
+
+%0java.lang.StringB%#
+!org.apache.log4j.net.SMTPAppender

@@ -1,0 +1,50 @@
+
+_org.apache.log4j.lf5.viewer.LogBrokerMonitor#createConfigureMaxRecords()Ljavax/swing/JMenuItem;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java™ ™(/"1*¸
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java´% ´(@ùö
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java´ ´($
+%0javax.swing.JMenuItem"javax.swing.JMenuItem‡
+›
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java´ ´(A
+%1"1javax.swing.JMenuItem#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenuItem*
+Set Max Number of RecordsØ
+¨
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java´ ´(B
+resultjavax.swing.JMenuItem"__id*
+
+%0javax.swing.JMenuItem‹Ÿ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java¨ ¨(
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V*!
+
+resultjavax.swing.JMenuItem*
+""2setMnemonic(C)—Œ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java≠! ≠(/5
+%3/org.apache.log4j.lf5.viewer.LogBrokerMonitor$23"/org.apache.log4j.lf5.viewer.LogBrokerMonitor$23ƒ
+¡
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java≠ ±(
+%4"java.lang.Object#<init>()V*7
+5
+%3/org.apache.log4j.lf5.viewer.LogBrokerMonitor$23’“
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java≠ ±(
+
+%5void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*!
+
+resultjavax.swing.JMenuItem*7
+5
+%3/org.apache.log4j.lf5.viewer.LogBrokerMonitor$2322addActionListener(Ljava/awt/event/ActionListener;)"â
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java≥ ≥(!
+
+resultjavax.swing.JMenuItemB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

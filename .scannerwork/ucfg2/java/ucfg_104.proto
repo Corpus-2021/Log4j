@@ -1,0 +1,74 @@
+
+(JMSQueueAppender#checkEntryConditions()ZN
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java§ §(*"9*˜
+2N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java´ ´(´
+±
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java´ ´(=
+%0java.lang.String"__concat*
+
+failjava.lang.String*!
+ for JMSQueueAppender named [—
+”
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java´ ´(B
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+""—
+”
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java´ ´(G
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+]."X
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.javaµ µ(
+""*å
+4N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java° °(‡
+„
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java° °(
+failjava.lang.String"__id*
+No QueueSender*
+2
+1*æ
+6N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java® ®(ˆ
+…
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java® ®(
+failjava.lang.String"__id*
+No QueueSession*
+2
+1*é
+8N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java¬ ¬( ‹
+ˆ
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java¬ ¬( 
+failjava.lang.String"__id*
+No QueueConnection*
+2
+1*à
+9N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java© ©(z
+x
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java© ©(
+failjava.lang.String"__id*
+""*
+2
+4
+6
+8
+1*­
+1N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java· ·("X
+N
+BC:\q\apache-log4j-1.2.16\contribs\Jamie Tsao\JMSQueueAppender.java· ·(
+""B
+JMSQueueAppender

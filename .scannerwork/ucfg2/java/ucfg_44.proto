@@ -1,0 +1,44 @@
+
+;org.apache.log4j.jmx.Agent#createServer()Ljava/lang/Object;P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java= =($"14*Ç
+13P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ @(è
+å
+P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ A(6
+%0java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*'%
+#com.sun.jdmk.comm.HtmlAdapterServer*
+12*ä
+2P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ A(D‡
+„
+P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ A(D
+newInstancejava.lang.Object"__id*	
+
+%1?*
+1*ã
+14P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java> >(„
+
+P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java> >( 
+newInstancejava.lang.Object"__id*
+""*
+13*•
+12P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ A(D·´
+P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.java@ A(D
+%1?"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+%0java.lang.Class2newInstance()*
+2*Ì
+1P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.javaI I("u
+P
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\Agent.javaI I(!
+
+newInstancejava.lang.ObjectB"
+org.apache.log4j.jmx.Agent

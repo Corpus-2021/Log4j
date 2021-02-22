@@ -1,0 +1,22 @@
+
+Forg.apache.log4j.RollingCalendar#getNextCheckMillis(Ljava/util/Date;)Ja
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\DailyRollingFileAppender.java‹ ‹( "1*½
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\DailyRollingFileAppender.javaŒ Œ(´±
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\DailyRollingFileAppender.javaŒ Œ( 
+%0java.util.Date"Sorg.apache.log4j.RollingCalendar#getNextCheckDate(Ljava/util/Date;)Ljava/util/Date;*$"
+ org.apache.log4j.RollingCalendar*
+
+nowjava.util.Date2"getNextCheckDate(Ljava/util/Date;)°­
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\DailyRollingFileAppender.javaŒ Œ(*
+
+%1long"java.util.Date#getTime()J*
+
+%0java.util.Date2	getTime()"k
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\DailyRollingFileAppender.javaŒ Œ(+
+"":
+nowjava.util.DateB$"
+ org.apache.log4j.RollingCalendar

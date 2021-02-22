@@ -1,0 +1,61 @@
+
+Horg.apache.log4j.helpers.OptionConverter#toBoolean(Ljava/lang/String;Z)Z`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaà
+ à("5"6*—
+2`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaè è("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaè è(
+""*Ô
+3`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaé é(ˇ¸
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaé é(+
+%2boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*	
+false* 
+
+
+trimmedValjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*—
+4`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaç ç("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaç ç(
+""*Ê
+5`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaã ã(Õ 
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaã ã($
+%0java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+valuejava.lang.String2trim()•
+¢
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaã ã(%
+
+trimmedValjava.lang.String"__id*
+
+%0java.lang.String˛˚
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaå å(*
+%1boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+true* 
+
+
+trimmedValjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+3
+4*—
+6`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaä ä("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaä ä(
+""*—
+1`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaê ê("j
+`
+TC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\OptionConverter.javaê ê(
+"":
+valuejava.lang.String:
+""B,"*
+(org.apache.log4j.helpers.OptionConverter

@@ -1,0 +1,29 @@
+
+-org.apache.log4j.helpers.BoundedFIFO#min(II)IZ
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javap p(	"2"3*â
+2Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q(|
+z
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q(	
+%0int"__id*
+	
+%2int*
+1*â
+3Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q(|
+z
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q(	
+%0int"__id*
+	
+%1int*
+1*Å
+1Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q("d
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\BoundedFIFO.javaq q(
+"":
+"":
+""B(&
+$org.apache.log4j.helpers.BoundedFIFO

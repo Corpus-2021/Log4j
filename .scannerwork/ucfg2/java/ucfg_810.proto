@@ -1,0 +1,43 @@
+
+Vcom.klopotek.utils.log.JDBCAppender#setLogType(Ljava/lang/String;ILjava/lang/Object;)ZL
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javağ ğ("10*©
+6L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaö ö( "V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaö ö(!
+""*¤
+7L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaö ö(ÈÅ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaö ö(
+%1boolean"0com.klopotek.utils.log.JDBCAppender#configure()Z*'%
+#com.klopotek.utils.log.JDBCAppender2configure()*
+6
+1*©
+9L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaò ò("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaò ò( 
+""*
+10L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaò ò(
+¡
+
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaò ò(
+
+%0java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*	
+7
+9
+1*©
+1L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaƒ	 ƒ("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaƒ ƒ(
+"":
+_namejava.lang.String:
+"":
+_valuejava.lang.ObjectB'%
+#com.klopotek.utils.log.JDBCAppender

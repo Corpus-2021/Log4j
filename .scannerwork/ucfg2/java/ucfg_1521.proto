@@ -1,0 +1,25 @@
+
+Gorg.apache.log4j.spi.NOPLogger#getAllAppenders()Ljava/util/Enumeration;T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.javaZ Z(&"1*Á
+1T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.java[ [(ƒ€
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.java[ [(
+%0java.util.Vector"java.util.Vector•
+’
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.java[ [(
+%1"java.util.Vector#<init>()V*
+
+%0java.util.VectorÐÍ
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.java[ [($
+%2java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+%0java.util.Vector2
+elements()"u
+T
+JC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\NOPLogger.java[ [(%
+
+%2java.util.EnumerationB" 
+org.apache.log4j.spi.NOPLogger

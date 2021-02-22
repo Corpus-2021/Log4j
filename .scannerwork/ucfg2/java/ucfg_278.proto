@@ -1,0 +1,25 @@
+
+<org.apache.log4j.spi.LoggingEvent#getNDC()Ljava/lang/String;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java²	 ²("2"1*€
+2Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java´ ´(š
+—
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaµ µ(,#
+!org.apache.log4j.spi.LoggingEvent"
+ndc"__id*
+""*
+1*„
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java· ·(¬
+©
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java· ·(
+%0java.lang.String"__id*.*,#
+!org.apache.log4j.spi.LoggingEvent"
+ndc"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java· ·(
+
+%0java.lang.StringB%#
+!org.apache.log4j.spi.LoggingEvent

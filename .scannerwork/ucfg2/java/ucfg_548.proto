@@ -1,0 +1,103 @@
+
+Eorg.apache.log4j.Hierarchy#getCurrentLoggers()Ljava/util/Enumeration;R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java± ±("5*∆
+2R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaª ª(Á‰
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaª ª(
+
+%8void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+vjava.util.Vector*
+
+ojava.lang.Object2addElement(Ljava/lang/Object;)*
+4* 
+3R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaπ π(◊‘
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaπ π($
+%7java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;* 
+
+elemsjava.util.Enumeration2nextElement()é
+ã
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaπ π(%
+ojava.lang.Object"__id*
+
+%7java.lang.Object*
+2
+4*ß
+4R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java∏
+ ∏(≈¬
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java∏
+ ∏(!
+%6boolean"(java.util.Enumeration#hasMoreElements()Z* 
+
+elemsjava.util.Enumeration2hasMoreElements()*
+3
+1*˜
+
+5R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ(†
+ù
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ(
+%0java.util.Hashtable"__id*&*$
+org.apache.log4j.Hierarchy"
+ht§°
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ(#	
+%1int"java.util.Hashtable#size()I*
+
+%0java.util.Hashtable2size()Ä~
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ(
+%2java.util.Vector"java.util.Vector°
+û
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ($
+%3"java.util.Vector#<init>(I)V*
+
+%2java.util.Vector*
+	
+%1inté
+ã
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaµ µ(%
+vjava.util.Vector"__id*
+
+%2java.util.Vector†
+ù
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java∑ ∑(
+%4java.util.Hashtable"__id*&*$
+org.apache.log4j.Hierarchy"
+ht‘—
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java∑ ∑(%
+%5java.util.Enumeration"5java.util.Hashtable#elements()Ljava/util/Enumeration;*
+
+%4java.util.Hashtable2
+elements()ú
+ô
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.java∑ ∑(&
+elemsjava.util.Enumeration"__id*
+
+%5java.util.Enumeration*
+4*ú
+1R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaæ æ(Õ 
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaæ æ(
+%9java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
+
+vjava.util.Vector2
+elements()"s
+R
+FC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Hierarchy.javaæ æ(
+
+%9java.util.EnumerationB
+org.apache.log4j.Hierarchy

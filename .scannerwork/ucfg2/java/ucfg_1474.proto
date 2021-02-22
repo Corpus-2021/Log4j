@@ -1,0 +1,22 @@
+
+Vorg.apache.log4j.lf5.util.DateFormatManager#format(Ljava/util/Date;)Ljava/lang/String;c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaª ª("1*´
+1c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaº º( ©¶
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaº º("
+%0java.text.DateFormat"Yorg.apache.log4j.lf5.util.DateFormatManager#getDateFormatInstance()Ljava/text/DateFormat;*/-
++org.apache.log4j.lf5.util.DateFormatManager2getDateFormatInstance()ìê
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaº º(/
+%1java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*
+
+%0java.text.DateFormat*
+
+datejava.util.Date2format(Ljava/util/Date;)"
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaº º(0
+
+%1java.lang.String:
+datejava.util.DateB/-
++org.apache.log4j.lf5.util.DateFormatManager

@@ -1,0 +1,56 @@
+
+Iorg.apache.log4j.LogMF#formatObject(Ljava/lang/Object;)Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javal l(&"2"4"7"1*¨
+2L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javas s(ê
+ç
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javas s(#
+%2java.lang.String"Gorg.apache.log4j.LogMF#formatDate(Ljava/lang/Object;)Ljava/lang/String;*"
+org.apache.log4j.LogMF*
+
+arg0java.lang.Object"h
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javas s($
+
+%2java.lang.String*ª
+4L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaq q(ì
+é
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaq q($
+%1java.lang.String"Iorg.apache.log4j.LogMF#formatNumber(Ljava/lang/Object;)Ljava/lang/String;*"
+org.apache.log4j.LogMF*
+
+arg0java.lang.Object"h
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaq q(%
+
+%1java.lang.String*þ
+7L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javan n(À½
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javan n("
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+arg0java.lang.Object2
+toString()"h
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javan n(#
+
+%0java.lang.String*™
+1L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javau u(Û
+Ø
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javau u(#
+%3java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+arg0java.lang.Object"h
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javau u($
+
+%3java.lang.String:
+arg0java.lang.ObjectB"
+org.apache.log4j.LogMF

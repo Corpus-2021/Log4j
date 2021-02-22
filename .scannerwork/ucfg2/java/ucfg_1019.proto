@@ -1,0 +1,24 @@
+
+Iorg.apache.log4j.chainsaw.MyTableModel#getColumnName(I)Ljava/lang/String;^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\MyTableModel.javaÆ Æ("1*Å
+1^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\MyTableModel.java∞ ∞(~
+|
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\MyTableModel.java∞ ∞(
+%0$Array"__id*
+""ü
+ú
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\MyTableModel.java∞ ∞(
+%1java.lang.String"
+__arrayGet*
+
+%0$Array*
+"""z
+^
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\MyTableModel.java∞ ∞(
+
+%1java.lang.String:
+""B*(
+&org.apache.log4j.chainsaw.MyTableModel

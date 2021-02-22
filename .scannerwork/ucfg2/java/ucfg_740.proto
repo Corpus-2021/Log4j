@@ -1,0 +1,51 @@
+
+,org.apache.log4j.NDC#get()Ljava/lang/String;L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java€	 €("4*é
+2L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaﬁ" ﬁ(#≥∞
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaﬁ" ﬁ(*
+%2java.lang.Object"(java.util.Stack#peek()Ljava/lang/Object;*
+
+sjava.util.Stack2peek()ö
+ó
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaﬁ ﬁ(7
+%3java.lang.String"__id*)*'
+
+%2java.lang.Object"
+fullMessage"h
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaﬁ ﬁ(8
+
+%3java.lang.String*¸
+3L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java› ›(†ù
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java› ›( 
+%1boolean"java.util.Vector#isEmpty()Z*
+
+sjava.util.Stack2	isEmpty()*
+2
+1*†
+4L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‹ ‹(ª
+∏
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‹ ‹(
+%0java.util.Stack"7org.apache.log4j.NDC#getCurrentStack()Ljava/util/Stack;*"
+org.apache.log4j.NDCÜ
+É
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‹ ‹( 
+sjava.util.Stack"__id*
+
+%0java.util.Stack*
+3
+1*©
+1L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡ ‡("V
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡ ‡(
+""B"
+org.apache.log4j.NDC

@@ -1,0 +1,113 @@
+
+Vorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath#toString()Ljava/lang/String;o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javax x("7*©
+2q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaˆ ˆ(	«¨
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaˆ ˆ(
+%11java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*
+
+<<NONE>>2append(Ljava/lang/String;)*
+1*â
+4q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java„ „(º·
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java„ „(,
+%9"_org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath#categoryElementAt(I)L!unknownSymbol!;*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath*
+""2categoryElementAt(I)§¤
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java… …(
+%10java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*
+\n\t2append(Ljava/lang/String;)*
+5*Œ
+5q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaƒ ƒ(‹ˆ
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaƒ ƒ(%	
+%8int"Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath#size()I*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath2size()*
+4
+1*Û
+7o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javay( y(+ª§
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javay y('
+%0java.lang.StringBuffer"java.lang.StringBufferÃ
+À
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javay y(,
+%1"!java.lang.StringBuffer#<init>(I)V*
+
+%0java.lang.StringBuffer*2d¹
+¶
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javay y(-
+outjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer¢Ÿ
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java{ {(
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*
+\n2append(Ljava/lang/String;)½º
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java| |(/
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*!
+===========================\n2append(Ljava/lang/String;)Â¿
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java} }(4
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*&$
+"CategoryPath:                   \n2append(Ljava/lang/String;)½º
+o
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java~ ~(/
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*!
+---------------------------\n2append(Ljava/lang/String;)µ²
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java€ €(%
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*
+\nCategoryPath:\n\t2append(Ljava/lang/String;)‹ˆ
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java‚ ‚(	
+%7int"Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath#size()I*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath2size()*
+2
+5*æ
+1q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java‹ ‹(¥¢
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.java‹ ‹(
+%12java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*
+\n2append(Ljava/lang/String;)À½
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaŒ Œ(/
+%13java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+outjava.lang.StringBuffer*!
+===========================\n2append(Ljava/lang/String;)ñî
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaŽ Ž(
+%14java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+outjava.lang.StringBuffer2
+toString()"Ž
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryPath.javaŽ Ž(
+
+%14java.lang.StringB=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath

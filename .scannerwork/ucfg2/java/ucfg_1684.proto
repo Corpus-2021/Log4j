@@ -1,0 +1,15 @@
+
+=org.apache.log4j.DailyFileAppenderCalendar#getTimeInMillis()JP
+DC:\q\apache-log4j-1.2.16\contribs\EirikLygre\DailyFileAppender1.java„ „("1*ƒ
+1P
+DC:\q\apache-log4j-1.2.16\contribs\EirikLygre\DailyFileAppender1.java‰ ‰(ê
+ç
+P
+DC:\q\apache-log4j-1.2.16\contribs\EirikLygre\DailyFileAppender1.java‰ ‰("
+
+%0long"%java.util.Calendar#getTimeInMillis()J*
+"""Z
+P
+DC:\q\apache-log4j-1.2.16\contribs\EirikLygre\DailyFileAppender1.java‰ ‰(#
+""B.,
+*org.apache.log4j.DailyFileAppenderCalendar

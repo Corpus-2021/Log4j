@@ -1,0 +1,23 @@
+
+Uorg.apache.log4j.lf5.viewer.LogBrokerMonitor#getLogTableColumns()Ljava/util/Iterator;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java“ “('"1*
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java” ”(Å
+Â
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java” ”(
+%0java.util.List"__id*>*<.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor"
+
+_columnsÖÓ
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java” ”(
+%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%0java.util.List2
+iterator()"‚
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.java” ”(
+
+%1java.util.IteratorB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

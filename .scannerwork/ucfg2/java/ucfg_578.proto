@@ -1,0 +1,15 @@
+
+Lorg.apache.log4j.lf5.LF5Appender#equals(Lorg/apache/log4j/lf5/LF5Appender;)ZX
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.javaµ µ("1*¸
+1X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.java· ·(ôñ
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.java· ·(9
+%0"Gorg.apache.log4j.lf5.LF5Appender#getLogBrokerMonitor()L!unknownSymbol!;*/
+-
+	compareTo org.apache.log4j.lf5.LF5Appender2getLogBrokerMonitor()"b
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\LF5Appender.java· ·(:
+"":-
+	compareTo org.apache.log4j.lf5.LF5AppenderB$"
+ org.apache.log4j.lf5.LF5Appender

@@ -1,0 +1,105 @@
+
+Qorg.apache.log4j.Level#toLevel(ILorg/apache/log4j/Level;)Lorg/apache/log4j/Level;N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaá á("2"3"4"5"6"7"8"9"10*œ
+2N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaë ë( "z
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaë ë(!(
+&
+defaultLevelorg.apache.log4j.Level*≤
+3N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaê	 ê(k
+i
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaê	 ê(	
+%7int"__id*
+""~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaê ê(&
+%8org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaê ê('
+
+%8org.apache.log4j.Level*≈
+4N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaè	 è(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaè è(
+%6org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaè è(
+
+%6org.apache.log4j.Level*≈
+5N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaé	 é(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaé é(&
+%5org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaé é('
+
+%5org.apache.log4j.Level*≈
+6N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaç	 ç(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaç ç(&
+%4org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaç ç('
+
+%4org.apache.log4j.Level*≈
+7N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaå	 å(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaå å($
+%3org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaå å(%
+
+%3org.apache.log4j.Level*≈
+8N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaã	 ã(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaã ã($
+%2org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaã ã(%
+
+%2org.apache.log4j.Level*≈
+9N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaä	 ä(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaä ä(&
+%1org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaä ä('
+
+%1org.apache.log4j.Level*∆
+10N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaâ	 â(~
+|
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaâ â(
+%0org.apache.log4j.Level"__id*
+"""p
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Level.javaâ â(
+
+%0org.apache.log4j.Level:
+"":&
+defaultLevelorg.apache.log4j.LevelB"
+org.apache.log4j.Level

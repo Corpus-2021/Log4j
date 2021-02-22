@@ -1,0 +1,17 @@
+
+Eorg.apache.log4j.net.SyslogAppender#getSyslogHost()Ljava/lang/String;[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java‘	 ‘("1*“
+1[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java’ ’(·
+´
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java’ ’(
+%0java.lang.String"__id*7*5%
+#org.apache.log4j.net.SyslogAppender"
+
+syslogHost"w
+[
+OC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SyslogAppender.java’ ’(
+
+%0java.lang.StringB'%
+#org.apache.log4j.net.SyslogAppender

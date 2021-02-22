@@ -1,0 +1,34 @@
+
+ org.apache.log4j.NDC#getDepth()IL
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaë ë("3*©
+2L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaî î("V
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaî î(
+""*¤
+3L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaì ì(!»
+¸
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaì ì(#
+%0java.util.Stack"7org.apache.log4j.NDC#getCurrentStack()Ljava/util/Stack;*"
+org.apache.log4j.NDCŠ
+‡
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javaì ì($
+stackjava.util.Stack"__id*
+
+%0java.util.Stack*
+2
+1*Æ
+1L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javað ð(š—
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javað ð(	
+%1int"java.util.Vector#size()I*
+
+stackjava.util.Stack2size()"V
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.javað ð(
+""B"
+org.apache.log4j.NDC

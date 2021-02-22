@@ -1,0 +1,41 @@
+
+Torg.apache.log4j.lf5.util.Resource#getInputStreamReader()Ljava/io/InputStreamReader;X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.javau u(/"3*¡
+2X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.javay y("b
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.javay y(
+""*Ó
+3X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.javav v("Ü
+É
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.javav v(C
+injava.io.InputStream"__id*
+""*
+2
+1*ã
+1X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.java|5 |(7ôñ
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.java|# |(4
+%0java.io.InputStreamReader"java.io.InputStreamReader›
+⁄
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.java| |(8
+%1"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*!
+
+%0java.io.InputStreamReader*
+
+injava.io.InputStream´
+®
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.java| |(9#
+readerjava.io.InputStreamReader"__id*!
+
+%0java.io.InputStreamReader"Å
+X
+NC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\Resource.java~ ~(%
+#
+readerjava.io.InputStreamReaderB&$
+"org.apache.log4j.lf5.util.Resource

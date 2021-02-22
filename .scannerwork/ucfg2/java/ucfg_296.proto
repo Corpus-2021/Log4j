@@ -1,0 +1,71 @@
+
+Vorg.apache.log4j.spi.LoggingEvent#removeProperty(Ljava/lang/String;)Ljava/lang/Object;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaö ö( "5*Í
+2Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaû û(%‹
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaû û(#
+%3java.util.Hashtable"java.util.Hashtable 
+
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaû û(%
+%4"java.util.Hashtable#<init>()V*
+
+%3java.util.Hashtable³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaû û(%0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopy"__id*
+
+%3java.util.Hashtable*
+1*œ
+3Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaú ú(³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaú ú(
+%2java.util.Hashtable"__id*2*0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopy*
+2
+1*¶
+4Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaø ø(ĞÍ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaø ø(
+
+%1void"/org.apache.log4j.spi.LoggingEvent#getMDCCopy()V*%#
+!org.apache.log4j.spi.LoggingEvent2getMDCCopy()*
+3*œ
+5Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java÷ ÷(³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.java÷ ÷(
+%0java.util.Hashtable"__id*2*0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopy*
+3
+4*Ÿ
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaı ı(³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaı ı(
+%5java.util.Hashtable"__id*2*0#
+!org.apache.log4j.spi.LoggingEvent"	
+mdcCopy‘
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaı ı('
+%6java.lang.Object"@java.util.Hashtable#remove(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%5java.util.Hashtable*
+
+propNamejava.lang.String2remove(Ljava/lang/Object;)"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\LoggingEvent.javaı ı((
+
+%6java.lang.Object:
+propNamejava.lang.StringB%#
+!org.apache.log4j.spi.LoggingEvent

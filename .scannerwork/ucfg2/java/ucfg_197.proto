@@ -1,0 +1,95 @@
+
+4org.apache.log4j.LogMF#isSimple(Ljava/lang/String;)ZN
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÄ Ä(#"11*ó
+2N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÜ Ü(π∂
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÜ Ü(/	
+%6int"java.lang.String#indexOf(II)I*
+
+patternjava.lang.String*
+""*
+""2indexOf(II)*
+7
+1*≠
+3N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaã ã("X
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaã ã(
+""*å
+4N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaä ä(Æ´
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaä ä()
+
+%5char"java.lang.String#charAt(I)C*
+
+patternjava.lang.String*
+""2	charAt(I)*
+2
+3*å
+5N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaâ â(Æ´
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaâ â()
+
+%4char"java.lang.String#charAt(I)C*
+
+patternjava.lang.String*
+""2	charAt(I)*
+3
+4*å
+6N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaà à(Æ´
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaà à()
+
+%3char"java.lang.String#charAt(I)C*
+
+patternjava.lang.String*
+""2	charAt(I)*
+3
+5*Å
+7N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaá á(£†
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaá á(+	
+%2int"java.lang.String#length()I*
+
+patternjava.lang.String2length()*
+3
+6*ç
+9N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÑ Ñ(Ø¨
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÑ Ñ(*	
+%1int"java.lang.String#indexOf(I)I*
+
+patternjava.lang.String*
+""2
+indexOf(I)*
+7
+1*Æ
+10N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÇ Ç("X
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÇ Ç(
+""*è
+11N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÅ Å(Ø¨
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÅ Å(!	
+%0int"java.lang.String#indexOf(I)I*
+
+patternjava.lang.String*
+""2
+indexOf(I)*
+9
+10*≠
+1N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaé é("X
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaé é(
+"":
+patternjava.lang.StringB"
+org.apache.log4j.LogMF

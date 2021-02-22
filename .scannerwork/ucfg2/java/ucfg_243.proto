@@ -1,0 +1,37 @@
+
+7org.apache.log4j.NameValue#toString()Ljava/lang/String;]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¥ ¥("1*š
+1]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(©
+¦
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(
+%0java.lang.String"__id*'*%
+org.apache.log4j.NameValue"
+key¥
+¢
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+=«
+¨
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(
+%2java.lang.String"__id*)*'
+org.apache.log4j.NameValue"
+value¸
+µ
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"y
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\PropertyConfigurator.java¦ ¦(
+
+%3java.lang.StringB
+org.apache.log4j.NameValue

@@ -1,0 +1,42 @@
+
+gorg.apache.log4j.xml.DOMConfigurator$4#parse(Ljavax/xml/parsers/DocumentBuilder;)Lorg/w3c/dom/Document;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¦ ¦("1*Õ
+
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java§8 §(>™–
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java§, §(7
+%0org.xml.sax.InputSource"org.xml.sax.InputSourceÃ
+À
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java§( §(?
+%1"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
+
+%0org.xml.sax.InputSource*
+""°
+­
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java§ §(@&
+inputSourceorg.xml.sax.InputSource"__id*
+
+%0org.xml.sax.InputSource‰†
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java¨ ¨(:
+
+%2void"8org.xml.sax.InputSource#setSystemId(Ljava/lang/String;)V*(
+&
+inputSourceorg.xml.sax.InputSource*
+dummy://log4j.dtd2setSystemId(Ljava/lang/String;)ÒÏ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java© ©(.
+%3org.w3c.dom.Document"Xjavax.xml.parsers.DocumentBuilder#parse(Lorg/xml/sax/InputSource;)Lorg/w3c/dom/Document;*-
++
+parser!javax.xml.parsers.DocumentBuilder*(
+&
+inputSourceorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)"|
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.java© ©(/
+
+%3org.w3c.dom.Document:+
+parser!javax.xml.parsers.DocumentBuilderB*(
+&org.apache.log4j.xml.DOMConfigurator$4

@@ -1,0 +1,21 @@
+
+2org.apache.log4j.LogXF#valueOf(S)Ljava/lang/Short;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.javaU U(""1*Ë
+1L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.javaV V(xv
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.javaV V(
+%0java.lang.Short"java.lang.Short”
+‘
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.javaV V(
+%1"java.lang.Short#<init>(S)V*
+
+%0java.lang.Short*
+"""g
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogXF.javaV V(
+
+%0java.lang.Short:
+""B"
+org.apache.log4j.LogXF

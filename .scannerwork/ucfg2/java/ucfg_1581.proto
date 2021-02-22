@@ -1,0 +1,38 @@
+
+>org.apache.log4j.MDC#get(Ljava/lang/String;)Ljava/lang/Object;J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaU	 U("3*•
+2J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaW W(x
+v
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaW W(
+%1org.apache.log4j.MDC"__id*
+""á
+Þ
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaW W(
+%2java.lang.Object"?org.apache.log4j.MDC#get0(Ljava/lang/String;)Ljava/lang/Object;*
+
+%1org.apache.log4j.MDC*
+
+keyjava.lang.String"f
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaW W(
+
+%2java.lang.Object*Ñ
+3J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaV V(x
+v
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaV V(
+%0org.apache.log4j.MDC"__id*
+""*
+2
+1*¥
+1J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaY Y("T
+J
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\MDC.javaY Y(
+"":
+keyjava.lang.StringB"
+org.apache.log4j.MDC

@@ -1,0 +1,17 @@
+
+Torg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#getTotalNumberOfRecords()Iq
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.java   ('"1*ñ
+1q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.java¡ ¡()¿¼
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.java¡ ¡(+	
+%0int"[org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#getNumberOfRecordsFromChildren()I*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode2 getNumberOfRecordsFromChildren()¹¶
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.java¡. ¡(K	
+%1int"Xorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode#getNumberOfContainedRecords()I*=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode2getNumberOfContainedRecords()"{
+q
+eC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNode.java¡ ¡(L
+""B=;
+9org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNode

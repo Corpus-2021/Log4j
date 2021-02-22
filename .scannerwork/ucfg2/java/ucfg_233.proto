@@ -1,0 +1,109 @@
+
+Rorg.apache.log4j.chainsaw.DetailPanel#escape(Ljava/lang/String;)Ljava/lang/String;]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaé é("10"11*∞
+3]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaï ï(∫∑
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaï ï(#
+
+%8char"java.lang.String#charAt(I)C*
+
+aStrjava.lang.String*
+""2	charAt(I)*
+4
+5
+6
+7
+8*ÿ
+4]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java§ §(ÓÎ
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java§ §(
+%7java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""2	append(C)*
+9*˝
+5]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java† †(ìê
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java° °(#
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*	
+&amp;2append(Ljava/lang/String;)*
+9*˛
+6]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaù ù(îë
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaû û($
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+
+&quot;2append(Ljava/lang/String;)*
+9*¸
+7]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaö ö(íè
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaõ õ("
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+&gt;2append(Ljava/lang/String;)*
+9*¸
+8]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaó ó(íè
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaò ò("
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+&lt;2append(Ljava/lang/String;)*
+9*ú
+9]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaî î(Ø¨
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaî î()	
+%2int"java.lang.String#length()I*
+
+aStrjava.lang.String2length()*
+3
+1*⁄
+10]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaì! ì(3òï
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaì% ì(1
+%0java.lang.StringBuffer"java.lang.StringBuffer™
+ß
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaì! ì(3
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBufferß
+§
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaì ì(4
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer*
+9*Ã
+11]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaê ê("g
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.javaê ê(
+""*º
+1]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java® ®(‹Ÿ
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java® ®(
+%9java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"y
+]
+QC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\chainsaw\DetailPanel.java® ®(
+
+%9java.lang.String:
+aStrjava.lang.StringB)'
+%org.apache.log4j.chainsaw.DetailPanel

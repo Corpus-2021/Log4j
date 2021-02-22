@@ -1,0 +1,34 @@
+
+Vorg.apache.log4j.lf5.viewer.FilteredLogTableModel#getFilteredRecords()Ljava/util/List;i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.javaœ œ(#"3*ð
+2i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.javaž ž(ú÷
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.javaž ž(
+
+%1void"<org.apache.log4j.lf5.viewer.FilteredLogTableModel#refresh()V*53
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel2	refresh()*
+1*Ð
+3i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java (×
+Ô
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java (
+%0java.util.List"__id*K*I3
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel"
+_filteredRecords*
+2
+1*Î
+1i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java   (×
+Ô
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java   (
+%2java.util.List"__id*K*I3
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel"
+_filteredRecords"ƒ
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java   (
+
+%2java.util.ListB53
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel

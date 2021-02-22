@@ -1,0 +1,16 @@
+
+@org.apache.log4j.net.SMTPAppender#getReplyTo()Ljava/lang/String;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÀ	 À("1*ˆ
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÁ Á(°
+­
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÁ Á(
+%0java.lang.String"__id*2*0#
+!org.apache.log4j.net.SMTPAppender"	
+replyTo"u
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\SMTPAppender.javaÁ Á(
+
+%0java.lang.StringB%#
+!org.apache.log4j.net.SMTPAppender

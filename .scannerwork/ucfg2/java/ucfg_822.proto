@@ -1,0 +1,15 @@
+
+Morg.apache.log4j.Logger#getLogger(Ljava/lang/Class;)Lorg/apache/log4j/Logger;M
+CC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Logger.javat	 t("1*ì
+1M
+CC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Logger.javau u(¾»
+M
+CC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Logger.javau  u(/
+%0java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+clazzjava.lang.Class2	getName()"W
+M
+CC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\Logger.javau u(1
+"":
+clazzjava.lang.ClassB"
+org.apache.log4j.Logger

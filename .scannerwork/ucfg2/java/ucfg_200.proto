@@ -1,0 +1,75 @@
+
+horg.apache.log4j.LogMF#format(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java÷ ÷( "8*ì
+2N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java… …(‘
+
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java… …(
+patternjava.lang.String"__id*
+
+keyjava.lang.String*
+1*ë
+3N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java€ €(/
+
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java€ €(/
+patternjava.lang.String"__id*
+
+%1java.lang.String*
+1*’
+5N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaş ÿ(EŸ
+œ
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaş ÿ(E"
+bundlejava.util.ResourceBundle"__id* 
+
+%0java.util.ResourceBundle•’
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java€ €(/
+%1java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*$
+"
+bundlejava.util.ResourceBundle*
+
+keyjava.lang.String2getString(Ljava/lang/String;)*
+3*è
+6N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÿ ÿ(&
+Š
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaÿ ÿ(D
+%0java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*(
+&
+resourceBundleNamejava.lang.String*
+5*Ú
+8N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaû û(}
+{
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaû û(
+patternjava.lang.String"__id*
+""*
+2
+6*×
+1N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java‡ ‡(•
+’
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java‡ ‡()
+%2java.lang.String"Vorg.apache.log4j.LogMF#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+org.apache.log4j.LogMF*
+
+patternjava.lang.String*
+
+	arguments$Array"j
+N
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.java‡ ‡(*
+
+%2java.lang.String:&
+resourceBundleNamejava.lang.String:
+keyjava.lang.String:
+	arguments$ArrayB"
+org.apache.log4j.LogMF

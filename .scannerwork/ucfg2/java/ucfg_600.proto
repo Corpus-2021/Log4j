@@ -1,0 +1,401 @@
+
+9org.apache.log4j.HTMLLayout#getHeader()Ljava/lang/String;S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaŸ	 Ÿ("3*ô
+2S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÒ Ò(
+õ
+ò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÒ Ò(8
+%51java.lang.String"__concat*
+<th>File:Line</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÒ Ò(9
+%52java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%51java.lang.String2append(Ljava/lang/String;)*
+1*ªW
+3S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java⁄ ⁄(*éã
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java⁄ ⁄((
+%0java.lang.StringBuffer"java.lang.StringBuffer†
+ù
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java⁄ ⁄(*
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBufferû
+õ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java⁄ ⁄(+
+sbufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBufferÛ
+
+T
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java€ €(è
+%2java.lang.String"__concat*nl
+j<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">*
+""öó
+T
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java€ €(ê
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%2java.lang.String2append(Ljava/lang/String;)é
+ã
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‹ ‹(*
+%4java.lang.String"__concat*
+
+<html>*
+""ôñ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‹ ‹(+
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%4java.lang.String2append(Ljava/lang/String;)é
+ã
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java› ›(*
+%6java.lang.String"__concat*
+
+<head>*
+""ôñ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java› ›(+
+%7java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%6java.lang.String2append(Ljava/lang/String;)¢
+ü
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬁ ﬁ(!
+%8java.lang.String"__id***(
+org.apache.log4j.HTMLLayout"
+title°
+û
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬁ ﬁ(!
+%9java.lang.String"__concat*	
+<title>*
+
+%8java.lang.String£
+†
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬁ ﬁ(.
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+
+</title>û
+õ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬁ ﬁ(@
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬁ ﬁ(A
+%12java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%11java.lang.String2append(Ljava/lang/String;)¢
+ü
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬂ ﬂ(>
+%13java.lang.String"__concat*
+<style type=\"text/css\">*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaﬂ ﬂ(?
+%14java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%13java.lang.String2append(Ljava/lang/String;)ç
+ä
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‡ ‡()
+%15java.lang.String"__concat*
+<!--*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‡ ‡(*
+%16java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%15java.lang.String2append(Ljava/lang/String;)…
+∆
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java· ·(d
+%17java.lang.String"__concat*DB
+@body, table {font-family: arial,sans-serif; font-size: x-small;}*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java· ·(e
+%18java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%17java.lang.String2append(Ljava/lang/String;)ƒ
+¡
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‚ ‚(_
+%19java.lang.String"__concat*?=
+;th {background: #336699; color: #FFFFFF; text-align: left;}*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‚ ‚(`
+%20java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%19java.lang.String2append(Ljava/lang/String;)å
+â
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java„ „('
+%21java.lang.String"__concat*
+-->*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java„ „((
+%22java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%21java.lang.String2append(Ljava/lang/String;)ë
+é
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‰ ‰(,
+%23java.lang.String"__concat*
+
+</style>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.java‰ ‰(-
+%24java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%23java.lang.String2append(Ljava/lang/String;)ê
+ç
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÂ Â(+
+%25java.lang.String"__concat*	
+</head>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÂ Â(,
+%26java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%25java.lang.String2append(Ljava/lang/String;)ƒ
+¡
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÊ Ê(_
+%27java.lang.String"__concat*?=
+;<body bgcolor=\"#FFFFFF\" topmargin=\"6\" leftmargin=\"6\">*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÊ Ê(`
+%28java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%27java.lang.String2append(Ljava/lang/String;)†
+ù
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÁ Á(;
+%29java.lang.String"__concat*
+<hr size=\"1\" noshade>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÁ Á(<
+%30java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%29java.lang.String2append(Ljava/lang/String;)~|
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË0 Ë(>
+%31java.util.Date"java.util.Dateí
+è
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË, Ë(@
+%32"java.util.Date#<init>()V*
+
+%31java.util.Date±
+Æ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË Ë(@
+%33java.lang.String"__concat*
+Log session start time *
+
+%31java.util.Date†
+ù
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË Ë(I
+%34java.lang.String"__concat*
+
+%33java.lang.String*
+<br>û
+õ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË Ë([
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaË Ë(\
+%36java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%35java.lang.String2append(Ljava/lang/String;)ç
+ä
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÈ È((
+%37java.lang.String"__concat*
+<br>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÈ È()
+%38java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%37java.lang.String2append(Ljava/lang/String;)È
+Ê
+T
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÍ Í(É
+%39java.lang.String"__concat*ca
+_<table cellspacing=\"0\" cellpadding=\"4\" border=\"1\" bordercolor=\"#224466\" width=\"100%\">*
+""úô
+T
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÍ Í(Ñ
+%40java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%39java.lang.String2append(Ljava/lang/String;)ç
+ä
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÎ Î((
+%41java.lang.String"__concat*
+<tr>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÎ Î()
+%42java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%41java.lang.String2append(Ljava/lang/String;)ñ
+ì
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÏ Ï(1
+%43java.lang.String"__concat*
+<th>Time</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÏ Ï(2
+%44java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%43java.lang.String2append(Ljava/lang/String;)ò
+ï
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÌ Ì(3
+%45java.lang.String"__concat*
+<th>Thread</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÌ Ì(4
+%46java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%45java.lang.String2append(Ljava/lang/String;)ó
+î
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÓ Ó(2
+%47java.lang.String"__concat*
+<th>Level</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÓ Ó(3
+%48java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%47java.lang.String2append(Ljava/lang/String;)ö
+ó
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÔ Ô(5
+%49java.lang.String"__concat*
+<th>Category</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÔ Ô(6
+%50java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%49java.lang.String2append(Ljava/lang/String;)*
+2
+1*ä
+
+1S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÛ Û(ô
+ñ
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÛ Û(4
+%53java.lang.String"__concat*
+<th>Message</th>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÛ Û(5
+%54java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%53java.lang.String2append(Ljava/lang/String;)é
+ã
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÙ Ù()
+%55java.lang.String"__concat*	
+</tr>*
+""õò
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaÙ Ù(*
+%56java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+%55java.lang.String2append(Ljava/lang/String;)‘—
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı(
+%57java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"p
+S
+GC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\HTMLLayout.javaı ı(
+
+%57java.lang.StringB
+org.apache.log4j.HTMLLayout

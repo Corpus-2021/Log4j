@@ -1,0 +1,34 @@
+
+Torg.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor#removeUnusedNodes()Iw
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaˇ ˇ(!"7*Ü
+5w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÑ) Ñ(4Çˇ
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÑ) Ñ(B
+%1java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*&
+$
+enumerationjava.util.Enumeration2nextElement()*
+6*˜
+6w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÉ É(Ì
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÉ É((
+%0boolean"(java.util.Enumeration#hasMoreElements()Z*&
+$
+enumerationjava.util.Enumeration2hasMoreElements()*
+5
+1*¥
+7w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÄ Ä(∞
+≠
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaÇ Ç(;$
+enumerationjava.util.Enumeration"__id*
+""*
+6*Ä
+1w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaå å("Å
+w
+kC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryNodeEditor.javaå å(
+""BCA
+?org.apache.log4j.lf5.viewer.categoryexplorer.CategoryNodeEditor

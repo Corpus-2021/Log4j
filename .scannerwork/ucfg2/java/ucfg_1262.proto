@@ -1,0 +1,16 @@
+
+Qorg.apache.log4j.net.JMSAppender#getInitialContextFactoryName()Ljava/lang/String;X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÈ È(,"1*–
+1X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÉ É($À
+½
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÉ É($
+%0java.lang.String"__id*C*A"
+ org.apache.log4j.net.JMSAppender"
+initialContextFactoryName"t
+X
+LC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\JMSAppender.javaÉ É(%
+
+%0java.lang.StringB$"
+ org.apache.log4j.net.JMSAppender

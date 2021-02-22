@@ -1,0 +1,25 @@
+
+porg.apache.log4j.lf5.viewer.categoryexplorer.CategoryAbstractCellEditor#isCellEditable(Ljava/util/EventObject;)Z}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaR R("3"1*Œ
+2}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaU U("‡
+}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaU U(
+""*û
+3}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaT T(îë
+}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaT
+ T(0	
+%0int"*java.awt.event.MouseEvent#getClickCount()I*"
+ 
+anEventjava.util.EventObject2getClickCount()*
+2
+1*Œ
+1}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaX X("‡
+}
+sC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryAbstractCellEditor.javaX X(
+"": 
+anEventjava.util.EventObjectBKI
+Gorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryAbstractCellEditor

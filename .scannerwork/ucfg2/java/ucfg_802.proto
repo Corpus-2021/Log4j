@@ -1,0 +1,41 @@
+
+Acom.klopotek.utils.log.JDBCLogger#getErrorMsg()Ljava/lang/String;J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç ç("1*´
+1J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç5 ç(=¢
+ü
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç5 ç(=
+%0java.lang.String"__id*3*1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsgxv
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç. ç(4
+%1java.lang.String"java.lang.String∑
+¥
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç* ç(>
+%2",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%1java.lang.String*
+
+%0java.lang.StringÜ
+É
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç ç(?
+rjava.lang.String"__id*
+
+%1java.lang.Stringê
+ç
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaç@ ç(O1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsg"__id*
+"""e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaçQ ç(Z
+
+rjava.lang.StringB%#
+!com.klopotek.utils.log.JDBCLogger

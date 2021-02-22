@@ -1,0 +1,29 @@
+
+Lorg.apache.log4j.gui.TextPaneAppender#getColorBackground()Ljava/lang/String;S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java±	 ±("1*ä
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java² ²(´
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java² ²(!
+%0javax.swing.JTextPane"__id*7*5'
+%org.apache.log4j.gui.TextPaneAppender"
+
+textpaneÒÏ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java² ²(1
+%1java.awt.Color"2java.awt.Component#getBackground()Ljava/awt/Color;*
+
+%0javax.swing.JTextPane2getBackground()Œ
+‰
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java² ²(2
+%2java.lang.String"Worg.apache.log4j.gui.TextPaneAppender#colorToString(Ljava/awt/Color;)Ljava/lang/String;*)"'
+%org.apache.log4j.gui.TextPaneAppender*
+
+%1java.awt.Color"o
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.java² ²(3
+
+%2java.lang.StringB)'
+%org.apache.log4j.gui.TextPaneAppender

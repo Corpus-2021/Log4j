@@ -1,0 +1,66 @@
+
+Qorg.apache.log4j.spi.ThrowableInformation#getThrowableStrRep()[Ljava/lang/String;_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaM M(1"8*Ú
+2_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaY Y(Ã
+À
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaY" Y(+
+%2java.lang.Throwable"__id*<*:+
+)org.apache.log4j.spi.ThrowableInformation"
+	throwable¨
+¥
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaY
+ Y(,4+
+)org.apache.log4j.spi.ThrowableInformation"
+rep"__id*
+""*
+1*Ú
+3_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaW W((Ã
+À
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaW0 W(9
+%1java.lang.Throwable"__id*<*:+
+)org.apache.log4j.spi.ThrowableInformation"
+	throwable¨
+¥
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaW
+ W(:4+
+)org.apache.log4j.spi.ThrowableInformation"
+rep"__id*
+""*
+1*¢
+8_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaN N(
+°
+­
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.javaN N(
+
+%0$Array"__id*6*4+
+)org.apache.log4j.spi.ThrowableInformation"
+rep*	
+2
+3
+1*Ä
+1_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.java\ \(°
+­
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.java\ \(
+%3$Array"__id*6*4+
+)org.apache.log4j.spi.ThrowableInformation"
+rep·´
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.java\ \(!
+%4$Array"*java.lang.Object#clone()Ljava/lang/Object;*
+
+%3$Array2clone()"q
+_
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\spi\ThrowableInformation.java\ \("
+
+%4$ArrayB-+
+)org.apache.log4j.spi.ThrowableInformation

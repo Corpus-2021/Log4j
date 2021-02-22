@@ -1,0 +1,79 @@
+
+`org.apache.log4j.WriterAppender#createWriter(Ljava/io/OutputStream;)Ljava/io/OutputStreamWriter;W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaë ë(!"12*
+2W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaû& û((š—
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaû û(% 
+%5java.io.OutputStreamWriter"java.io.OutputStreamWriterà
+İ
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaû û()
+%6":java.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;)V*"
+ 
+%5java.io.OutputStreamWriter*
+
+osjava.io.OutputStream¬
+©
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaû û()$
+retvaljava.io.OutputStreamWriter"__id*"
+ 
+%5java.io.OutputStreamWriter*
+1*“
+4W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javañ ñ()¬
+©
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javañ ñ()$
+retvaljava.io.OutputStreamWriter"__id*"
+ 
+%1java.io.OutputStreamWriter*
+2
+1*
+10W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javañ! ñ(#š—
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javañ ñ(  
+%1java.io.OutputStreamWriter"java.io.OutputStreamWriter
+Š
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javañ
+ ñ()
+%2"Ljava.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;Ljava/lang/String;)V*"
+ 
+%1java.io.OutputStreamWriter*
+
+osjava.io.OutputStream*
+
+encjava.lang.String*
+4*€
+12W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaì  ì($
+
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaì ì(%$
+retvaljava.io.OutputStreamWriter"__id*
+""éæ
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaî î(
+%0java.lang.String"?org.apache.log4j.WriterAppender#getEncoding()Ljava/lang/String;*#!
+org.apache.log4j.WriterAppender2getEncoding()•
+’
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaî î(
+encjava.lang.String"__id*
+
+%0java.lang.String*
+
+2
+10
+1*à
+1W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaı ı("
+W
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\WriterAppender.javaı ı(&
+$
+retvaljava.io.OutputStreamWriter:
+osjava.io.OutputStreamB#!
+org.apache.log4j.WriterAppender

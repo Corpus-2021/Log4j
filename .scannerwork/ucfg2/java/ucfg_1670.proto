@@ -1,0 +1,44 @@
+
+Lorg.apache.log4j.net.ZeroConfSupport#createJmDNSVersion3()Ljava/lang/Object;Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaG G(-"7*×
+5Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaK K(8"v
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaK K(8
+
+%2java.lang.Object*á
+6Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaJ J(L¶
+³
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaJ J(L-
+jmDNSCreateMethodjava.lang.reflect.Method"__id* 
+
+%1java.lang.reflect.MethodÁ¾
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaK K(7
+%2java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*/
+-
+jmDNSCreateMethodjava.lang.reflect.Method*
+""*
+""2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+5*Ø
+7Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaJ' J(1¶
+³
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaJ' J(1
+%0java.lang.Class"__id*8*6&
+$org.apache.log4j.net.ZeroConfSupport"
+
+jmDNSClass¸µ
+Z
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\net\ZeroConfSupport.javaJ' J(K
+%1java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+%0java.lang.Class*
+
+create*
+""2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+6B("&
+$org.apache.log4j.net.ZeroConfSupport

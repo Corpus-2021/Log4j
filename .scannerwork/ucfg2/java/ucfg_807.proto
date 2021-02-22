@@ -1,0 +1,622 @@
+
+Tcom.klopotek.utils.log.JDBCAppender#setOption(Ljava/lang/String;Ljava/lang/String;)VL
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÿ ÿ("63*£
+24L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¨ ¨(¿
+Ω
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¨ ¨(&
+
+%33int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+argjava.lang.String*
+15
+28
+19*Ñ
+46L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java (#™
+ß
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java (#3%
+#com.klopotek.utils.log.JDBCAppender"
+
+password"__id*
+
+_valuejava.lang.String*
+4*¿
+48L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÓ
+ Ó(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÓ Ó((
+%11java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÓ
+ Ó()
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%11java.lang.String2equals(Ljava/lang/Object;)*
+46
+4
+45*Î
+27L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaß ß(å
+â
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaß ß(
+namejava.lang.String"__id*
+
+argjava.lang.String*
+15
+28*Ñ
+49L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÏ Ï(#™
+ß
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÏ Ï(#3%
+#com.klopotek.utils.log.JDBCAppender"
+
+username"__id*
+
+_valuejava.lang.String*
+4*–
+28L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java• •(◊‘
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java• •(
+%32java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*%
+#
+st_argjava.util.StringTokenizer2nextToken()ã
+à
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java• •(
+argjava.lang.String"__id*
+
+%32java.lang.String*
+24
+15
+27
+17
+28*æ
+51L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÍ
+ Í(v
+t
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÍ Í((
+%9java.lang.String"__id*
+""‰·
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÍ
+ Í()
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%9java.lang.String2equals(Ljava/lang/Object;)*
+48
+4
+49*ˇ
+52L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(•
+¢
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaË Ë(.%
+#com.klopotek.utils.log.JDBCAppender"
+url"__id*
+
+_valuejava.lang.String*
+4*ò
+31L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaü ü(—
+Œ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaü ü(b
+%30java.lang.String"__concat*=;
+9JDBCAppender::setOption(), Invalid COLUMN_OPTION value : *
+
+_valuejava.lang.Stringó
+î
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaü ü(i
+%31java.lang.String"__concat*
+
+%30java.lang.String*
+ !"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java† †(
+""*¨	
+32L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(◊‘
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(
+%26java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*%
+#
+st_coljava.util.StringTokenizer2nextToken()é
+ã
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javañ ñ(
+columnjava.lang.String"__id*
+
+%26java.lang.Stringéã
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaô ô(  
+%27java.util.StringTokenizer"java.util.StringTokenizerÍ
+Á
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaô ô(-
+%28"Gjava.util.StringTokenizer#<init>(Ljava/lang/String;Ljava/lang/String;)V*"
+ 
+%27java.util.StringTokenizer*
+
+columnjava.lang.String*
+~†
+ù
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaô ô(-#
+st_argjava.util.StringTokenizer"__id*"
+ 
+%27java.util.StringTokenizerΩ∫
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaõ õ(#
+
+%29int"(java.util.StringTokenizer#countTokens()I*%
+#
+st_argjava.util.StringTokenizer2countTokens()*
+15
+28
+31*Ω
+54L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÊ
+ Ê(v
+t
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÊ Ê(#
+%7java.lang.String"__id*
+""„‡
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÊ
+ Ê($
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%7java.lang.String2equals(Ljava/lang/Object;)*
+4
+51
+52*ù
+10L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java√ √(√
+¿
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java√ √(*
+
+%39int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+_valuejava.lang.String*
+4*å
+55L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‰) ‰(/≤
+Ø
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‰ ‰(/;%
+#com.klopotek.utils.log.JDBCAppender"
+connection_class"__id*
+
+_valuejava.lang.String*
+4*º
+12L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaø
+ ø(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaø ø(&
+%37java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaø
+ ø('
+%38boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%37java.lang.String2equals(Ljava/lang/Object;)*
+6
+10*ä
+57L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‡ ‡(∫∑
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‡ ‡(
+%4java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+_valuejava.lang.String2trim()ç
+ä
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‡ ‡(
+_valuejava.lang.String"__id*
+
+%4java.lang.Stringv
+t
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‚ ‚($
+%5java.lang.String"__id*
+""„‡
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‚ ‚(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%5java.lang.String2equals(Ljava/lang/Object;)*
+4
+54
+55*ò
+35L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaê
+ ê(—
+Œ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaê ê(a
+%24java.lang.String"__concat*=;
+9JDBCAppender::setOption(), Invalid COLUMN_OPTION value : *
+
+_valuejava.lang.Stringó
+î
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaê ê(h
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+ !"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaë ë(
+""*™
+58L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ4 ﬁ(;"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ4 ﬁ(;
+""*™
+14L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaº0 º(7"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaº0 º(7
+""*∏
+36L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˇ ˇ(x
+v
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˇ ˇ(
+namejava.lang.String"__id*
+""y
+w
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÅ	 Å(
+valuejava.lang.String"__id*
+""z
+x
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÇ	 Ç(
+columnjava.lang.String"__id*
+""w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÉ	 É(
+argjava.lang.String"__id*
+""Ñ
+Å
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÜ Ü(#
+st_coljava.util.StringTokenizer"__id*
+""Ñ
+Å
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaá á(#
+st_argjava.util.StringTokenizer"__id*
+""éã
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaä ä( 
+%21java.util.StringTokenizer"java.util.StringTokenizerÍ
+Á
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaä ä(-
+%22"Gjava.util.StringTokenizer#<init>(Ljava/lang/String;Ljava/lang/String;)V*"
+ 
+%21java.util.StringTokenizer*
+
+_valuejava.lang.String*
+	†
+ù
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaä ä(-#
+st_coljava.util.StringTokenizer"__id*"
+ 
+%21java.util.StringTokenizerΩ∫
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaå å(%
+
+%23int"(java.util.StringTokenizer#countTokens()I*%
+#
+st_coljava.util.StringTokenizer2countTokens()*
+35
+4
+32*ˇ
+59L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ ﬁ($†ù
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ ﬁ(-	
+%3int"java.lang.String#length()I*
+
+_valuejava.lang.String2length()*
+57
+58*∏
+15L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaº º(÷”
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaº º(.
+%36boolean"Vcom.klopotek.utils.log.JDBCAppender#setLogType(Ljava/lang/String;ILjava/lang/Object;)Z*'%
+#com.klopotek.utils.log.JDBCAppender*
+
+namejava.lang.String*
+""*
+
+valuejava.lang.String21setLogType(Ljava/lang/String;ILjava/lang/Object;)*
+14
+4
+32*™
+37L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˝ ˝("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˝ ˝(
+""*Å
+38L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˝
+ ˝(¢
+ü
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˝
+ ˝(
+%20java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*
+36
+37*Ï
+17L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaπ π( ç
+ä
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaπ π( 
+valuejava.lang.String"__id*
+
+argjava.lang.String*
+15
+28*Ω
+39L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˚
+ ˚(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˚ ˚('
+%18java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˚
+ ˚((
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%18java.lang.String2equals(Ljava/lang/Object;)*
+38
+12*ó
+19L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaµ µ(–
+Õ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaµ$ µ(g
+%34java.lang.String"__concat*?=
+;JDBCAppender::setOption(), Invalid COLUMN_OPTION LogType : *
+
+argjava.lang.Stringó
+î
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaµ$ µ(n
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+ !"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java∂ ∂(
+""*j
+0 "c
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java‘ ‘(
+implicit return*¢
+1L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java“ “(…∆
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java“ “(
+%49boolean"0com.klopotek.utils.log.JDBCAppender#configure()Z*'%
+#com.klopotek.utils.log.JDBCAppender2configure()*
+0*∫
+3L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java–' –(.w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java–6 –(B
+%47java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java–' –(C
+%48boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%47java.lang.String2equals(Ljava/lang/Object;)*
+0
+1*Ω
+4L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java–	 –(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java– –("
+%45java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java–	 –(#
+%46boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%45java.lang.String2equals(Ljava/lang/Object;)*	
+3
+0
+1*©
+5L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÕ Õ(–Õ
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÕ Õ($
+%44boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_valuejava.lang.String*
+Y2equals(Ljava/lang/Object;)*
+4*∫
+6L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÀ
+ À(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÀ À(&
+%42java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÀ
+ À('
+%43boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%42java.lang.String2equals(Ljava/lang/Object;)*
+4
+5*Ä
+60L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ ﬁ(°û
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaﬁ ﬁ(	
+%2int"java.lang.String#length()I*
+
+_optionjava.lang.String2length()*
+58
+59*™
+61L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java›( ›(/"V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java›( ›(/
+""*Å
+40L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˘ ˘(ß
+§
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java˘ ˘(0%
+#com.klopotek.utils.log.JDBCAppender"
+table"__id*
+
+_valuejava.lang.String*
+4*¯
+63L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java⁄ ⁄(ª∏
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java⁄ ⁄(
+%0java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+_optionjava.lang.String2trim()é
+ã
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java⁄ ⁄(
+_optionjava.lang.String"__id*
+
+%0java.lang.String∫∑
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java€ €(
+%1java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+_valuejava.lang.String2trim()ç
+ä
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java€ €(
+_valuejava.lang.String"__id*
+
+%1java.lang.String*
+60
+61*™
+41L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¯ ¯("V
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¯ ¯(
+""*Å
+42L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¯
+ ¯(¢
+ü
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.java¯
+ ¯(
+%17java.lang.String"__id*0*.%
+#com.klopotek.utils.log.JDBCAppender"
+sql*
+40
+41*Ω
+43L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˆ
+ ˆ(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˆ ˆ(%
+%15java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaˆ
+ ˆ(&
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%15java.lang.String2equals(Ljava/lang/Object;)*
+39
+42*ˇ
+44L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÙ	 Ù(•
+¢
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÙ Ù(.%
+#com.klopotek.utils.log.JDBCAppender"
+sql"__id*
+
+_valuejava.lang.String*
+4*Ω
+45L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÚ
+ Ú(w
+u
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÚ Ú(#
+%13java.lang.String"__id*
+""Â‚
+L
+@C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCAppender.javaÚ
+ Ú($
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+_optionjava.lang.String*
+
+%13java.lang.String2equals(Ljava/lang/Object;)*
+43
+44:
+_optionjava.lang.String:
+_valuejava.lang.StringB'%
+#com.klopotek.utils.log.JDBCAppender

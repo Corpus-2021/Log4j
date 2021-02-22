@@ -1,0 +1,97 @@
+
+nMyConnectionHandler#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javah h(""8*æ
+3K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javam m(@ì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javam m(@
+MyConnectionHandler"
+con"__id*
+
+%5java.sql.Connectionì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javan n(
+%6java.sql.Connection"__id* *
+MyConnectionHandler"
+con∫∑
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javan n(
+
+%7void"%java.sql.Connection#setAutoCommit(Z)V*
+
+%6java.sql.Connection*
+""2setAutoCommit(Z)*
+1*∞
+4K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javam	 m(ÿ
+’
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javam	 m(@
+%5java.sql.Connection"qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;*"
+java.sql.DriverManager*
+
+_urljava.lang.String*
+
+	_usernamejava.lang.String*
+
+	_passwordjava.lang.String*
+3*é
+5K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal% l((ì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal% l((
+%3java.sql.Connection"__id* *
+MyConnectionHandler"
+con†ù
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal% l(0
+
+%4void"java.sql.Connection#close()V*
+
+%3java.sql.Connection2close()*
+4*ö
+7K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal l(ì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal l(
+%1java.sql.Connection"__id* *
+MyConnectionHandler"
+con©¶
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal l(#
+%2boolean"java.sql.Connection#isClosed()Z*
+
+%1java.sql.Connection2
+isClosed()*
+4
+5*Ó
+8K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal l(ì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javal l(
+%0java.sql.Connection"__id* *
+MyConnectionHandler"
+con*
+4
+7*“
+1K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javar r(ì
+ê
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javar r(
+%8java.sql.Connection"__id* *
+MyConnectionHandler"
+con"j
+K
+AC:\q\apache-log4j-1.2.16\contribs\ThomasFenner\code_example2.javar r(
+
+%8java.sql.Connection:
+_urljava.lang.String:
+	_usernamejava.lang.String:
+	_passwordjava.lang.StringB
+MyConnectionHandler

@@ -1,0 +1,79 @@
+
+Iorg.apache.log4j.LogMF#formatNumber(Ljava/lang/Object;)Ljava/lang/String;L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaK' K(3"4*™
+2L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaN N((®
+•
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaN N((*
+org.apache.log4j.LogMF"
+numberLocale"__id*#
+!
+currentLocalejava.util.LocaleÄ
+˝
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaO O(B
+%3java.text.NumberFormat"Njava.text.NumberFormat#getInstance(Ljava/util/Locale;)Ljava/text/NumberFormat;*"
+java.text.NumberFormat*#
+!
+currentLocalejava.util.Locale£
+†
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaO O(B*
+org.apache.log4j.LogMF"
+numberFormat"__id*
+
+%3java.text.NumberFormat*
+1*ˇ
+3L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaM- M(9£
+†
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaM- M(9
+%2java.text.NumberFormat"__id*,**
+org.apache.log4j.LogMF"
+numberFormat*
+2
+1*√
+4L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaL L(%∞
+≠
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaL L(2
+%0java.util.Locale"/java.util.Locale#getDefault()Ljava/util/Locale;*"
+java.util.Localeî
+ë
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaL L(3!
+currentLocalejava.util.Locale"__id*
+
+%0java.util.Localeù
+ö
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaM M()
+%1java.util.Locale"__id*,**
+org.apache.log4j.LogMF"
+numberLocale*
+2
+3*·
+1L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaQ Q(£
+†
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaQ Q(
+%4java.text.NumberFormat"__id*,**
+org.apache.log4j.LogMF"
+numberFormat˝˙
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaQ Q(%
+%5java.lang.String"=java.text.Format#format(Ljava/lang/Object;)Ljava/lang/String;*
+
+%4java.text.NumberFormat*
+
+njava.lang.Object2format(Ljava/lang/Object;)"h
+L
+BC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\LogMF.javaQ Q(&
+
+%5java.lang.String:
+njava.lang.ObjectB"
+org.apache.log4j.LogMF

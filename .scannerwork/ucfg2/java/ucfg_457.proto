@@ -1,0 +1,46 @@
+
+èorg.apache.log4j.jmx.AbstractDynamicMBean#preRegister(Ljavax/management/MBeanServer;Ljavax/management/ObjectName;)Ljavax/management/ObjectName;a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaì ì("1*å
+
+1a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaî î(Ì
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaî î(
+%0"Forg.apache.log4j.jmx.AbstractDynamicMBean#getLogger()L!unknownSymbol!;*-+
+)org.apache.log4j.jmx.AbstractDynamicMBean2getLogger()”
+–
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaî î(:
+%1java.lang.String"__concat*
+preRegister called. Server=*(
+&
+serverjavax.management.MBeanServerØ
+¨
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaî î(E
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+, name=…
+∆
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaî î(J
+%3java.lang.String"__concat*
+
+%2java.lang.String*%
+#
+namejavax.management.ObjectNameœ
+Ã
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javaï ï(7+
+)org.apache.log4j.jmx.AbstractDynamicMBean"
+server"__id*(
+&
+serverjavax.management.MBeanServer"ä
+a
+UC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.javañ ñ(%
+#
+namejavax.management.ObjectName:&
+serverjavax.management.MBeanServer:#
+namejavax.management.ObjectNameB-+
+)org.apache.log4j.jmx.AbstractDynamicMBean

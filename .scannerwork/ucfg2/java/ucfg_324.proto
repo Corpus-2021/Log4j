@@ -1,0 +1,18 @@
+
+@org.apache.log4j.lf5.viewer.FilteredLogTableModel#getRowCount()Ig
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java_ _("1*»
+1g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java` `(§¤
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java` `(
+%0java.util.List"Vorg.apache.log4j.lf5.viewer.FilteredLogTableModel#getFilteredRecords()Ljava/util/List;*53
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel2getFilteredRecords()¯¬
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java` `(&	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()"q
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\FilteredLogTableModel.java` `('
+""B53
+1org.apache.log4j.lf5.viewer.FilteredLogTableModel

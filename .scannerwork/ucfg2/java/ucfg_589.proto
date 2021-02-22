@@ -1,0 +1,69 @@
+
+Horg.apache.log4j.helpers.PatternParser#extractOption()Ljava/lang/String;\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java^	 ^("4"1*—
+2\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javab b(¸
+µ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javab b(
+%4java.lang.String"__id*7*5(
+&org.apache.log4j.helpers.PatternParser"	
+patternäá
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javab b()
+%5java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+%4java.lang.String*
+""*
+""2substring(II)˜
+•
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javab b(*
+rjava.lang.String"__id*
+
+%5java.lang.String"w
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javad d(
+
+
+rjava.lang.String*é
+3\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java` `(¸
+µ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java` `(
+%2java.lang.String"__id*7*5(
+&org.apache.log4j.helpers.PatternParser"	
+patternÂ¿
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java` `('	
+%3int"java.lang.String#indexOf(II)I*
+
+%2java.lang.String*
+""*
+""2indexOf(II)*
+2
+1*Þ
+4\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java_ _(&¸
+µ
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java_ _(&
+%0java.lang.String"__id*7*5(
+&org.apache.log4j.helpers.PatternParser"	
+pattern·´
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.java_ _(0
+
+%1char"java.lang.String#charAt(I)C*
+
+%0java.lang.String*
+""2	charAt(I)*
+3
+1*É
+1\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javag g("f
+\
+RC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\PatternParser.javag g(
+""B*(
+&org.apache.log4j.helpers.PatternParser

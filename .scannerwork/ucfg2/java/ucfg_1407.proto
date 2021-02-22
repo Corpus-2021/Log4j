@@ -1,0 +1,66 @@
+
+Uorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createConfigureMenu()Ljavax/swing/JMenu;d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaà à(%"1*ú
+1d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaâ$ â(/ïí
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaâ â(#
+%0javax.swing.JMenu"javax.swing.JMenu»
+≈
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaâ â(0
+%1"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
+
+%0javax.swing.JMenu*
+	ConfigureÆ
+´
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaâ â(1"
+configureMenujavax.swing.JMenu"__id*
+
+%0javax.swing.JMenuﬂ‹
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaä ä("
+
+%2void"*javax.swing.AbstractButton#setMnemonic(C)V*$
+"
+configureMenujavax.swing.JMenu*
+""2setMnemonic(C)™ß
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaã ã(+
+%3javax.swing.JMenuItem"Yorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createConfigureSave()Ljavax/swing/JMenuItem;*0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor2createConfigureSave()∞≠
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaã ã(,
+%4javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*$
+"
+configureMenujavax.swing.JMenu*
+
+%3javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)¨©
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaå å(,
+%5javax.swing.JMenuItem"Zorg.apache.log4j.lf5.viewer.LogBrokerMonitor#createConfigureReset()Ljavax/swing/JMenuItem;*0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor2createConfigureReset()∞≠
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaå å(-
+%6javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*$
+"
+configureMenujavax.swing.JMenu*
+
+%5javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)∂≥
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaç ç(1
+%7javax.swing.JMenuItem"_org.apache.log4j.lf5.viewer.LogBrokerMonitor#createConfigureMaxRecords()Ljavax/swing/JMenuItem;*0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor2createConfigureMaxRecords()∞≠
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaç ç(2
+%8javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*$
+"
+configureMenujavax.swing.JMenu*
+
+%7javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)"å
+d
+XC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogBrokerMonitor.javaè è($
+"
+configureMenujavax.swing.JMenuB0.
+,org.apache.log4j.lf5.viewer.LogBrokerMonitor

@@ -1,0 +1,410 @@
+
+*com.klopotek.utils.log.JDBCLogger#ready()ZJ
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¯ ¯("36"37"39*þ
+24J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÌ Ì(4¥
+¢
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÌ7 Ì(B
+%8java.lang.String"__id*6*4
+*
+logcol com.klopotek.utils.log.LogColumn"
+name®
+«
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÌ Ì(B
+%9java.lang.String"__concat*!
+Not ready to append ! Column *
+
+%8java.lang.StringÕ
+Ò
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÌ Ì(‰
+%10java.lang.String"__concat*
+
+%9java.lang.String*FD
+B is specified as an ID-column, and a JDBCIDHandler has to be set !¤
+¡
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÌ
+ Ì(‰1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsg"__id*
+
+%10java.lang.String"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÍ Í(
+""*¦
+35J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¸ ¸("T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¹	 ¹(
+""*ë
+13J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÜ Ü("¥
+¢
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÜ Ü("
+%17java.util.ArrayList"__id*2*0#
+!com.klopotek.utils.log.JDBCLogger"	
+logcolsÄÁ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÜ Ü()
+%18java.lang.Object",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%17java.util.ArrayList*
+""2get(I)œ
+™
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÜ Ü()*
+logcol com.klopotek.utils.log.LogColumn"__id*
+
+%18java.lang.Object*
+13
+4
+10*ú
+36J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¶	 ¶(
+š
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¶	 ¶(
+%0java.lang.String"__id*.*,#
+!com.klopotek.utils.log.JDBCLogger"
+sql*
+35
+34*Ã
+26J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ Ê(g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÊ Ê("	
+%7int"__id*
+""*
+24
+23*å
+37J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java³  ³(P¼
+¹
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java³ ³(P1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsg"__id*20
+.Not ready to append ! Call configure() first !"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java³R ³(_
+""*ó
+27J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(4¥
+¢
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ7 Ç(B
+%4java.lang.String"__id*6*4
+*
+logcol com.klopotek.utils.log.LogColumn"
+name®
+«
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(B
+%5java.lang.String"__concat*!
+Not ready to append ! Column *
+
+%4java.lang.StringË
+È
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ Ç(€
+%6java.lang.String"__concat*
+
+%5java.lang.String*=;
+9 is not nullable, and must be specified by setLogType() !£
+ 
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÇ
+ Ç(€1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsg"__id*
+
+%6java.lang.String"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÈ È(
+""*¦
+16J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java×! ×(&"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java× ×('
+""*Ã
+28J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÅ Å( g
+e
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÅ, Å(9	
+%3int"__id*
+""*
+26
+27*¦
+39J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java± ±("T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java± ±(
+""*¥
+1J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaô
+ ô("T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaö ö(
+""*ö
+2J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(VŸ
+œ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(V+#
+!com.klopotek.utils.log.JDBCLogger"
+rs"__id*
+
+%33java.sql.ResultSet*
+1*Ú
+4J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(¡
+ž
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(
+%26java.sql.Statement"__id*/*-#
+!com.klopotek.utils.log.JDBCLogger"
+stmt¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì& ì(1
+%27java.lang.String"__id*6*4#
+!com.klopotek.utils.log.JDBCLogger"
+column_listš
+—
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(1
+%28java.lang.String"__concat*	
+SELECT *
+
+%27java.lang.String™
+–
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(<
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+
+ FROM  
+
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì? ì(D
+%30java.lang.String"__id*0*.#
+!com.klopotek.utils.log.JDBCLogger"
+table¨
+¥
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(D
+%31java.lang.String"__concat*
+
+%29java.lang.String*
+
+%30java.lang.StringŸ
+œ
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(U
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+ WHERE 1 = 2Š
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaì ì(V
+%33java.sql.ResultSet"Gjava.sql.Statement#executeQuery(Ljava/lang/String;)Ljava/sql/ResultSet;*
+
+%26java.sql.Statement*
+
+%32java.lang.String2 executeQuery(Ljava/lang/String;)*
+2*ò
+7J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ æ(¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ' æ(2
+%22java.lang.String"__id*6*4
+*
+logcol com.klopotek.utils.log.LogColumn"
+name•
+’
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ  æ(2
+%23java.lang.String"__concat*
+, *
+
+%22java.lang.String¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ æ(
+%24java.lang.String"__id*6*4#
+!com.klopotek.utils.log.JDBCLogger"
+column_list–
+“
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ æ(2
+%25"__concat*
+
+%24java.lang.String*
+
+%23java.lang.String”
+‘
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaæ æ(24#
+!com.klopotek.utils.log.JDBCLogger"
+column_list"__id*
+
+%25*
+13
+4*ª
+8J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaä ä(!¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaä ä(&
+%21java.lang.String"__id*6*4
+*
+logcol com.klopotek.utils.log.LogColumn"
+name¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaä ä(&4#
+!com.klopotek.utils.log.JDBCLogger"
+column_list"__id*
+
+%21java.lang.String*
+13
+4*€
+9J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaâ â(¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaâ â(
+%20java.lang.String"__id*6*4#
+!com.klopotek.utils.log.JDBCLogger"
+column_list*
+7
+8*Ë
+20J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÔ Ô(h
+f
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÔ# Ô(.
+
+%16int"__id*
+""*
+13
+4
+16
+32*ó
+32J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÂ Â("¤
+¡
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÂ Â("
+%1java.util.ArrayList"__id*2*0#
+!com.klopotek.utils.log.JDBCLogger"	
+logcolsÂ¿
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÂ Â()
+%2java.lang.Object",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%1java.util.ArrayList*
+""2get(I)›
+˜
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÂ Â()*
+logcol com.klopotek.utils.log.LogColumn"__id*
+
+%2java.lang.Object*
+13
+26
+4
+16
+28
+32*Æ
+10J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaà à(h
+f
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaà à(+
+
+%19int"__id*
+""*
+
+13
+4
+9*ü
+21J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÑ Ñ(4¦
+£
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÑ7 Ñ(B
+%13java.lang.String"__id*6*4
+*
+logcol com.klopotek.utils.log.LogColumn"
+name°
+­
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÑ Ñ(B
+%14java.lang.String"__concat*!
+Not ready to append ! Column *
+
+%13java.lang.StringÐ
+Í
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÑ Ñ(ƒ
+%15java.lang.String"__concat*
+
+%14java.lang.String*@>
+< is specified as a static field, and a value has to be set !¤
+¡
+K
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÑ
+ Ñ(ƒ1#
+!com.klopotek.utils.log.JDBCLogger"
+
+errormsg"__id*
+
+%15java.lang.String"T
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÒ Ò(
+""*„
+22J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÏ/ Ï(5§
+¤
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÏ/ Ï(;
+%12java.lang.Object"__id*7*5
+*
+logcol com.klopotek.utils.log.LogColumn"
+value*
+20
+21*Ä
+23J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÏ Ï(h
+f
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.javaÏ Ï(+
+
+%11int"__id*
+""*
+20
+22*í
+34J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¼ ¼( ‰
+†
+J
+>C:\q\apache-log4j-1.2.16\contribs\ThomasFenner\JDBCLogger.java¾ ¾(*
+logcol com.klopotek.utils.log.LogColumn"__id*
+""*
+13
+4
+16
+32B%#
+!com.klopotek.utils.log.JDBCLogger

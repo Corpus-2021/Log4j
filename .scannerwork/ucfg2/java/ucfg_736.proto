@@ -1,0 +1,46 @@
+
+7org.apache.log4j.NDC#getCurrentStack()Ljava/util/Stack;L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java… …(&"3*ƒ
+2L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡ ‡(”
+‘
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡ ‡(
+%1java.util.Hashtable"__id* *
+org.apache.log4j.NDC"
+ht³
+°
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡  ‡(6
+%2java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Threadøõ
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡ ‡(7
+%3java.lang.Object"=java.util.Hashtable#get(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Hashtable*
+
+%2java.lang.Thread2get(Ljava/lang/Object;)"h
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‡
+ ‡(8
+
+%3java.lang.Object*ð
+3L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java†
+ †(”
+‘
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java†
+ †(
+%0java.util.Hashtable"__id* *
+org.apache.log4j.NDC"
+ht*
+2
+1*©
+1L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‰ ‰("V
+L
+@C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\NDC.java‰ ‰(
+""B"
+org.apache.log4j.NDC

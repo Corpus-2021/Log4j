@@ -1,0 +1,171 @@
+
+Vorg.apache.log4j.or.jms.MessageRenderer#doRender(Ljava/lang/Object;)Ljava/lang/String;]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java+
+ +("39"1*à
+24]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java@ @(úô
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java@ @(
+%8java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, Expiration=2append(Ljava/lang/String;)*
+21*Ö
+35]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java5 5(ôñ
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java6 6(
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+PERSISTENT2append(Ljava/lang/String;)*
+30*â
+37]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java2 2(ùö
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java3 3( 
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+NON_PERSISTENT2append(Ljava/lang/String;)*
+30*ä
+15]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaI I(ûõ
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaI I(
+%11java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, Redelivered=2append(Ljava/lang/String;)*
+12*â
+27]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java= =(ùö
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java= =(
+%7java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, Destination=2append(Ljava/lang/String;)*
+24*ê
+38]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java0 0(úô
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java0 0(
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+DeliveryMode=2append(Ljava/lang/String;)*
+35
+37
+33*‹
+39]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java- -(,òï
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java- -(*
+%0java.lang.StringBuffer"java.lang.StringBuffer™
+ß
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java- -(,
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer®
+•
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java- -(-
+sbufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer*
+38*á
+18]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaF F(õò
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaF F(
+%10java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, Priority=2append(Ljava/lang/String;)*
+15*∞
+1]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaa a(œÃ
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaa a(
+%16java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+ojava.lang.Object2
+toString()"z
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaa a(
+
+%16java.lang.String*ø
+2]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java_ _(ﬁ€
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java_ _(
+%15java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+sbufjava.lang.StringBuffer2
+toString()"z
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java_ _(
+
+%15java.lang.String*Å
+6]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaR R(óî
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaR R(
+%14java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*	
+, Type=2append(Ljava/lang/String;)*
+2*Ü
+9]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaO O(úô
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaO O(
+%13java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, Timestamp=2append(Ljava/lang/String;)*
+6*ã
+30]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java: :(üú
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java: :( 
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, CorrelationID=2append(Ljava/lang/String;)*
+27*á
+21]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaC C(õò
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaC C(
+%9java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+, MessageID=2append(Ljava/lang/String;)*
+18*Ç
+33]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java8
+ 8(ñì
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java8
+ 8( 
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*	
+UNKNOWN2append(Ljava/lang/String;)*
+30*Ö
+12]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaL L(öó
+]
+SC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\or\jms\MessageRenderer.javaL L(
+%12java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+sbufjava.lang.StringBuffer*
+
+, ReplyTo=2append(Ljava/lang/String;)*
+9:
+ojava.lang.ObjectB+)
+'org.apache.log4j.or.jms.MessageRenderer

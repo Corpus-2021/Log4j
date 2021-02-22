@@ -1,0 +1,60 @@
+
+horg.apache.log4j.lf5.util.DateFormatManager#format(Ljava/util/Date;Ljava/lang/String;)Ljava/lang/String;c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.java¿ ¿("3*—
+2c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÃ& Ã(/ÞÛ
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÃ& Ã(7
+%1java.lang.Object".java.text.DateFormat#clone()Ljava/lang/Object;*#
+!
+	formatterjava.text.DateFormat2clone()«
+¨
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÃ Ã(8!
+	formatterjava.text.DateFormat"__id*
+
+%1java.lang.Object˜•
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÄ Ä(:
+
+%2void"<java.text.SimpleDateFormat#applyPattern(Ljava/lang/String;)V*#
+!
+	formatterjava.text.DateFormat*
+
+patternjava.lang.String2 applyPattern(Ljava/lang/String;)*
+1*ê
+3c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÀ À(™
+–
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÀ À( !
+	formatterjava.text.DateFormat"__id*
+""©¦
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÁ Á('
+%0java.text.DateFormat"Yorg.apache.log4j.lf5.util.DateFormatManager#getDateFormatInstance()Ljava/text/DateFormat;*/-
++org.apache.log4j.lf5.util.DateFormatManager2getDateFormatInstance()¯
+¬
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÁ Á('!
+	formatterjava.text.DateFormat"__id*
+
+%0java.text.DateFormat*
+2
+1*†
+1c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÆ Æ(š—
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÆ Æ(!
+%3java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*#
+!
+	formatterjava.text.DateFormat*
+
+datejava.util.Date2format(Ljava/util/Date;)"
+c
+WC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\util\DateFormatManager.javaÆ Æ("
+
+%3java.lang.String:
+datejava.util.Date:
+patternjava.lang.StringB/-
++org.apache.log4j.lf5.util.DateFormatManager

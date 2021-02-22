@@ -1,0 +1,57 @@
+
+Norg.apache.log4j.pattern.LogEvent#getMDC(Ljava/lang/String;)Ljava/lang/Object;Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.java¾	 ¾("4*Ô
+2Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÅ Å("t
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÅ Å(
+
+rjava.lang.Object*½
+3Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÃ
+ Ã(³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÃ
+ Ã(
+%1java.util.Hashtable"__id*2*0#
+!org.apache.log4j.pattern.LogEvent"	
+mdcCopy†ƒ
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÃ
+ Ã(
+%2java.lang.Object"=java.util.Hashtable#get(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Hashtable*
+
+keyjava.lang.String2get(Ljava/lang/Object;)•
+’
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÃ Ã(
+rjava.lang.Object"__id*
+
+%2java.lang.Object*
+2
+1*¢
+4Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.java¿ ¿(ƒ
+€
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.java¿ ¿(
+rjava.lang.Object"__id*
+""³
+°
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÂ Â(
+%0java.util.Hashtable"__id*2*0#
+!org.apache.log4j.pattern.LogEvent"	
+mdcCopy*
+3
+1*Ã
+1Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÈ È("c
+Y
+MC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\pattern\LogEvent.javaÈ È(
+"":
+keyjava.lang.StringB%#
+!org.apache.log4j.pattern.LogEvent

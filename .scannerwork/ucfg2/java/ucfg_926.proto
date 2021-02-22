@@ -1,0 +1,19 @@
+
+^org.apache.log4j.helpers.Loader#getResource(Ljava/lang/String;Ljava/lang/Class;)Ljava/net/URL;U
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.java@ @("1*Î
+1U
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.javaA A(‚
+ÿ
+U
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.javaA A("
+%0java.net.URL"Morg.apache.log4j.helpers.Loader#getResource(Ljava/lang/String;)Ljava/net/URL;*#"!
+org.apache.log4j.helpers.Loader*
+
+resourcejava.lang.String"m
+U
+KC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\helpers\Loader.javaA A(#
+
+%0java.net.URL:
+resourcejava.lang.String:
+clazzjava.lang.ClassB#"!
+org.apache.log4j.helpers.Loader

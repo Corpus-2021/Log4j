@@ -1,0 +1,16 @@
+
+horg.apache.log4j.lf5.viewer.configure.MRUFileManager#getInputStream(Ljava/net/URL;)Ljava/io/InputStream;l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÚ Ú(&"1*ã
+1l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÛ Û(áÞ
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÛ Û(
+%0java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
+
+urljava.net.URL2openStream()"‹
+l
+`C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\configure\MRUFileManager.javaÛ Û(
+
+%0java.io.InputStream:
+urljava.net.URLB86
+4org.apache.log4j.lf5.viewer.configure.MRUFileManager

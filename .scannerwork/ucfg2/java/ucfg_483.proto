@@ -1,0 +1,70 @@
+
+gorg.apache.log4j.xml.DOMConfigurator$2#parse(Ljavax/xml/parsers/DocumentBuilder;)Lorg/w3c/dom/Document;\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaú ú("1*Ú
+1\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaû$ û('ĞÍ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaû$ û(8
+%0java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+""2openConnection()¨
+¥
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaû û(9
+uConnjava.net.URLConnection"__id*
+
+%0java.net.URLConnectionÒÏ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaü ü('
+
+%1void"'java.net.URLConnection#setUseCaches(Z)V*!
+
+uConnjava.net.URLConnection*
+""2setUseCaches(Z)ïì
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaı0 ı(F
+%2java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*!
+
+uConnjava.net.URLConnection2getInputStream()™–
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaı$ ı(/
+%3org.xml.sax.InputSource"org.xml.sax.InputSourceİ
+Ú
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaı  ı(G
+%4"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
+
+%3org.xml.sax.InputSource*
+
+%2java.io.InputStream¨
+¥
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaı ı(H
+srcorg.xml.sax.InputSource"__id*
+
+%3org.xml.sax.InputSource¸µ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaş ş(,
+%5java.lang.String")java.net.URL#toString()Ljava/lang/String;*
+""2
+toString()„
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaş ş(-
+
+%6void"8org.xml.sax.InputSource#setSystemId(Ljava/lang/String;)V* 
+
+srcorg.xml.sax.InputSource*
+
+%5java.lang.String2setSystemId(Ljava/lang/String;)ÊÇ
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ(&
+%7org.w3c.dom.Document"Xjavax.xml.parsers.DocumentBuilder#parse(Lorg/xml/sax/InputSource;)Lorg/w3c/dom/Document;*-
++
+parser!javax.xml.parsers.DocumentBuilder* 
+
+srcorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)"|
+\
+PC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\xml\DOMConfigurator.javaÿ ÿ('
+
+%7org.w3c.dom.Document:+
+parser!javax.xml.parsers.DocumentBuilderB*(
+&org.apache.log4j.xml.DOMConfigurator$2

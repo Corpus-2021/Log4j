@@ -1,0 +1,25 @@
+
+qorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryImmediateEditor#canEditImmediately(Ljava/util/EventObject;)Zz
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.javat t(&"2"1*ó
+2z
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.javax# x($Ä
+Á
+z
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.javax x(%
+mejava.awt.event.MouseEvent"__id*
+
+ejava.util.EventObject¥¢
+z
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.javay y("
+%0boolean"vorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryImmediateEditor#inCheckBoxHitRegion(Ljava/awt/event/MouseEvent;)Z*HF
+Dorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryImmediateEditor*!
+
+mejava.awt.event.MouseEvent20inCheckBoxHitRegion(Ljava/awt/event/MouseEvent;)*
+1*†
+1z
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.java| |("„
+z
+pC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryImmediateEditor.java| |(
+"":
+ejava.util.EventObjectBHF
+Dorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryImmediateEditor

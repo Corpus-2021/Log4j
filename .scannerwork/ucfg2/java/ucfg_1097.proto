@@ -1,0 +1,59 @@
+
+Forg.apache.log4j.gui.TextPaneAppender#setFontName(Ljava/lang/String;)VS
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÎ Î("4*à
+2S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÑ Ñ(ÔÑ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÑ8 Ñ(G
+%3java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+ejava.util.Enumeration2nextElement()©
+¦
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÑ Ñ(M
+
+%4void"hjavax.swing.text.StyleConstants#setFontFamily(Ljavax/swing/text/MutableAttributeSet;Ljava/lang/String;)V*#"!
+javax.swing.text.StyleConstants*
+
+%3java.lang.Object*
+
+namejava.lang.String*
+3*¥
+3S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÐ Ð(Â¿
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÐ Ð(
+%2boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+ejava.util.Enumeration2hasMoreElements()*
+2
+1*ˆ
+4S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÏ Ï(´
+±
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÏ Ï(
+%0java.util.Hashtable"__id*9*7'
+%org.apache.log4j.gui.TextPaneAppender"
+
+attributesÕÒ
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÏ Ï()
+%1java.util.Enumeration"5java.util.Hashtable#elements()Ljava/util/Enumeration;*
+
+%0java.util.Hashtable2
+elements()™
+–
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÏ Ï(*
+ejava.util.Enumeration"__id*
+
+%1java.util.Enumeration*
+3*·
+1S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÓ Ó("]
+S
+GC:\q\apache-log4j-1.2.16\contribs\SvenReimers\gui\TextPaneAppender.javaÓ Ó(
+"":
+namejava.lang.StringB)'
+%org.apache.log4j.gui.TextPaneAppender

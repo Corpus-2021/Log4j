@@ -1,0 +1,21 @@
+
+org.apache.log4j.lf5.viewer.categoryexplorer.CategoryExplorerTree#getToolTipText(Ljava/awt/event/MouseEvent;)Ljava/lang/String;w
+mC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryExplorerTree.javaY Y("3*í
+2w
+mC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryExplorerTree.java\ \(%"ì
+w
+mC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryExplorerTree.java\ \(%
+
+%0java.lang.String*ì
+3w
+mC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryExplorerTree.java\ \(è
+å
+w
+mC:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\categoryexplorer\CategoryExplorerTree.java\ \($
+%0java.lang.String"Ojavax.swing.JTree#getToolTipText(Ljava/awt/event/MouseEvent;)Ljava/lang/String;*
+""* 
+
+ejava.awt.event.MouseEvent*
+2:
+ejava.awt.event.MouseEventBEC
+Aorg.apache.log4j.lf5.viewer.categoryexplorer.CategoryExplorerTree

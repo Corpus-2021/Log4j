@@ -1,0 +1,51 @@
+
+Morg.apache.log4j.lf5.viewer.LogFactor5InputDialog#getText()Ljava/lang/String;g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java{ {("4*ﬂ
+2g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java ("q
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java (
+""*Å
+3g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java~ ~(–Õ
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java~ ~(
+%2java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+sjava.lang.String2trim()∑¥
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java~ ~(&	
+%3int"java.lang.String#length()I*
+
+%2java.lang.String2length()*
+2
+1*„
+4g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java| |(◊
+‘
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java| |(
+%0javax.swing.JTextField"__id*E*C3
+1org.apache.log4j.lf5.viewer.LogFactor5InputDialog"
+
+_textFieldÏÈ
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java| |(#
+%1java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%0javax.swing.JTextField2	getText()£
+†
+g
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.java| |($
+sjava.lang.String"__id*
+
+%1java.lang.String*
+3
+1*ı
+1i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.javaÇ Ç("Ñ
+i
+]C:\q\apache-log4j-1.2.16\src\main\java\org\apache\log4j\lf5\viewer\LogFactor5InputDialog.javaÇ Ç(
+
+sjava.lang.StringB53
+1org.apache.log4j.lf5.viewer.LogFactor5InputDialog
